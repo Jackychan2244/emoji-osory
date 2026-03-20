@@ -51,6 +51,6 @@ Responsibilities:
 6. The browser probe measures sentinels locally.
 7. The analysis core scores the result and returns a probability distribution.
 
-## Archived material
+## Historical material
 
-The old Node HTTP runtime is preserved under `archive/legacy-node-runtime/`. It is historical context, not the public architecture.
+Legacy experiments and earlier runtime implementations are kept out of the published repository. They are not part of the public architecture or support surface.

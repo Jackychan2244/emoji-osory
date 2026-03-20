@@ -1,6 +1,0 @@
-    "os_version": "iOS_9.1",
-    "release_date": "31 March 2025",
-    "emoji_versions_mentioned": [],
-    "max_emoji_version": null,
-    "emojis_found": 51,
-    "emojis": [

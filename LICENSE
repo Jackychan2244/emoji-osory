@@ -1,21 +1,47 @@
-MIT License
+Copyright (c) 2026 jackychan2244
 
-Copyright (c) 2026 Jackychan2244
+For commercial licensing inquiries, contact: jacksolet1@proton.me
+GitHub: https://github.com/Jackychan2244
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software and associated documentation files (the "Software"), to use,
+copy, modify, and distribute the Software, in source or binary form, for
+non-commercial purposes only, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. The above copyright notice and this license shall be included in all copies
+   or substantial portions of the Software.
+
+2. Any modified version of the Software that is distributed must clearly state
+   that changes were made and must not imply that the modified version is the
+   original Software.
+
+3. You may not remove, alter, or obscure any copyright, attribution, license,
+   or other proprietary notices in the Software.
+
+4. You may not distribute the Software under different terms or grant any
+   rights beyond those provided in this license.
+
+5. You may not use, sell, license, rent, lease, sublicense, offer as a
+   service, incorporate into a commercial product or service, or otherwise
+   exploit the Software for commercial purposes without prior written
+   permission from the copyright holder.
+
+6. No trademark, trade name, logo, or branding rights are granted under this
+   license.
+
+For purposes of this license, "commercial purposes" means any use primarily
+intended for or directed toward commercial advantage or private monetary
+compensation, or use in connection with a product or service offered for a fee,
+subscription, revenue, business operations, client work, or other commercial
+activity.
+
+Any rights not expressly granted by this license are reserved. Any breach of
+this license automatically terminates the rights granted under it.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.

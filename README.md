@@ -61,7 +61,6 @@ Primary interfaces:
 
 ```text
 .
-├── archive/               # Legacy server runtime, old docs, experiments, and logs
 ├── data/                  # Committed datasets and raw Unicode source files
 ├── demo/                  # Static demo application
 ├── docs/                  # Architecture and usage documentation
@@ -117,4 +116,4 @@ npm run verify
 
 ## License
 
-MIT. See `LICENSE`.
+The project is released under the repository `LICENSE`, which permits non-commercial use and requires separate permission for commercial use.
