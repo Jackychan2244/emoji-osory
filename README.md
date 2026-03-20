@@ -6,7 +6,7 @@ The public package exposes a browser-safe analysis core and a browser probe. The
 
 ## In-Depth
 
-This technique works by testing which emojis a browser can successfully render versus which ones display as blank boxes (tofu). 
+This technique works by testing which emojis a browser can successfully render versus which ones display as blank boxes (Tofu). 
 Different operating systems adopt new Unicode emoji versions at different times, iOS 16 supports Unicode 15.0, while iOS 15 only supports 14.0, for example. By testing sentinel emojis from each Unicode version, we can determine the maximum emoji version the system supports, which gives us a list of possible OS candidates. We then maybe score these candidates using additional signals like font family detection (Apple Color Emoji vs Noto Color Emoji vs Segoe UI Emoji), glyph size measurements (Apple renders at ~32px, Noto at ~28px), and user agent correlation (even if weak as a signal on its own, and even if its prone to being spoofed). Each signal adds or subtracts points from candidates until one comes up with the highest score. The output is a probability distribution rather than a binary answer, like "87% iOS 15.4, 9% macOS 12, 4% Android 13”, alone this might not be as great but in a larger system this could serve as one weighted signal among many in a larger fingerprinting vector database.
 
 ## Demo
