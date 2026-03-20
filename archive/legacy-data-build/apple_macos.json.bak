@@ -1,0 +1,47 @@
+[
+  {
+    "url": "https://emojipedia.org/apple/macos-10.12.2",
+    "new_url": "https://emojipedia.org/apple/macos-10.12.2/new",
+    "vendor": "apple_macos",
+    "os_version": "macOS_10.12.2",
+    "release_date": null,
+    "emoji_versions_mentioned": [],
+    "max_emoji_version": null,
+    "emojis_found": 0,
+    "emojis": [],
+    "unresolved_count": 0,
+    "error": "NO_EMOJI_LINKS_FOUND",
+    "scrape_status": "failed",
+    "scraped_at": "2026-01-01T17:27:06.822Z"
+  },
+  {
+    "url": "https://emojipedia.org/apple/macos-10.13",
+    "new_url": "https://emojipedia.org/apple/macos-10.13/new",
+    "vendor": "apple_macos",
+    "os_version": "macOS_10.13",
+    "release_date": null,
+    "emoji_versions_mentioned": [],
+    "max_emoji_version": null,
+    "emojis_found": 0,
+    "emojis": [],
+    "unresolved_count": 0,
+    "error": "NO_EMOJI_LINKS_FOUND",
+    "scrape_status": "failed",
+    "scraped_at": "2026-01-01T17:27:46.704Z"
+  },
+  {
+    "url": "https://emojipedia.org/apple/macos-11.1",
+    "new_url": "https://emojipedia.org/apple/macos-11.1/new",
+    "vendor": "apple_macos",
+    "os_version": "macOS_11.1",
+    "release_date": null,
+    "emoji_versions_mentioned": [],
+    "max_emoji_version": null,
+    "emojis_found": 0,
+    "emojis": [],
+    "unresolved_count": 0,
+    "error": "NO_EMOJI_LINKS_FOUND",
+    "scrape_status": "failed",
+    "scraped_at": "2026-01-01T17:28:24.655Z"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "iOS_18.4": {
+    "url": "https://emojipedia.org/apple/ios-18.4",
+    "new_url": "https://emojipedia.org/apple/ios-18.4/new",
+    "scraped_at": "2026-01-01T12:57:07.246Z",
+    "unresolved": [
+      {
+        "href_path": "/apple/ios-18.4/face-with-bags-under-eyes",
+        "slug": "face-with-bags-under-eyes",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Face With Bags Under Eyes on Apple iOS 18.4",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/apple/419/face-with-bags-under-eyes_1fae9.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/apple/419/face-with-bags-under-eyes_1fae9.webp\")"
+      },
+      {
+        "href_path": "/apple/ios-18.4/fingerprint",
+        "slug": "fingerprint",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Fingerprint on Apple iOS 18.4",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/apple/419/fingerprint_1fac6.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/apple/419/fingerprint_1fac6.webp\")"
+      },
+      {
+        "href_path": "/apple/ios-18.4/flag-sark",
+        "slug": "flag-sark",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Flag Sark on Apple iOS 18.4",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/apple/419/flag-sark_1f1e8-1f1f6.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/apple/419/flag-sark_1f1e8-1f1f6.webp\")"
+      }
+    ]
+  }
+}

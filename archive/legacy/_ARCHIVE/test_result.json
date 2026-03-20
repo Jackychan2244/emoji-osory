@@ -1,0 +1,163 @@
+{
+  "success": true,
+  "session_id": "verify_session_1",
+  "analysis": {
+    "unicode_version": {
+      "version": "15.0",
+      "confidence": 1,
+      "method": "sentinel_full_match"
+    },
+    "emoji_profile": {
+      "versions": {
+        "9.0": {
+          "passed": 0,
+          "failed": 0,
+          "unknown": 10,
+          "total": 0,
+          "pass_ratio": null
+        },
+        "10.0": {
+          "passed": 0,
+          "failed": 0,
+          "unknown": 10,
+          "total": 0,
+          "pass_ratio": null
+        },
+        "11.0": {
+          "passed": 0,
+          "failed": 0,
+          "unknown": 10,
+          "total": 0,
+          "pass_ratio": null
+        },
+        "12.0": {
+          "passed": 0,
+          "failed": 0,
+          "unknown": 10,
+          "total": 0,
+          "pass_ratio": null
+        },
+        "12.1": {
+          "passed": 0,
+          "failed": 0,
+          "unknown": 0,
+          "total": 0,
+          "pass_ratio": null
+        },
+        "13.0": {
+          "passed": 0,
+          "failed": 0,
+          "unknown": 10,
+          "total": 0,
+          "pass_ratio": null
+        },
+        "13.1": {
+          "passed": 0,
+          "failed": 0,
+          "unknown": 0,
+          "total": 0,
+          "pass_ratio": null
+        },
+        "14.0": {
+          "passed": 1,
+          "failed": 0,
+          "unknown": 9,
+          "total": 1,
+          "pass_ratio": 1
+        },
+        "15.0": {
+          "passed": 1,
+          "failed": 0,
+          "unknown": 9,
+          "total": 1,
+          "pass_ratio": 1
+        },
+        "15.1": {
+          "passed": 0,
+          "failed": 0,
+          "unknown": 0,
+          "total": 0,
+          "pass_ratio": null
+        }
+      },
+      "totals": {
+        "passed": 2,
+        "failed": 0,
+        "unknown": 68,
+        "total": 2
+      }
+    },
+    "candidates": [
+      {
+        "vendor": "apple_ios",
+        "os_version": "iOS_16.4",
+        "max_emoji_version": "15.0",
+        "release_date": "2023-03-27",
+        "score": 100,
+        "signals": {
+          "emoji_profile_accuracy": 1,
+          "emoji_profile_mismatches": 0,
+          "emoji_profile_evaluated": 2
+        },
+        "probability": 0.25
+      },
+      {
+        "vendor": "google_android",
+        "os_version": "Android_13.0",
+        "max_emoji_version": "15.0",
+        "release_date": "2022-08-15",
+        "score": 100,
+        "signals": {
+          "emoji_profile_accuracy": 1,
+          "emoji_profile_mismatches": 0,
+          "emoji_profile_evaluated": 2
+        },
+        "probability": 0.25
+      },
+      {
+        "vendor": "google_noto",
+        "os_version": "Noto_2023",
+        "max_emoji_version": "15.0",
+        "release_date": null,
+        "score": 100,
+        "signals": {
+          "emoji_profile_accuracy": 1,
+          "emoji_profile_mismatches": 0,
+          "emoji_profile_evaluated": 2
+        },
+        "probability": 0.25
+      },
+      {
+        "vendor": "google_noto",
+        "os_version": "Noto_2024",
+        "max_emoji_version": "15.1",
+        "release_date": null,
+        "score": 100,
+        "signals": {
+          "emoji_profile_accuracy": 1,
+          "emoji_profile_mismatches": 0,
+          "emoji_profile_evaluated": 2
+        },
+        "probability": 0.25
+      }
+    ],
+    "top_match": {
+      "vendor": "apple_ios",
+      "os_version": "iOS_16.4",
+      "max_emoji_version": "15.0",
+      "probability": 0.25,
+      "score": 100,
+      "signals": {
+        "emoji_profile_accuracy": 1,
+        "emoji_profile_mismatches": 0,
+        "emoji_profile_evaluated": 2
+      }
+    },
+    "confidence": 0.25,
+    "diagnostics": {
+      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 16_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.4 Mobile/15E148 Safari/604.1",
+      "canvas_blocked": false
+    },
+    "timestamp": "2024-01-01T12:00:00Z"
+  }
+}

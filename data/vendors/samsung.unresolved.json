@@ -1,0 +1,722 @@
+{
+  "TouchWiz_7.1": {
+    "url": "https://emojipedia.org/samsung/touchwiz-7.1",
+    "new_url": "https://emojipedia.org/samsung/touchwiz-7.1/new",
+    "scraped_at": "2026-01-01T12:59:40.166Z",
+    "unresolved": [
+      {
+        "href_path": "/samsung/touchwiz-7.1/removed",
+        "slug": "removed",
+        "reason": "UNRESOLVED",
+        "text": "Removed",
+        "title": null,
+        "aria": null,
+        "imgAlt": null,
+        "dataSrc": null,
+        "bgImage": null
+      },
+      {
+        "href_path": "/samsung/touchwiz-7.1/left-writing-hand-light-skin-tone",
+        "slug": "left-writing-hand-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Left Writing Hand Light Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/78/left-writing-hand_emoji-modifier-fitzpatrick-type-1-2_1f58e-1f3fb_1f3fb.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/78/left-writing-hand_emoji-modifier-fitzpatrick-type-1-2_1f58e-1f3fb_1f3fb.webp\")"
+      },
+      {
+        "href_path": "/samsung/touchwiz-7.1/left-writing-hand-medium-light-skin-tone",
+        "slug": "left-writing-hand-medium-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Left Writing Hand Medium Light Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/78/left-writing-hand_emoji-modifier-fitzpatrick-type-3_1f58e-1f3fc_1f3fc.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/78/left-writing-hand_emoji-modifier-fitzpatrick-type-3_1f58e-1f3fc_1f3fc.webp\")"
+      },
+      {
+        "href_path": "/samsung/touchwiz-7.1/left-writing-hand-medium-skin-tone",
+        "slug": "left-writing-hand-medium-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Left Writing Hand Medium Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/78/left-writing-hand_emoji-modifier-fitzpatrick-type-4_1f58e-1f3fd_1f3fd.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/78/left-writing-hand_emoji-modifier-fitzpatrick-type-4_1f58e-1f3fd_1f3fd.webp\")"
+      },
+      {
+        "href_path": "/samsung/touchwiz-7.1/left-writing-hand-medium-dark-skin-tone",
+        "slug": "left-writing-hand-medium-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Left Writing Hand Medium Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/78/left-writing-hand_emoji-modifier-fitzpatrick-type-5_1f58e-1f3fe_1f3fe.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/78/left-writing-hand_emoji-modifier-fitzpatrick-type-5_1f58e-1f3fe_1f3fe.webp\")"
+      },
+      {
+        "href_path": "/samsung/touchwiz-7.1/left-writing-hand-dark-skin-tone",
+        "slug": "left-writing-hand-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Left Writing Hand Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/78/left-writing-hand_emoji-modifier-fitzpatrick-type-6_1f58e-1f3ff_1f3ff.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/78/left-writing-hand_emoji-modifier-fitzpatrick-type-6_1f58e-1f3ff_1f3ff.webp\")"
+      },
+      {
+        "href_path": "/samsung/touchwiz-7.1/reversed-raised-hand-with-fingers-splayed-light-skin-tone",
+        "slug": "reversed-raised-hand-with-fingers-splayed-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Reversed Raised Hand With Fingers Splayed Light Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/78/reversed-raised-hand-with-fingers-splayed_emoji-modifier-fitzpatrick-type-1-2_1f591-1f3fb_1f3fb.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/78/reversed-raised-hand-with-fingers-splayed_emoji-modifier-fitzpatrick-type-1-2_1f591-1f3fb_1f3fb.webp\")"
+      },
+      {
+        "href_path": "/samsung/touchwiz-7.1/reversed-raised-hand-with-fingers-splayed-medium-light-skin-tone",
+        "slug": "reversed-raised-hand-with-fingers-splayed-medium-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Reversed Raised Hand With Fingers Splayed Medium Light Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/78/reversed-raised-hand-with-fingers-splayed_emoji-modifier-fitzpatrick-type-3_1f591-1f3fc_1f3fc.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/78/reversed-raised-hand-with-fingers-splayed_emoji-modifier-fitzpatrick-type-3_1f591-1f3fc_1f3fc.webp\")"
+      },
+      {
+        "href_path": "/samsung/touchwiz-7.1/reversed-raised-hand-with-fingers-splayed-medium-skin-tone",
+        "slug": "reversed-raised-hand-with-fingers-splayed-medium-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Reversed Raised Hand With Fingers Splayed Medium Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/78/reversed-raised-hand-with-fingers-splayed_emoji-modifier-fitzpatrick-type-4_1f591-1f3fd_1f3fd.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/78/reversed-raised-hand-with-fingers-splayed_emoji-modifier-fitzpatrick-type-4_1f591-1f3fd_1f3fd.webp\")"
+      },
+      {
+        "href_path": "/samsung/touchwiz-7.1/reversed-raised-hand-with-fingers-splayed-medium-dark-skin-tone",
+        "slug": "reversed-raised-hand-with-fingers-splayed-medium-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Reversed Raised Hand With Fingers Splayed Medium Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/78/reversed-raised-hand-with-fingers-splayed_emoji-modifier-fitzpatrick-type-5_1f591-1f3fe_1f3fe.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/78/reversed-raised-hand-with-fingers-splayed_emoji-modifier-fitzpatrick-type-5_1f591-1f3fe_1f3fe.webp\")"
+      },
+      {
+        "href_path": "/samsung/touchwiz-7.1/reversed-raised-hand-with-fingers-splayed-dark-skin-tone",
+        "slug": "reversed-raised-hand-with-fingers-splayed-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Reversed Raised Hand With Fingers Splayed Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/78/reversed-raised-hand-with-fingers-splayed_emoji-modifier-fitzpatrick-type-6_1f591-1f3ff_1f3ff.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/78/reversed-raised-hand-with-fingers-splayed_emoji-modifier-fitzpatrick-type-6_1f591-1f3ff_1f3ff.webp\")"
+      },
+      {
+        "href_path": "/samsung/touchwiz-7.1/reversed-thumbs-up-sign-medium-light-skin-tone",
+        "slug": "reversed-thumbs-up-sign-medium-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Reversed Thumbs Up Sign Medium Light Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/78/reversed-thumbs-up-sign_emoji-modifier-fitzpatrick-type-3_1f592-1f3fc_1f3fc.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/78/reversed-thumbs-up-sign_emoji-modifier-fitzpatrick-type-3_1f592-1f3fc_1f3fc.webp\")"
+      },
+      {
+        "href_path": "/samsung/touchwiz-7.1/reversed-thumbs-up-sign-medium-skin-tone",
+        "slug": "reversed-thumbs-up-sign-medium-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Reversed Thumbs Up Sign Medium Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/78/reversed-thumbs-up-sign_emoji-modifier-fitzpatrick-type-4_1f592-1f3fd_1f3fd.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/78/reversed-thumbs-up-sign_emoji-modifier-fitzpatrick-type-4_1f592-1f3fd_1f3fd.webp\")"
+      },
+      {
+        "href_path": "/samsung/touchwiz-7.1/reversed-thumbs-up-sign-medium-dark-skin-tone",
+        "slug": "reversed-thumbs-up-sign-medium-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Reversed Thumbs Up Sign Medium Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/78/reversed-thumbs-up-sign_emoji-modifier-fitzpatrick-type-5_1f592-1f3fe_1f3fe.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/78/reversed-thumbs-up-sign_emoji-modifier-fitzpatrick-type-5_1f592-1f3fe_1f3fe.webp\")"
+      },
+      {
+        "href_path": "/samsung/touchwiz-7.1/reversed-thumbs-up-sign-dark-skin-tone",
+        "slug": "reversed-thumbs-up-sign-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Reversed Thumbs Up Sign Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/78/reversed-thumbs-up-sign_emoji-modifier-fitzpatrick-type-6_1f592-1f3ff_1f3ff.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/78/reversed-thumbs-up-sign_emoji-modifier-fitzpatrick-type-6_1f592-1f3ff_1f3ff.webp\")"
+      },
+      {
+        "href_path": "/samsung/touchwiz-7.1/reversed-thumbs-down-sign-light-skin-tone",
+        "slug": "reversed-thumbs-down-sign-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Reversed Thumbs Down Sign Light Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/78/reversed-thumbs-down-sign_emoji-modifier-fitzpatrick-type-1-2_1f593-1f3fb_1f3fb.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/78/reversed-thumbs-down-sign_emoji-modifier-fitzpatrick-type-1-2_1f593-1f3fb_1f3fb.webp\")"
+      },
+      {
+        "href_path": "/samsung/touchwiz-7.1/reversed-thumbs-down-sign-medium-light-skin-tone",
+        "slug": "reversed-thumbs-down-sign-medium-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Reversed Thumbs Down Sign Medium Light Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/78/reversed-thumbs-down-sign_emoji-modifier-fitzpatrick-type-3_1f593-1f3fc_1f3fc.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/78/reversed-thumbs-down-sign_emoji-modifier-fitzpatrick-type-3_1f593-1f3fc_1f3fc.webp\")"
+      },
+      {
+        "href_path": "/samsung/touchwiz-7.1/reversed-thumbs-down-sign-medium-skin-tone",
+        "slug": "reversed-thumbs-down-sign-medium-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Reversed Thumbs Down Sign Medium Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/78/reversed-thumbs-down-sign_emoji-modifier-fitzpatrick-type-4_1f593-1f3fd_1f3fd.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/78/reversed-thumbs-down-sign_emoji-modifier-fitzpatrick-type-4_1f593-1f3fd_1f3fd.webp\")"
+      },
+      {
+        "href_path": "/samsung/touchwiz-7.1/reversed-thumbs-down-sign-medium-dark-skin-tone",
+        "slug": "reversed-thumbs-down-sign-medium-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Reversed Thumbs Down Sign Medium Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/78/reversed-thumbs-down-sign_emoji-modifier-fitzpatrick-type-5_1f593-1f3fe_1f3fe.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/78/reversed-thumbs-down-sign_emoji-modifier-fitzpatrick-type-5_1f593-1f3fe_1f3fe.webp\")"
+      },
+      {
+        "href_path": "/samsung/touchwiz-7.1/reversed-thumbs-down-sign-dark-skin-tone",
+        "slug": "reversed-thumbs-down-sign-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Reversed Thumbs Down Sign Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/78/reversed-thumbs-down-sign_emoji-modifier-fitzpatrick-type-6_1f593-1f3ff_1f3ff.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/78/reversed-thumbs-down-sign_emoji-modifier-fitzpatrick-type-6_1f593-1f3ff_1f3ff.webp\")"
+      },
+      {
+        "href_path": "/samsung/touchwiz-7.1/reversed-thumbs-up-sign-light-skin-tone",
+        "slug": "reversed-thumbs-up-sign-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Reversed Thumbs Up Sign Light Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/78/reversed-thumbs-up-sign_emoji-modifier-fitzpatrick-type-1-2_1f592-1f3fb_1f3fb.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/78/reversed-thumbs-up-sign_emoji-modifier-fitzpatrick-type-1-2_1f592-1f3fb_1f3fb.webp\")"
+      }
+    ]
+  },
+  "Experience_8.0": {
+    "url": "https://emojipedia.org/samsung/experience-8.0",
+    "new_url": "https://emojipedia.org/samsung/experience-8.0/new",
+    "scraped_at": "2026-01-01T12:59:56.227Z",
+    "unresolved": [
+      {
+        "href_path": "/samsung/experience-8.0/family-light-skin-tone",
+        "slug": "family-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Family Light Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/93/family_emoji-modifier-fitzpatrick-type-1-2_1f46a-1f3fb_1f3fb.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/93/family_emoji-modifier-fitzpatrick-type-1-2_1f46a-1f3fb_1f3fb.webp\")"
+      },
+      {
+        "href_path": "/samsung/experience-8.0/family-medium-skin-tone",
+        "slug": "family-medium-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Family Medium Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/93/family_emoji-modifier-fitzpatrick-type-4_1f46a-1f3fd_1f3fd.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/93/family_emoji-modifier-fitzpatrick-type-4_1f46a-1f3fd_1f3fd.webp\")"
+      },
+      {
+        "href_path": "/samsung/experience-8.0/family-medium-dark-skin-tone",
+        "slug": "family-medium-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Family Medium Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/93/family_emoji-modifier-fitzpatrick-type-5_1f46a-1f3fe_1f3fe.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/93/family_emoji-modifier-fitzpatrick-type-5_1f46a-1f3fe_1f3fe.webp\")"
+      },
+      {
+        "href_path": "/samsung/experience-8.0/family-dark-skin-tone",
+        "slug": "family-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Family Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/93/family_emoji-modifier-fitzpatrick-type-6_1f46a-1f3ff_1f3ff.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/93/family_emoji-modifier-fitzpatrick-type-6_1f46a-1f3ff_1f3ff.webp\")"
+      }
+    ]
+  },
+  "Experience_9.0": {
+    "url": "https://emojipedia.org/samsung/experience-9.0",
+    "new_url": "https://emojipedia.org/samsung/experience-9.0/new",
+    "scraped_at": "2026-01-01T13:00:54.359Z",
+    "unresolved": [
+      {
+        "href_path": "/samsung/experience-9.0/removed",
+        "slug": "removed",
+        "reason": "UNRESOLVED",
+        "text": "Removed",
+        "title": null,
+        "aria": null,
+        "imgAlt": null,
+        "dataSrc": null,
+        "bgImage": null
+      },
+      {
+        "href_path": "/samsung/experience-9.0/couple-with-heart-man-woman",
+        "slug": "couple-with-heart-man-woman",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Couple With Heart Man Woman on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/128/couple-with-heart-man-woman_1f468-200d-2764-fe0f-200d-1f469.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/128/couple-with-heart-man-woman_1f468-200d-2764-fe0f-200d-1f469.webp\")"
+      }
+    ]
+  },
+  "Experience_9.5": {
+    "url": "https://emojipedia.org/samsung/experience-9.5",
+    "new_url": "https://emojipedia.org/samsung/experience-9.5/new",
+    "scraped_at": "2026-01-01T13:01:17.785Z",
+    "unresolved": [
+      {
+        "href_path": "/samsung/experience-9.5/removed",
+        "slug": "removed",
+        "reason": "UNRESOLVED",
+        "text": "Removed",
+        "title": null,
+        "aria": null,
+        "imgAlt": null,
+        "dataSrc": null,
+        "bgImage": null
+      },
+      {
+        "href_path": "/samsung/experience-9.5/family-light-skin-tone",
+        "slug": "family-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Family Light Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/148/family_emoji-modifier-fitzpatrick-type-1-2_1f46a-1f3fb_1f3fb.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/148/family_emoji-modifier-fitzpatrick-type-1-2_1f46a-1f3fb_1f3fb.webp\")"
+      },
+      {
+        "href_path": "/samsung/experience-9.5/family-medium-light-skin-tone",
+        "slug": "family-medium-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Family Medium Light Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/148/family_emoji-modifier-fitzpatrick-type-3_1f46a-1f3fc_1f3fc.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/148/family_emoji-modifier-fitzpatrick-type-3_1f46a-1f3fc_1f3fc.webp\")"
+      },
+      {
+        "href_path": "/samsung/experience-9.5/family-medium-skin-tone",
+        "slug": "family-medium-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Family Medium Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/148/family_emoji-modifier-fitzpatrick-type-4_1f46a-1f3fd_1f3fd.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/148/family_emoji-modifier-fitzpatrick-type-4_1f46a-1f3fd_1f3fd.webp\")"
+      },
+      {
+        "href_path": "/samsung/experience-9.5/family-medium-dark-skin-tone",
+        "slug": "family-medium-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Family Medium Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/148/family_emoji-modifier-fitzpatrick-type-5_1f46a-1f3fe_1f3fe.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/148/family_emoji-modifier-fitzpatrick-type-5_1f46a-1f3fe_1f3fe.webp\")"
+      },
+      {
+        "href_path": "/samsung/experience-9.5/family-dark-skin-tone",
+        "slug": "family-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Family Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/148/family_emoji-modifier-fitzpatrick-type-6_1f46a-1f3ff_1f3ff.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/148/family_emoji-modifier-fitzpatrick-type-6_1f46a-1f3ff_1f3ff.webp\")"
+      }
+    ]
+  },
+  "OneUI_4.0_January_2022": {
+    "url": "https://emojipedia.org/samsung/one-ui-4.0-january-2022",
+    "new_url": "https://emojipedia.org/samsung/one-ui-4.0-january-2022/new",
+    "scraped_at": "2026-01-01T13:02:50.176Z",
+    "unresolved": [
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/removed",
+        "slug": "removed",
+        "reason": "UNRESOLVED",
+        "text": "Removed",
+        "title": null,
+        "aria": null,
+        "imgAlt": null,
+        "dataSrc": null,
+        "bgImage": null
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-light-skin-tone-woman-medium-light-skin-tone",
+        "slug": "kiss-man-light-skin-tone-woman-medium-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Light Skin Tone Woman Medium Light Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-light-skin-tone-woman-medium-light-skin-tone_1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-light-skin-tone-woman-medium-light-skin-tone_1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-light-skin-tone-woman-medium-skin-tone",
+        "slug": "kiss-man-light-skin-tone-woman-medium-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Light Skin Tone Woman Medium Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-light-skin-tone-woman-medium-skin-tone_1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-light-skin-tone-woman-medium-skin-tone_1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-light-skin-tone-woman-medium-dark-skin-tone",
+        "slug": "kiss-man-light-skin-tone-woman-medium-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Light Skin Tone Woman Medium Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-light-skin-tone-woman-medium-dark-skin-tone_1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-light-skin-tone-woman-medium-dark-skin-tone_1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-light-skin-tone-woman-dark-skin-tone",
+        "slug": "kiss-man-light-skin-tone-woman-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Light Skin Tone Woman Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-light-skin-tone-woman-dark-skin-tone_1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-light-skin-tone-woman-dark-skin-tone_1f468-1f3fb-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-medium-light-skin-tone-woman-light-skin-tone",
+        "slug": "kiss-man-medium-light-skin-tone-woman-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Medium Light Skin Tone Woman Light Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-light-skin-tone-woman-light-skin-tone_1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-light-skin-tone-woman-light-skin-tone_1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-medium-light-skin-tone-woman-medium-light-skin-tone",
+        "slug": "kiss-man-medium-light-skin-tone-woman-medium-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Medium Light Skin Tone Woman Medium Light Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-light-skin-tone-woman-medium-light-skin-tone_1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-light-skin-tone-woman-medium-light-skin-tone_1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-medium-light-skin-tone-woman-medium-skin-tone",
+        "slug": "kiss-man-medium-light-skin-tone-woman-medium-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Medium Light Skin Tone Woman Medium Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-light-skin-tone-woman-medium-skin-tone_1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-light-skin-tone-woman-medium-skin-tone_1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-medium-light-skin-tone-woman-medium-dark-skin-tone",
+        "slug": "kiss-man-medium-light-skin-tone-woman-medium-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Medium Light Skin Tone Woman Medium Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-light-skin-tone-woman-medium-dark-skin-tone_1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-light-skin-tone-woman-medium-dark-skin-tone_1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-medium-light-skin-tone-woman-dark-skin-tone",
+        "slug": "kiss-man-medium-light-skin-tone-woman-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Medium Light Skin Tone Woman Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-light-skin-tone-woman-dark-skin-tone_1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-light-skin-tone-woman-dark-skin-tone_1f468-1f3fc-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-medium-skin-tone-woman-light-skin-tone",
+        "slug": "kiss-man-medium-skin-tone-woman-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Medium Skin Tone Woman Light Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-skin-tone-woman-light-skin-tone_1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-skin-tone-woman-light-skin-tone_1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-medium-skin-tone-woman-medium-light-skin-tone",
+        "slug": "kiss-man-medium-skin-tone-woman-medium-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Medium Skin Tone Woman Medium Light Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-skin-tone-woman-medium-light-skin-tone_1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-skin-tone-woman-medium-light-skin-tone_1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-medium-skin-tone-woman-medium-skin-tone",
+        "slug": "kiss-man-medium-skin-tone-woman-medium-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Medium Skin Tone Woman Medium Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-skin-tone-woman-medium-skin-tone_1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-skin-tone-woman-medium-skin-tone_1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-medium-skin-tone-woman-medium-dark-skin-tone",
+        "slug": "kiss-man-medium-skin-tone-woman-medium-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Medium Skin Tone Woman Medium Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-skin-tone-woman-medium-dark-skin-tone_1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-skin-tone-woman-medium-dark-skin-tone_1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-medium-skin-tone-woman-dark-skin-tone",
+        "slug": "kiss-man-medium-skin-tone-woman-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Medium Skin Tone Woman Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-skin-tone-woman-dark-skin-tone_1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-skin-tone-woman-dark-skin-tone_1f468-1f3fd-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-medium-dark-skin-tone-woman-light-skin-tone",
+        "slug": "kiss-man-medium-dark-skin-tone-woman-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Medium Dark Skin Tone Woman Light Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-dark-skin-tone-woman-light-skin-tone_1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-dark-skin-tone-woman-light-skin-tone_1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-medium-dark-skin-tone-woman-medium-light-skin-tone",
+        "slug": "kiss-man-medium-dark-skin-tone-woman-medium-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Medium Dark Skin Tone Woman Medium Light Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-dark-skin-tone-woman-medium-light-skin-tone_1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-dark-skin-tone-woman-medium-light-skin-tone_1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-medium-dark-skin-tone-woman-medium-skin-tone",
+        "slug": "kiss-man-medium-dark-skin-tone-woman-medium-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Medium Dark Skin Tone Woman Medium Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-dark-skin-tone-woman-medium-skin-tone_1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-dark-skin-tone-woman-medium-skin-tone_1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-medium-dark-skin-tone-woman-medium-dark-skin-tone",
+        "slug": "kiss-man-medium-dark-skin-tone-woman-medium-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Medium Dark Skin Tone Woman Medium Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-dark-skin-tone-woman-medium-dark-skin-tone_1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-dark-skin-tone-woman-medium-dark-skin-tone_1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-medium-dark-skin-tone-woman-dark-skin-tone",
+        "slug": "kiss-man-medium-dark-skin-tone-woman-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Medium Dark Skin Tone Woman Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-dark-skin-tone-woman-dark-skin-tone_1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-medium-dark-skin-tone-woman-dark-skin-tone_1f468-1f3fe-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-dark-skin-tone-woman-light-skin-tone",
+        "slug": "kiss-man-dark-skin-tone-woman-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Dark Skin Tone Woman Light Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-dark-skin-tone-woman-light-skin-tone_1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-dark-skin-tone-woman-light-skin-tone_1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fb.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-dark-skin-tone-woman-medium-light-skin-tone",
+        "slug": "kiss-man-dark-skin-tone-woman-medium-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Dark Skin Tone Woman Medium Light Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-dark-skin-tone-woman-medium-light-skin-tone_1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-dark-skin-tone-woman-medium-light-skin-tone_1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fc.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-dark-skin-tone-woman-medium-skin-tone",
+        "slug": "kiss-man-dark-skin-tone-woman-medium-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Dark Skin Tone Woman Medium Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-dark-skin-tone-woman-medium-skin-tone_1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-dark-skin-tone-woman-medium-skin-tone_1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fd.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-dark-skin-tone-woman-medium-dark-skin-tone",
+        "slug": "kiss-man-dark-skin-tone-woman-medium-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Dark Skin Tone Woman Medium Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-dark-skin-tone-woman-medium-dark-skin-tone_1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-dark-skin-tone-woman-medium-dark-skin-tone_1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3fe.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-4.0-january-2022/kiss-man-dark-skin-tone-woman-dark-skin-tone",
+        "slug": "kiss-man-dark-skin-tone-woman-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Kiss Man Dark Skin Tone Woman Dark Skin Tone on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-dark-skin-tone-woman-dark-skin-tone_1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/320/kiss-man-dark-skin-tone-woman-dark-skin-tone_1f468-1f3ff-200d-2764-fe0f-200d-1f48b-200d-1f469-1f3ff.webp\")"
+      }
+    ]
+  },
+  "OneUI_6.0": {
+    "url": "https://emojipedia.org/samsung/one-ui-6.0",
+    "new_url": "https://emojipedia.org/samsung/one-ui-6.0/new",
+    "scraped_at": "2026-01-01T13:03:13.419Z",
+    "unresolved": [
+      {
+        "href_path": "/samsung/one-ui-6.0/removed",
+        "slug": "removed",
+        "reason": "UNRESOLVED",
+        "text": "Removed",
+        "title": null,
+        "aria": null,
+        "imgAlt": null,
+        "dataSrc": null,
+        "bgImage": null
+      }
+    ]
+  },
+  "OneUI_7.0": {
+    "url": "https://emojipedia.org/samsung/one-ui-7.0",
+    "new_url": "https://emojipedia.org/samsung/one-ui-7.0/new",
+    "scraped_at": "2026-01-01T13:04:02.260Z",
+    "unresolved": [
+      {
+        "href_path": "/samsung/one-ui-7.0/face-with-bags-under-eyes",
+        "slug": "face-with-bags-under-eyes",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Face With Bags Under Eyes on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/424/face-with-bags-under-eyes_1fae9.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/424/face-with-bags-under-eyes_1fae9.webp\")"
+      },
+      {
+        "href_path": "/samsung/one-ui-7.0/flag-sark",
+        "slug": "flag-sark",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Flag Sark on Samsung One UI 7.0 April 2025",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/samsung/424/flag-sark_1f1e8-1f1f6.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/samsung/424/flag-sark_1f1e8-1f1f6.webp\")"
+      }
+    ]
+  }
+}

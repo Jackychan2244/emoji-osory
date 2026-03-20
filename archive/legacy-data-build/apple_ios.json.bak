@@ -1,0 +1,1575 @@
+[
+  {
+    "url": "https://emojipedia.org/apple/ios-16.4",
+    "new_url": "https://emojipedia.org/apple/ios-16.4/new",
+    "vendor": "apple_ios",
+    "os_version": "iOS_16.4",
+    "release_date": "27 March 2023",
+    "emoji_versions_mentioned": [],
+    "max_emoji_version": "15.0",
+    "emojis_found": 30,
+    "emojis": [
+      {
+        "char": "🫨",
+        "codepoints": "1FAE8",
+        "name": "shaking face",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/shaking-face"
+      },
+      {
+        "char": "🫷",
+        "codepoints": "1FAF7",
+        "name": "leftwards pushing hand",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/leftwards-pushing-hand"
+      },
+      {
+        "char": "🫷🏻",
+        "codepoints": "1FAF7-1F3FB",
+        "name": "leftwards pushing hand: light skin tone",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/leftwards-pushing-hand-light-skin-tone"
+      },
+      {
+        "char": "🫷🏼",
+        "codepoints": "1FAF7-1F3FC",
+        "name": "leftwards pushing hand: medium-light skin tone",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/leftwards-pushing-hand-medium-light-skin-tone"
+      },
+      {
+        "char": "🫷🏽",
+        "codepoints": "1FAF7-1F3FD",
+        "name": "leftwards pushing hand: medium skin tone",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/leftwards-pushing-hand-medium-skin-tone"
+      },
+      {
+        "char": "🫷🏾",
+        "codepoints": "1FAF7-1F3FE",
+        "name": "leftwards pushing hand: medium-dark skin tone",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/leftwards-pushing-hand-medium-dark-skin-tone"
+      },
+      {
+        "char": "🫷🏿",
+        "codepoints": "1FAF7-1F3FF",
+        "name": "leftwards pushing hand: dark skin tone",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/leftwards-pushing-hand-dark-skin-tone"
+      },
+      {
+        "char": "🫸🏻",
+        "codepoints": "1FAF8-1F3FB",
+        "name": "rightwards pushing hand: light skin tone",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/rightwards-pushing-hand-light-skin-tone"
+      },
+      {
+        "char": "🫸🏼",
+        "codepoints": "1FAF8-1F3FC",
+        "name": "rightwards pushing hand: medium-light skin tone",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/rightwards-pushing-hand-medium-light-skin-tone"
+      },
+      {
+        "char": "🫸🏽",
+        "codepoints": "1FAF8-1F3FD",
+        "name": "rightwards pushing hand: medium skin tone",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/rightwards-pushing-hand-medium-skin-tone"
+      },
+      {
+        "char": "🫸🏾",
+        "codepoints": "1FAF8-1F3FE",
+        "name": "rightwards pushing hand: medium-dark skin tone",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/rightwards-pushing-hand-medium-dark-skin-tone"
+      },
+      {
+        "char": "🫸🏿",
+        "codepoints": "1FAF8-1F3FF",
+        "name": "rightwards pushing hand: dark skin tone",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/rightwards-pushing-hand-dark-skin-tone"
+      },
+      {
+        "char": "🫎",
+        "codepoints": "1FACE",
+        "name": "moose",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/moose"
+      },
+      {
+        "char": "🫏",
+        "codepoints": "1FACF",
+        "name": "donkey",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/donkey"
+      },
+      {
+        "char": "🪽",
+        "codepoints": "1FABD",
+        "name": "wing",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/wing"
+      },
+      {
+        "char": "🐦‍⬛",
+        "codepoints": "1F426-200D-2B1B",
+        "name": "black bird",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/black-bird"
+      },
+      {
+        "char": "🪿",
+        "codepoints": "1FABF",
+        "name": "goose",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/goose"
+      },
+      {
+        "char": "🪼",
+        "codepoints": "1FABC",
+        "name": "jellyfish",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/jellyfish"
+      },
+      {
+        "char": "🪻",
+        "codepoints": "1FABB",
+        "name": "hyacinth",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/hyacinth"
+      },
+      {
+        "char": "🫚",
+        "codepoints": "1FADA",
+        "name": "ginger root",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/ginger"
+      },
+      {
+        "char": "🫛",
+        "codepoints": "1FADB",
+        "name": "pea pod",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/pea-pod"
+      },
+      {
+        "char": "🪭",
+        "codepoints": "1FAAD",
+        "name": "folding hand fan",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/folding-hand-fan"
+      },
+      {
+        "char": "🪮",
+        "codepoints": "1FAAE",
+        "name": "hair pick",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/hair-pick"
+      },
+      {
+        "char": "🪇",
+        "codepoints": "1FA87",
+        "name": "maracas",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/maracas"
+      },
+      {
+        "char": "🪈",
+        "codepoints": "1FA88",
+        "name": "flute",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/flute"
+      },
+      {
+        "char": "🩷",
+        "codepoints": "1FA77",
+        "name": "pink heart",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/pink-heart"
+      },
+      {
+        "char": "🩵",
+        "codepoints": "1FA75",
+        "name": "light blue heart",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/light-blue-heart"
+      },
+      {
+        "char": "🩶",
+        "codepoints": "1FA76",
+        "name": "grey heart",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/grey-heart"
+      },
+      {
+        "char": "🪯",
+        "codepoints": "1FAAF",
+        "name": "khanda",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/khanda"
+      },
+      {
+        "char": "🛜",
+        "codepoints": "1F6DC",
+        "name": "wireless",
+        "unicode_version": "15.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-16.4/wireless"
+      }
+    ],
+    "unresolved_count": 0,
+    "scrape_status": "success",
+    "scraped_at": "2026-01-01T12:36:17.039Z"
+  },
+  {
+    "url": "https://emojipedia.org/apple/ios-9.0",
+    "new_url": "https://emojipedia.org/apple/ios-9.0/new",
+    "vendor": "apple_ios",
+    "os_version": "iOS_9.0",
+    "release_date": "09 September 2015",
+    "emoji_versions_mentioned": [],
+    "max_emoji_version": "9.0",
+    "emojis_found": 34,
+    "emojis": [
+      {
+        "char": "🇧🇱",
+        "codepoints": "1F1E7-1F1F1",
+        "name": "St. Barthélemy",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-st-barthelemy"
+      },
+      {
+        "char": "🇧🇶",
+        "codepoints": "1F1E7-1F1F6",
+        "name": "Caribbean Netherlands",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-caribbean-netherlands"
+      },
+      {
+        "char": "🇦🇨",
+        "codepoints": "1F1E6-1F1E8",
+        "name": "Ascension Island",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-ascension-island"
+      },
+      {
+        "char": "🇦🇶",
+        "codepoints": "1F1E6-1F1F6",
+        "name": "Antarctica",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-antarctica"
+      },
+      {
+        "char": "🇦🇽",
+        "codepoints": "1F1E6-1F1FD",
+        "name": "Åland Islands",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-aland-islands"
+      },
+      {
+        "char": "🇨🇵",
+        "codepoints": "1F1E8-1F1F5",
+        "name": "Clipperton Island",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-clipperton-island"
+      },
+      {
+        "char": "🇩🇬",
+        "codepoints": "1F1E9-1F1EC",
+        "name": "Diego Garcia",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-diego-garcia"
+      },
+      {
+        "char": "🇪🇦",
+        "codepoints": "1F1EA-1F1E6",
+        "name": "Ceuta & Melilla",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-ceuta-melilla"
+      },
+      {
+        "char": "🇪🇺",
+        "codepoints": "1F1EA-1F1FA",
+        "name": "European Union",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-european-union"
+      },
+      {
+        "char": "🇫🇲",
+        "codepoints": "1F1EB-1F1F2",
+        "name": "Micronesia",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-micronesia"
+      },
+      {
+        "char": "🇬🇬",
+        "codepoints": "1F1EC-1F1EC",
+        "name": "Guernsey",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-guernsey"
+      },
+      {
+        "char": "🇬🇱",
+        "codepoints": "1F1EC-1F1F1",
+        "name": "Greenland",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-greenland"
+      },
+      {
+        "char": "🇬🇸",
+        "codepoints": "1F1EC-1F1F8",
+        "name": "South Georgia & South Sandwich Islands",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-south-georgia-south-sandwich-islands"
+      },
+      {
+        "char": "🇮🇲",
+        "codepoints": "1F1EE-1F1F2",
+        "name": "Isle of Man",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-isle-of-man"
+      },
+      {
+        "char": "🇮🇴",
+        "codepoints": "1F1EE-1F1F4",
+        "name": "British Indian Ocean Territory",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-british-indian-ocean-territory"
+      },
+      {
+        "char": "🇲🇨",
+        "codepoints": "1F1F2-1F1E8",
+        "name": "Monaco",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-monaco"
+      },
+      {
+        "char": "🇲🇶",
+        "codepoints": "1F1F2-1F1F6",
+        "name": "Martinique",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-martinique"
+      },
+      {
+        "char": "🇳🇷",
+        "codepoints": "1F1F3-1F1F7",
+        "name": "Nauru",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-nauru"
+      },
+      {
+        "char": "🇵🇫",
+        "codepoints": "1F1F5-1F1EB",
+        "name": "French Polynesia",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-french-polynesia"
+      },
+      {
+        "char": "🇹🇦",
+        "codepoints": "1F1F9-1F1E6",
+        "name": "Tristan da Cunha",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-tristan-da-cunha"
+      },
+      {
+        "char": "🇹🇩",
+        "codepoints": "1F1F9-1F1E9",
+        "name": "Chad",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-chad"
+      },
+      {
+        "char": "🇼🇫",
+        "codepoints": "1F1FC-1F1EB",
+        "name": "Wallis & Futuna",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-wallis-futuna"
+      },
+      {
+        "char": "🇾🇹",
+        "codepoints": "1F1FE-1F1F9",
+        "name": "Mayotte",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-mayotte"
+      },
+      {
+        "char": "🇲🇺",
+        "codepoints": "1F1F2-1F1FA",
+        "name": "Mauritius",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-mauritius"
+      },
+      {
+        "char": "🇳🇫",
+        "codepoints": "1F1F3-1F1EB",
+        "name": "Norfolk Island",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-norfolk-island"
+      },
+      {
+        "char": "🇷🇪",
+        "codepoints": "1F1F7-1F1EA",
+        "name": "Réunion",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-reunion"
+      },
+      {
+        "char": "🇸🇭",
+        "codepoints": "1F1F8-1F1ED",
+        "name": "St. Helena",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-st-helena"
+      },
+      {
+        "char": "🇸🇯",
+        "codepoints": "1F1F8-1F1EF",
+        "name": "Svalbard & Jan Mayen",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-svalbard-jan-mayen"
+      },
+      {
+        "char": "🇹🇰",
+        "codepoints": "1F1F9-1F1F0",
+        "name": "Tokelau",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-tokelau"
+      },
+      {
+        "char": "🇹🇼",
+        "codepoints": "1F1F9-1F1FC",
+        "name": "Taiwan",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-taiwan"
+      },
+      {
+        "char": "🇺🇲",
+        "codepoints": "1F1FA-1F1F2",
+        "name": "U.S. Outlying Islands",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-us-outlying-islands"
+      },
+      {
+        "char": "🇵🇲",
+        "codepoints": "1F1F5-1F1F2",
+        "name": "St. Pierre & Miquelon",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-st-pierre-miquelon"
+      },
+      {
+        "char": "🇻🇦",
+        "codepoints": "1F1FB-1F1E6",
+        "name": "Vatican City",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-vatican-city"
+      },
+      {
+        "char": "🇵🇳",
+        "codepoints": "1F1F5-1F1F3",
+        "name": "Pitcairn Islands",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.0/flag-pitcairn-islands"
+      }
+    ],
+    "unresolved_count": 0,
+    "scrape_status": "success",
+    "scraped_at": "2026-01-01T12:51:53.059Z"
+  },
+  {
+    "url": "https://emojipedia.org/apple/ios-9.2",
+    "new_url": "https://emojipedia.org/apple/ios-9.2/new",
+    "vendor": "apple_ios",
+    "os_version": "iOS_9.2",
+    "release_date": null,
+    "error": "NO_EMOJI_LINKS_FOUND",
+    "scrape_status": "failed",
+    "scraped_at": "2026-01-01T12:52:32.596Z",
+    "emoji_versions_mentioned": [],
+    "emojis": [],
+    "emojis_found": 0
+  },
+  {
+    "url": "https://emojipedia.org/apple/ios-9.3",
+    "new_url": "https://emojipedia.org/apple/ios-9.3/new",
+    "vendor": "apple_ios",
+    "os_version": "iOS_9.3",
+    "release_date": null,
+    "emoji_versions_mentioned": [],
+    "max_emoji_version": "9.0",
+    "emojis_found": 6,
+    "emojis": [
+      {
+        "char": "🍏",
+        "codepoints": "1F34F",
+        "name": "green apple",
+        "unicode_version": "9.0",
+        "source_method": "page_visit",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.3/removed"
+      },
+      {
+        "char": "🕵🏻",
+        "codepoints": "1F575-1F3FB",
+        "name": "detective: light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.3/detective-light-skin-tone"
+      },
+      {
+        "char": "🕵🏼",
+        "codepoints": "1F575-1F3FC",
+        "name": "detective: medium-light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.3/detective-medium-light-skin-tone"
+      },
+      {
+        "char": "🕵🏽",
+        "codepoints": "1F575-1F3FD",
+        "name": "detective: medium skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.3/detective-medium-skin-tone"
+      },
+      {
+        "char": "🕵🏾",
+        "codepoints": "1F575-1F3FE",
+        "name": "detective: medium-dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.3/detective-medium-dark-skin-tone"
+      },
+      {
+        "char": "🕵🏿",
+        "codepoints": "1F575-1F3FF",
+        "name": "detective: dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-9.3/detective-dark-skin-tone"
+      }
+    ],
+    "unresolved_count": 0,
+    "scrape_status": "success",
+    "scraped_at": "2026-01-01T12:52:46.773Z"
+  },
+  {
+    "url": "https://emojipedia.org/apple/ios-10.0",
+    "new_url": "https://emojipedia.org/apple/ios-10.0/new",
+    "vendor": "apple_ios",
+    "os_version": "iOS_10.0",
+    "release_date": "13 September 2016",
+    "emoji_versions_mentioned": [],
+    "max_emoji_version": "9.0",
+    "emojis_found": 79,
+    "emojis": [
+      {
+        "char": "👱‍♀️",
+        "codepoints": "1F471-200D-2640-FE0F",
+        "name": "blond-haired woman",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-blond-hair"
+      },
+      {
+        "char": "👱🏻‍♀️",
+        "codepoints": "1F471-1F3FB-200D-2640-FE0F",
+        "name": "blond-haired woman: light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-light-skin-tone-blond-hair"
+      },
+      {
+        "char": "👱🏼‍♀️",
+        "codepoints": "1F471-1F3FC-200D-2640-FE0F",
+        "name": "blond-haired woman: medium-light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-medium-light-skin-tone-blond-hair"
+      },
+      {
+        "char": "👱🏽‍♀️",
+        "codepoints": "1F471-1F3FD-200D-2640-FE0F",
+        "name": "blond-haired woman: medium skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-medium-skin-tone-blond-hair"
+      },
+      {
+        "char": "👱🏾‍♀️",
+        "codepoints": "1F471-1F3FE-200D-2640-FE0F",
+        "name": "blond-haired woman: medium-dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-medium-dark-skin-tone-blond-hair"
+      },
+      {
+        "char": "👱🏿‍♀️",
+        "codepoints": "1F471-1F3FF-200D-2640-FE0F",
+        "name": "blond-haired woman: dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-dark-skin-tone-blond-hair"
+      },
+      {
+        "char": "👱‍♂️",
+        "codepoints": "1F471-200D-2642-FE0F",
+        "name": "blond-haired man",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-blond-hair"
+      },
+      {
+        "char": "👱🏻‍♂️",
+        "codepoints": "1F471-1F3FB-200D-2642-FE0F",
+        "name": "blond-haired man: light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-light-skin-tone-blond-hair"
+      },
+      {
+        "char": "👱🏼‍♂️",
+        "codepoints": "1F471-1F3FC-200D-2642-FE0F",
+        "name": "blond-haired man: medium-light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-medium-light-skin-tone-blond-hair"
+      },
+      {
+        "char": "👱🏽‍♂️",
+        "codepoints": "1F471-1F3FD-200D-2642-FE0F",
+        "name": "blond-haired man: medium skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-medium-skin-tone-blond-hair"
+      },
+      {
+        "char": "👱🏾‍♂️",
+        "codepoints": "1F471-1F3FE-200D-2642-FE0F",
+        "name": "blond-haired man: medium-dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-medium-dark-skin-tone-blond-hair"
+      },
+      {
+        "char": "👱🏿‍♂️",
+        "codepoints": "1F471-1F3FF-200D-2642-FE0F",
+        "name": "blond-haired man: dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-dark-skin-tone-blond-hair"
+      },
+      {
+        "char": "🙍‍♂️",
+        "codepoints": "1F64D-200D-2642-FE0F",
+        "name": "man frowning",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-frowning"
+      },
+      {
+        "char": "🙍🏻‍♂️",
+        "codepoints": "1F64D-1F3FB-200D-2642-FE0F",
+        "name": "man frowning: light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-frowning-light-skin-tone"
+      },
+      {
+        "char": "🙍🏼‍♂️",
+        "codepoints": "1F64D-1F3FC-200D-2642-FE0F",
+        "name": "man frowning: medium-light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-frowning-medium-light-skin-tone"
+      },
+      {
+        "char": "🙍🏽‍♂️",
+        "codepoints": "1F64D-1F3FD-200D-2642-FE0F",
+        "name": "man frowning: medium skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-frowning-medium-skin-tone"
+      },
+      {
+        "char": "🙍🏾‍♂️",
+        "codepoints": "1F64D-1F3FE-200D-2642-FE0F",
+        "name": "man frowning: medium-dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-frowning-medium-dark-skin-tone"
+      },
+      {
+        "char": "🙍🏿‍♂️",
+        "codepoints": "1F64D-1F3FF-200D-2642-FE0F",
+        "name": "man frowning: dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-frowning-dark-skin-tone"
+      },
+      {
+        "char": "🙍‍♀️",
+        "codepoints": "1F64D-200D-2640-FE0F",
+        "name": "woman frowning",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-frowning"
+      },
+      {
+        "char": "🙍🏻‍♀️",
+        "codepoints": "1F64D-1F3FB-200D-2640-FE0F",
+        "name": "woman frowning: light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-frowning-light-skin-tone"
+      },
+      {
+        "char": "🙍🏼‍♀️",
+        "codepoints": "1F64D-1F3FC-200D-2640-FE0F",
+        "name": "woman frowning: medium-light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-frowning-medium-light-skin-tone"
+      },
+      {
+        "char": "🙍🏽‍♀️",
+        "codepoints": "1F64D-1F3FD-200D-2640-FE0F",
+        "name": "woman frowning: medium skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-frowning-medium-skin-tone"
+      },
+      {
+        "char": "🙍🏾‍♀️",
+        "codepoints": "1F64D-1F3FE-200D-2640-FE0F",
+        "name": "woman frowning: medium-dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-frowning-medium-dark-skin-tone"
+      },
+      {
+        "char": "🙍🏿‍♀️",
+        "codepoints": "1F64D-1F3FF-200D-2640-FE0F",
+        "name": "woman frowning: dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-frowning-dark-skin-tone"
+      },
+      {
+        "char": "🙎‍♂️",
+        "codepoints": "1F64E-200D-2642-FE0F",
+        "name": "man pouting",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-pouting"
+      },
+      {
+        "char": "🙎🏻‍♂️",
+        "codepoints": "1F64E-1F3FB-200D-2642-FE0F",
+        "name": "man pouting: light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-pouting-light-skin-tone"
+      },
+      {
+        "char": "🙎🏼‍♂️",
+        "codepoints": "1F64E-1F3FC-200D-2642-FE0F",
+        "name": "man pouting: medium-light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-pouting-medium-light-skin-tone"
+      },
+      {
+        "char": "🙎🏽‍♂️",
+        "codepoints": "1F64E-1F3FD-200D-2642-FE0F",
+        "name": "man pouting: medium skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-pouting-medium-skin-tone"
+      },
+      {
+        "char": "🙎🏾‍♂️",
+        "codepoints": "1F64E-1F3FE-200D-2642-FE0F",
+        "name": "man pouting: medium-dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-pouting-medium-dark-skin-tone"
+      },
+      {
+        "char": "🙎🏿‍♂️",
+        "codepoints": "1F64E-1F3FF-200D-2642-FE0F",
+        "name": "man pouting: dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-pouting-dark-skin-tone"
+      },
+      {
+        "char": "🙎‍♀️",
+        "codepoints": "1F64E-200D-2640-FE0F",
+        "name": "woman pouting",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-pouting"
+      },
+      {
+        "char": "🙎🏻‍♀️",
+        "codepoints": "1F64E-1F3FB-200D-2640-FE0F",
+        "name": "woman pouting: light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-pouting-light-skin-tone"
+      },
+      {
+        "char": "🙎🏼‍♀️",
+        "codepoints": "1F64E-1F3FC-200D-2640-FE0F",
+        "name": "woman pouting: medium-light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-pouting-medium-light-skin-tone"
+      },
+      {
+        "char": "🙎🏽‍♀️",
+        "codepoints": "1F64E-1F3FD-200D-2640-FE0F",
+        "name": "woman pouting: medium skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-pouting-medium-skin-tone"
+      },
+      {
+        "char": "🙎🏾‍♀️",
+        "codepoints": "1F64E-1F3FE-200D-2640-FE0F",
+        "name": "woman pouting: medium-dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-pouting-medium-dark-skin-tone"
+      },
+      {
+        "char": "🙎🏿‍♀️",
+        "codepoints": "1F64E-1F3FF-200D-2640-FE0F",
+        "name": "woman pouting: dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-pouting-dark-skin-tone"
+      },
+      {
+        "char": "🙅🏻‍♂️",
+        "codepoints": "1F645-1F3FB-200D-2642-FE0F",
+        "name": "man gesturing NO: light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-gesturing-no-light-skin-tone"
+      },
+      {
+        "char": "🙅🏼‍♂️",
+        "codepoints": "1F645-1F3FC-200D-2642-FE0F",
+        "name": "man gesturing NO: medium-light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-gesturing-no-medium-light-skin-tone"
+      },
+      {
+        "char": "🙅🏽‍♂️",
+        "codepoints": "1F645-1F3FD-200D-2642-FE0F",
+        "name": "man gesturing NO: medium skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-gesturing-no-medium-skin-tone"
+      },
+      {
+        "char": "💆‍♂️",
+        "codepoints": "1F486-200D-2642-FE0F",
+        "name": "man getting massage",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-getting-massage"
+      },
+      {
+        "char": "💆🏻‍♂️",
+        "codepoints": "1F486-1F3FB-200D-2642-FE0F",
+        "name": "man getting massage: light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-getting-massage-light-skin-tone"
+      },
+      {
+        "char": "💆🏼‍♂️",
+        "codepoints": "1F486-1F3FC-200D-2642-FE0F",
+        "name": "man getting massage: medium-light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-getting-massage-medium-light-skin-tone"
+      },
+      {
+        "char": "💆🏽‍♂️",
+        "codepoints": "1F486-1F3FD-200D-2642-FE0F",
+        "name": "man getting massage: medium skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-getting-massage-medium-skin-tone"
+      },
+      {
+        "char": "💆🏾‍♂️",
+        "codepoints": "1F486-1F3FE-200D-2642-FE0F",
+        "name": "man getting massage: medium-dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-getting-massage-medium-dark-skin-tone"
+      },
+      {
+        "char": "💆🏿‍♂️",
+        "codepoints": "1F486-1F3FF-200D-2642-FE0F",
+        "name": "man getting massage: dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-getting-massage-dark-skin-tone"
+      },
+      {
+        "char": "💆‍♀️",
+        "codepoints": "1F486-200D-2640-FE0F",
+        "name": "woman getting massage",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-getting-massage"
+      },
+      {
+        "char": "💆🏻‍♀️",
+        "codepoints": "1F486-1F3FB-200D-2640-FE0F",
+        "name": "woman getting massage: light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-getting-massage-light-skin-tone"
+      },
+      {
+        "char": "💆🏼‍♀️",
+        "codepoints": "1F486-1F3FC-200D-2640-FE0F",
+        "name": "woman getting massage: medium-light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-getting-massage-medium-light-skin-tone"
+      },
+      {
+        "char": "💆🏽‍♀️",
+        "codepoints": "1F486-1F3FD-200D-2640-FE0F",
+        "name": "woman getting massage: medium skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-getting-massage-medium-skin-tone"
+      },
+      {
+        "char": "💆🏾‍♀️",
+        "codepoints": "1F486-1F3FE-200D-2640-FE0F",
+        "name": "woman getting massage: medium-dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-getting-massage-medium-dark-skin-tone"
+      },
+      {
+        "char": "💆🏿‍♀️",
+        "codepoints": "1F486-1F3FF-200D-2640-FE0F",
+        "name": "woman getting massage: dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-getting-massage-dark-skin-tone"
+      },
+      {
+        "char": "💇‍♂️",
+        "codepoints": "1F487-200D-2642-FE0F",
+        "name": "man getting haircut",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-getting-haircut"
+      },
+      {
+        "char": "💇🏻‍♂️",
+        "codepoints": "1F487-1F3FB-200D-2642-FE0F",
+        "name": "man getting haircut: light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-getting-haircut-light-skin-tone"
+      },
+      {
+        "char": "💇🏼‍♂️",
+        "codepoints": "1F487-1F3FC-200D-2642-FE0F",
+        "name": "man getting haircut: medium-light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-getting-haircut-medium-light-skin-tone"
+      },
+      {
+        "char": "💇🏽‍♂️",
+        "codepoints": "1F487-1F3FD-200D-2642-FE0F",
+        "name": "man getting haircut: medium skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-getting-haircut-medium-skin-tone"
+      },
+      {
+        "char": "💇🏾‍♂️",
+        "codepoints": "1F487-1F3FE-200D-2642-FE0F",
+        "name": "man getting haircut: medium-dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-getting-haircut-medium-dark-skin-tone"
+      },
+      {
+        "char": "💇🏿‍♂️",
+        "codepoints": "1F487-1F3FF-200D-2642-FE0F",
+        "name": "man getting haircut: dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-getting-haircut-dark-skin-tone"
+      },
+      {
+        "char": "💇‍♀️",
+        "codepoints": "1F487-200D-2640-FE0F",
+        "name": "woman getting haircut",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-getting-haircut"
+      },
+      {
+        "char": "💇🏻‍♀️",
+        "codepoints": "1F487-1F3FB-200D-2640-FE0F",
+        "name": "woman getting haircut: light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-getting-haircut-light-skin-tone"
+      },
+      {
+        "char": "💇🏼‍♀️",
+        "codepoints": "1F487-1F3FC-200D-2640-FE0F",
+        "name": "woman getting haircut: medium-light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-getting-haircut-medium-light-skin-tone"
+      },
+      {
+        "char": "💇🏽‍♀️",
+        "codepoints": "1F487-1F3FD-200D-2640-FE0F",
+        "name": "woman getting haircut: medium skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-getting-haircut-medium-skin-tone"
+      },
+      {
+        "char": "💇🏾‍♀️",
+        "codepoints": "1F487-1F3FE-200D-2640-FE0F",
+        "name": "woman getting haircut: medium-dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-getting-haircut-medium-dark-skin-tone"
+      },
+      {
+        "char": "💇🏿‍♀️",
+        "codepoints": "1F487-1F3FF-200D-2640-FE0F",
+        "name": "woman getting haircut: dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-getting-haircut-dark-skin-tone"
+      },
+      {
+        "char": "🚶‍♂️",
+        "codepoints": "1F6B6-200D-2642-FE0F",
+        "name": "man walking",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-walking"
+      },
+      {
+        "char": "🚶🏻‍♂️",
+        "codepoints": "1F6B6-1F3FB-200D-2642-FE0F",
+        "name": "man walking: light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-walking-light-skin-tone"
+      },
+      {
+        "char": "🚶🏼‍♂️",
+        "codepoints": "1F6B6-1F3FC-200D-2642-FE0F",
+        "name": "man walking: medium-light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-walking-medium-light-skin-tone"
+      },
+      {
+        "char": "🚶🏽‍♂️",
+        "codepoints": "1F6B6-1F3FD-200D-2642-FE0F",
+        "name": "man walking: medium skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-walking-medium-skin-tone"
+      },
+      {
+        "char": "🚶🏾‍♂️",
+        "codepoints": "1F6B6-1F3FE-200D-2642-FE0F",
+        "name": "man walking: medium-dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-walking-medium-dark-skin-tone"
+      },
+      {
+        "char": "🚶🏿‍♂️",
+        "codepoints": "1F6B6-1F3FF-200D-2642-FE0F",
+        "name": "man walking: dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-walking-dark-skin-tone"
+      },
+      {
+        "char": "🚶‍♀️",
+        "codepoints": "1F6B6-200D-2640-FE0F",
+        "name": "woman walking",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-walking"
+      },
+      {
+        "char": "🚶🏻‍♀️",
+        "codepoints": "1F6B6-1F3FB-200D-2640-FE0F",
+        "name": "woman walking: light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-walking-light-skin-tone"
+      },
+      {
+        "char": "🚶🏼‍♀️",
+        "codepoints": "1F6B6-1F3FC-200D-2640-FE0F",
+        "name": "woman walking: medium-light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-walking-medium-light-skin-tone"
+      },
+      {
+        "char": "🚶🏽‍♀️",
+        "codepoints": "1F6B6-1F3FD-200D-2640-FE0F",
+        "name": "woman walking: medium skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-walking-medium-skin-tone"
+      },
+      {
+        "char": "🚶🏾‍♀️",
+        "codepoints": "1F6B6-1F3FE-200D-2640-FE0F",
+        "name": "woman walking: medium-dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-walking-medium-dark-skin-tone"
+      },
+      {
+        "char": "🚶🏿‍♀️",
+        "codepoints": "1F6B6-1F3FF-200D-2640-FE0F",
+        "name": "woman walking: dark skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/woman-walking-dark-skin-tone"
+      },
+      {
+        "char": "🏃‍♂️",
+        "codepoints": "1F3C3-200D-2642-FE0F",
+        "name": "man running",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-running"
+      },
+      {
+        "char": "🏃🏻‍♂️",
+        "codepoints": "1F3C3-1F3FB-200D-2642-FE0F",
+        "name": "man running: light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-running-light-skin-tone"
+      },
+      {
+        "char": "🏃🏼‍♂️",
+        "codepoints": "1F3C3-1F3FC-200D-2642-FE0F",
+        "name": "man running: medium-light skin tone",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/man-running-medium-light-skin-tone"
+      },
+      {
+        "char": "🏳️‍🌈",
+        "codepoints": "1F3F3-FE0F-200D-1F308",
+        "name": "rainbow flag",
+        "unicode_version": "9.0",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-10.0/rainbow-flag"
+      }
+    ],
+    "unresolved_count": 0,
+    "scrape_status": "success",
+    "scraped_at": "2026-01-01T12:52:59.659Z"
+  },
+  {
+    "url": "https://emojipedia.org/apple/ios-10.3",
+    "new_url": "https://emojipedia.org/apple/ios-10.3/new",
+    "vendor": "apple_ios",
+    "os_version": "iOS_10.3",
+    "release_date": null,
+    "emoji_versions_mentioned": [],
+    "max_emoji_version": null,
+    "emojis_found": 0,
+    "emojis": [],
+    "unresolved_count": 0,
+    "scrape_status": "success",
+    "scraped_at": "2026-01-01T12:53:34.572Z"
+  },
+  {
+    "url": "https://emojipedia.org/apple/ios-11.2",
+    "new_url": "https://emojipedia.org/apple/ios-11.2/new",
+    "vendor": "apple_ios",
+    "os_version": "iOS_11.2",
+    "release_date": null,
+    "error": "NO_EMOJI_LINKS_FOUND",
+    "scrape_status": "failed",
+    "scraped_at": "2026-01-01T12:54:09.641Z",
+    "emoji_versions_mentioned": [],
+    "emojis": [],
+    "emojis_found": 0
+  },
+  {
+    "url": "https://emojipedia.org/apple/ios-11.3",
+    "new_url": "https://emojipedia.org/apple/ios-11.3/new",
+    "vendor": "apple_ios",
+    "os_version": "iOS_11.3",
+    "release_date": null,
+    "error": "NO_EMOJI_LINKS_FOUND",
+    "scrape_status": "failed",
+    "scraped_at": "2026-01-01T12:54:44.346Z",
+    "emoji_versions_mentioned": [],
+    "emojis": [],
+    "emojis_found": 0
+  },
+  {
+    "url": "https://emojipedia.org/apple/ios-12.2",
+    "new_url": "https://emojipedia.org/apple/ios-12.2/new",
+    "vendor": "apple_ios",
+    "os_version": "iOS_12.2",
+    "release_date": null,
+    "error": "NO_EMOJI_LINKS_FOUND",
+    "scrape_status": "failed",
+    "scraped_at": "2026-01-01T12:55:19.431Z",
+    "emoji_versions_mentioned": [],
+    "emojis": [],
+    "emojis_found": 0
+  },
+  {
+    "url": "https://emojipedia.org/apple/ios-13.1",
+    "new_url": "https://emojipedia.org/apple/ios-13.1/new",
+    "vendor": "apple_ios",
+    "os_version": "iOS_13.1",
+    "release_date": "24 September 2019",
+    "error": "NO_EMOJI_LINKS_FOUND",
+    "scrape_status": "failed",
+    "scraped_at": "2026-01-01T12:55:54.362Z",
+    "emoji_versions_mentioned": [],
+    "emojis": [],
+    "emojis_found": 0
+  },
+  {
+    "url": "https://emojipedia.org/apple/ios-13.3",
+    "new_url": "https://emojipedia.org/apple/ios-13.3/new",
+    "vendor": "apple_ios",
+    "os_version": "iOS_13.3",
+    "release_date": null,
+    "emoji_versions_mentioned": [],
+    "max_emoji_version": "12.1",
+    "emojis_found": 1,
+    "emojis": [
+      {
+        "char": "👨🏽‍🤝‍👨🏾",
+        "codepoints": "1F468-1F3FD-200D-1F91D-200D-1F468-1F3FE",
+        "name": "men holding hands: medium skin tone, medium-dark skin tone",
+        "unicode_version": "12.1",
+        "source_method": "page_visit",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-13.3/men-holding-hands-medium-skin-tone-medium-dark-skin-tone/"
+      }
+    ],
+    "unresolved_count": 0,
+    "scrape_status": "success",
+    "scraped_at": "2026-01-01T12:56:06.480Z"
+  },
+  {
+    "url": "https://emojipedia.org/apple/ios-14.6",
+    "new_url": "https://emojipedia.org/apple/ios-14.6/new",
+    "vendor": "apple_ios",
+    "os_version": "iOS_14.6",
+    "release_date": null,
+    "error": "NO_EMOJI_LINKS_FOUND",
+    "scrape_status": "failed",
+    "scraped_at": "2026-01-01T12:56:41.364Z",
+    "emoji_versions_mentioned": [],
+    "emojis": [],
+    "emojis_found": 0
+  },
+  {
+    "url": "https://emojipedia.org/apple/ios-17.4",
+    "new_url": "https://emojipedia.org/apple/ios-17.4/new",
+    "vendor": "apple_ios",
+    "os_version": "iOS_17.4",
+    "release_date": "05 March 2024",
+    "emoji_versions_mentioned": [],
+    "max_emoji_version": "15.1",
+    "emojis_found": 3,
+    "emojis": [
+      {
+        "char": "🙂‍↔️",
+        "codepoints": "1F642-200D-2194-FE0F",
+        "name": "head shaking horizontally",
+        "unicode_version": "15.1",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-17.4/head-shaking-horizontally"
+      },
+      {
+        "char": "🙂‍↕️",
+        "codepoints": "1F642-200D-2195-FE0F",
+        "name": "head shaking vertically",
+        "unicode_version": "15.1",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-17.4/head-shaking-vertically"
+      },
+      {
+        "char": "⛓️‍💥",
+        "codepoints": "26D3-FE0F-200D-1F4A5",
+        "name": "broken chain",
+        "unicode_version": "15.1",
+        "source_method": "dom_char",
+        "confidence": "high",
+        "source_url": "https://emojipedia.org/apple/ios-17.4/broken-chain"
+      }
+    ],
+    "unresolved_count": 0,
+    "scrape_status": "success",
+    "scraped_at": "2026-01-01T12:56:50.809Z"
+  },
+  {
+    "url": "https://emojipedia.org/apple/ios-18.4",
+    "new_url": "https://emojipedia.org/apple/ios-18.4/new",
+    "vendor": "apple_ios",
+    "os_version": "iOS_18.4",
+    "release_date": "31 March 2025",
+    "emoji_versions_mentioned": [],
+    "max_emoji_version": null,
+    "emojis_found": 0,
+    "emojis": [],
+    "unresolved_count": 3,
+    "scrape_status": "success_with_unresolved",
+    "scraped_at": "2026-01-01T12:57:07.246Z"
+  }
+]

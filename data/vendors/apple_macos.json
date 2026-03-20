@@ -1,0 +1,46 @@
+[
+  {
+    "vendor": "apple_macos",
+    "osVersion": "macOS_12.3",
+    "releaseDate": "2022-03-14",
+    "maxEmojiVersion": "14.0",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 0,
+    "emojis": [],
+    "sourceUrl": "https://emojipedia.org/apple/macos-12.3/new",
+    "isGenerated": true
+  },
+  {
+    "vendor": "apple_macos",
+    "osVersion": "macOS_13.3",
+    "releaseDate": "2023-03-27",
+    "maxEmojiVersion": "15.0",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 0,
+    "emojis": [],
+    "sourceUrl": "https://emojipedia.org/apple/ios-16.4/new",
+    "isGenerated": true
+  },
+  {
+    "vendor": "apple_macos",
+    "osVersion": "macOS_14.4",
+    "releaseDate": "2024-03-07",
+    "maxEmojiVersion": "15.1",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 0,
+    "emojis": [],
+    "sourceUrl": "https://emojipedia.org/apple/ios-17.4/new",
+    "isGenerated": true
+  },
+  {
+    "vendor": "apple_macos",
+    "osVersion": "macOS_15.4",
+    "releaseDate": "2025-03-31",
+    "maxEmojiVersion": "17.0",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 0,
+    "emojis": [],
+    "sourceUrl": "https://emojipedia.org/apple/ios-18.4/new",
+    "isGenerated": true
+  }
+]

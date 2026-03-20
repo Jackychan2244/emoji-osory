@@ -1,0 +1,2910 @@
+{
+  "version": "2.0.0",
+  "generated": "2026-03-20T17:12:05.690Z",
+  "metadata": {
+    "unicodeVersionsCovered": [
+      "9.0",
+      "10.0",
+      "11.0",
+      "12.0",
+      "12.1",
+      "13.0",
+      "13.1",
+      "14.0",
+      "15.0",
+      "15.1",
+      "16.0",
+      "17.0"
+    ],
+    "vendorsCovered": [
+      "apple_ios",
+      "apple_macos",
+      "google_android",
+      "google_noto",
+      "microsoft_windows",
+      "samsung"
+    ],
+    "totalOsVersions": 66
+  },
+  "defaults": {
+    "analysis": {
+      "unicodeDetection": {
+        "sentinelFullMatchMinCoverage": 0.5,
+        "fullMatchConfidence": 1,
+        "partialMatchConfidence": 0.6,
+        "fallbackConfidence": 0.3,
+        "versionFilter": {
+          "mode": "exclude",
+          "versions": [
+            "12.1",
+            "13.1",
+            "15.1"
+          ]
+        },
+        "profile": {
+          "omitEmptyVersions": true
+        }
+      },
+      "scoring": {
+        "emojiProfile": {
+          "enabled": true
+        },
+        "environmentHints": {
+          "enabled": true,
+          "mode": "score",
+          "weights": {
+            "uaMatchBonus": 25,
+            "uaMismatchPenalty": 10,
+            "appleCrossBonus": 10
+          }
+        },
+        "uaChNarrowing": {
+          "enabled": true,
+          "allowAppleCross": true
+        }
+      },
+      "scoreClamp": {
+        "min": 0,
+        "max": 125
+      },
+      "guards": {
+        "spoofingDetected": {
+          "enabled": true,
+          "policy": "reject"
+        },
+        "canvasBlocked": {
+          "enabled": true,
+          "policy": "reject"
+        },
+        "tofuCluster": {
+          "enabled": true,
+          "policy": "reject",
+          "requireApplied": true,
+          "minConsideredTrue": 12,
+          "minDominantCount": 8,
+          "minShare": 0.25
+        }
+      }
+    },
+    "browser": {
+      "tofuCluster": {
+        "enabled": true,
+        "applyCorrection": true,
+        "minConsideredTrue": 12,
+        "minDominantCount": 8,
+        "minShare": 0.25
+      }
+    }
+  },
+  "unicodeVersions": {
+    "9.0": {
+      "releaseDate": null,
+      "fullEmojiCount": 2822,
+      "sentinelIds": [
+        "1F600",
+        "1F645",
+        "1F435",
+        "1F426",
+        "1F343",
+        "1F347",
+        "1F957",
+        "1F3FA",
+        "1F30D",
+        "26FD"
+      ]
+    },
+    "10.0": {
+      "releaseDate": null,
+      "fullEmojiCount": 3377,
+      "sentinelIds": [
+        "1F929",
+        "1F9DB",
+        "1F993",
+        "1F995",
+        "1F965",
+        "1F96B",
+        "1F962",
+        "1F6F8",
+        "1F6F7",
+        "1F94C"
+      ]
+    },
+    "11.0": {
+      "releaseDate": null,
+      "fullEmojiCount": 3570,
+      "sentinelIds": [
+        "1F970",
+        "1F9B0",
+        "1F99D",
+        "1F9A2",
+        "1F9A0",
+        "1F96D",
+        "1F9C2",
+        "1F9ED",
+        "1F6F9",
+        "1F9E8"
+      ]
+    },
+    "12.0": {
+      "releaseDate": null,
+      "fullEmojiCount": 3836,
+      "sentinelIds": [
+        "1F971",
+        "1F90E",
+        "1F90D",
+        "1F90F",
+        "1F9BB",
+        "1F9CE",
+        "1F9A7",
+        "1F9A6",
+        "1F9C4",
+        "1F9C8"
+      ]
+    },
+    "12.1": {
+      "releaseDate": null,
+      "fullEmojiCount": 4022,
+      "sentinelIds": []
+    },
+    "13.0": {
+      "releaseDate": null,
+      "fullEmojiCount": 4168,
+      "sentinelIds": [
+        "1F972",
+        "1F978",
+        "1F90C",
+        "1FAC1",
+        "1FAC2",
+        "1F9AC",
+        "1F9AD",
+        "1FAB4",
+        "1FAD0",
+        "1FAD4"
+      ]
+    },
+    "13.1": {
+      "releaseDate": null,
+      "fullEmojiCount": 4590,
+      "sentinelIds": []
+    },
+    "14.0": {
+      "releaseDate": null,
+      "fullEmojiCount": 4702,
+      "sentinelIds": [
+        "1FAE0",
+        "1FAE1",
+        "1F979",
+        "1FAF1",
+        "1FAF6",
+        "1FAB8",
+        "1FAB9",
+        "1FAD8",
+        "1FAD7",
+        "1FAD9"
+      ]
+    },
+    "15.0": {
+      "releaseDate": null,
+      "fullEmojiCount": 4733,
+      "sentinelIds": [
+        "1FAE8",
+        "1FA75",
+        "1FAF7",
+        "1FAF8",
+        "1FACE",
+        "1FABF",
+        "1FADA",
+        "1FADB",
+        "1FAAD",
+        "1FA87"
+      ]
+    },
+    "15.1": {
+      "releaseDate": null,
+      "fullEmojiCount": 5034,
+      "sentinelIds": []
+    },
+    "16.0": {
+      "releaseDate": null,
+      "fullEmojiCount": 5042,
+      "sentinelIds": [
+        "1FAE9",
+        "1FAC6",
+        "1FABE",
+        "1FADC",
+        "1FA89",
+        "1FA8F",
+        "1FADF"
+      ]
+    },
+    "17.0": {
+      "releaseDate": null,
+      "fullEmojiCount": 5225,
+      "sentinelIds": [
+        "1FAEA",
+        "1FAEF",
+        "1FAC8",
+        "1FACD",
+        "1F6D8",
+        "1FA8A",
+        "1FA8E"
+      ]
+    }
+  },
+  "sentinels": {
+    "1F600": {
+      "id": "1F600",
+      "codepoints": [
+        "1F600"
+      ],
+      "name": "grinning face",
+      "unicodeVersion": "9.0",
+      "group": "Smileys & People",
+      "subgroup": "face-positive"
+    },
+    "1F645": {
+      "id": "1F645",
+      "codepoints": [
+        "1F645"
+      ],
+      "name": "person gesturing NO",
+      "unicodeVersion": "9.0",
+      "group": "Smileys & People",
+      "subgroup": "person-gesture"
+    },
+    "1F435": {
+      "id": "1F435",
+      "codepoints": [
+        "1F435"
+      ],
+      "name": "monkey face",
+      "unicodeVersion": "9.0",
+      "group": "Animals & Nature",
+      "subgroup": "animal-mammal"
+    },
+    "1F426": {
+      "id": "1F426",
+      "codepoints": [
+        "1F426"
+      ],
+      "name": "bird",
+      "unicodeVersion": "9.0",
+      "group": "Animals & Nature",
+      "subgroup": "animal-bird"
+    },
+    "1F343": {
+      "id": "1F343",
+      "codepoints": [
+        "1F343"
+      ],
+      "name": "leaf fluttering in wind",
+      "unicodeVersion": "9.0",
+      "group": "Animals & Nature",
+      "subgroup": "plant-other"
+    },
+    "1F347": {
+      "id": "1F347",
+      "codepoints": [
+        "1F347"
+      ],
+      "name": "grapes",
+      "unicodeVersion": "9.0",
+      "group": "Food & Drink",
+      "subgroup": "food-fruit"
+    },
+    "1F957": {
+      "id": "1F957",
+      "codepoints": [
+        "1F957"
+      ],
+      "name": "green salad",
+      "unicodeVersion": "9.0",
+      "group": "Food & Drink",
+      "subgroup": "food-prepared"
+    },
+    "1F3FA": {
+      "id": "1F3FA",
+      "codepoints": [
+        "1F3FA"
+      ],
+      "name": "amphora",
+      "unicodeVersion": "9.0",
+      "group": "Food & Drink",
+      "subgroup": "dishware"
+    },
+    "1F30D": {
+      "id": "1F30D",
+      "codepoints": [
+        "1F30D"
+      ],
+      "name": "globe showing Europe-Africa",
+      "unicodeVersion": "9.0",
+      "group": "Travel & Places",
+      "subgroup": "place-map"
+    },
+    "26FD": {
+      "id": "26FD",
+      "codepoints": [
+        "26FD"
+      ],
+      "name": "fuel pump",
+      "unicodeVersion": "9.0",
+      "group": "Travel & Places",
+      "subgroup": "transport-ground"
+    },
+    "1F929": {
+      "id": "1F929",
+      "codepoints": [
+        "1F929"
+      ],
+      "name": "star-struck",
+      "unicodeVersion": "10.0",
+      "group": "Smileys & People",
+      "subgroup": "face-positive"
+    },
+    "1F9DB": {
+      "id": "1F9DB",
+      "codepoints": [
+        "1F9DB"
+      ],
+      "name": "vampire",
+      "unicodeVersion": "10.0",
+      "group": "Smileys & People",
+      "subgroup": "person-fantasy"
+    },
+    "1F993": {
+      "id": "1F993",
+      "codepoints": [
+        "1F993"
+      ],
+      "name": "zebra",
+      "unicodeVersion": "10.0",
+      "group": "Animals & Nature",
+      "subgroup": "animal-mammal"
+    },
+    "1F995": {
+      "id": "1F995",
+      "codepoints": [
+        "1F995"
+      ],
+      "name": "sauropod",
+      "unicodeVersion": "10.0",
+      "group": "Animals & Nature",
+      "subgroup": "animal-reptile"
+    },
+    "1F965": {
+      "id": "1F965",
+      "codepoints": [
+        "1F965"
+      ],
+      "name": "coconut",
+      "unicodeVersion": "10.0",
+      "group": "Food & Drink",
+      "subgroup": "food-fruit"
+    },
+    "1F96B": {
+      "id": "1F96B",
+      "codepoints": [
+        "1F96B"
+      ],
+      "name": "canned food",
+      "unicodeVersion": "10.0",
+      "group": "Food & Drink",
+      "subgroup": "food-prepared"
+    },
+    "1F962": {
+      "id": "1F962",
+      "codepoints": [
+        "1F962"
+      ],
+      "name": "chopsticks",
+      "unicodeVersion": "10.0",
+      "group": "Food & Drink",
+      "subgroup": "dishware"
+    },
+    "1F6F8": {
+      "id": "1F6F8",
+      "codepoints": [
+        "1F6F8"
+      ],
+      "name": "flying saucer",
+      "unicodeVersion": "10.0",
+      "group": "Travel & Places",
+      "subgroup": "transport-air"
+    },
+    "1F6F7": {
+      "id": "1F6F7",
+      "codepoints": [
+        "1F6F7"
+      ],
+      "name": "sled",
+      "unicodeVersion": "10.0",
+      "group": "Activities",
+      "subgroup": "sport"
+    },
+    "1F94C": {
+      "id": "1F94C",
+      "codepoints": [
+        "1F94C"
+      ],
+      "name": "curling stone",
+      "unicodeVersion": "10.0",
+      "group": "Activities",
+      "subgroup": "sport"
+    },
+    "1F970": {
+      "id": "1F970",
+      "codepoints": [
+        "1F970"
+      ],
+      "name": "smiling face with 3 hearts",
+      "unicodeVersion": "11.0",
+      "group": "Smileys & People",
+      "subgroup": "face-positive"
+    },
+    "1F9B0": {
+      "id": "1F9B0",
+      "codepoints": [
+        "1F9B0"
+      ],
+      "name": "red-haired",
+      "unicodeVersion": "11.0",
+      "group": "Smileys & People",
+      "subgroup": "body"
+    },
+    "1F99D": {
+      "id": "1F99D",
+      "codepoints": [
+        "1F99D"
+      ],
+      "name": "raccoon",
+      "unicodeVersion": "11.0",
+      "group": "Animals & Nature",
+      "subgroup": "animal-mammal"
+    },
+    "1F9A2": {
+      "id": "1F9A2",
+      "codepoints": [
+        "1F9A2"
+      ],
+      "name": "swan",
+      "unicodeVersion": "11.0",
+      "group": "Animals & Nature",
+      "subgroup": "animal-bird"
+    },
+    "1F9A0": {
+      "id": "1F9A0",
+      "codepoints": [
+        "1F9A0"
+      ],
+      "name": "microbe",
+      "unicodeVersion": "11.0",
+      "group": "Animals & Nature",
+      "subgroup": "animal-bug"
+    },
+    "1F96D": {
+      "id": "1F96D",
+      "codepoints": [
+        "1F96D"
+      ],
+      "name": "mango",
+      "unicodeVersion": "11.0",
+      "group": "Food & Drink",
+      "subgroup": "food-fruit"
+    },
+    "1F9C2": {
+      "id": "1F9C2",
+      "codepoints": [
+        "1F9C2"
+      ],
+      "name": "salt",
+      "unicodeVersion": "11.0",
+      "group": "Food & Drink",
+      "subgroup": "food-prepared"
+    },
+    "1F9ED": {
+      "id": "1F9ED",
+      "codepoints": [
+        "1F9ED"
+      ],
+      "name": "compass",
+      "unicodeVersion": "11.0",
+      "group": "Travel & Places",
+      "subgroup": "place-map"
+    },
+    "1F6F9": {
+      "id": "1F6F9",
+      "codepoints": [
+        "1F6F9"
+      ],
+      "name": "skateboard",
+      "unicodeVersion": "11.0",
+      "group": "Travel & Places",
+      "subgroup": "transport-ground"
+    },
+    "1F9E8": {
+      "id": "1F9E8",
+      "codepoints": [
+        "1F9E8"
+      ],
+      "name": "firecracker",
+      "unicodeVersion": "11.0",
+      "group": "Activities",
+      "subgroup": "event"
+    },
+    "1F971": {
+      "id": "1F971",
+      "codepoints": [
+        "1F971"
+      ],
+      "name": "yawning face",
+      "unicodeVersion": "12.0",
+      "group": "Smileys & Emotion",
+      "subgroup": "face-concerned"
+    },
+    "1F90E": {
+      "id": "1F90E",
+      "codepoints": [
+        "1F90E"
+      ],
+      "name": "brown heart",
+      "unicodeVersion": "12.0",
+      "group": "Smileys & Emotion",
+      "subgroup": "emotion"
+    },
+    "1F90D": {
+      "id": "1F90D",
+      "codepoints": [
+        "1F90D"
+      ],
+      "name": "white heart",
+      "unicodeVersion": "12.0",
+      "group": "Smileys & Emotion",
+      "subgroup": "emotion"
+    },
+    "1F90F": {
+      "id": "1F90F",
+      "codepoints": [
+        "1F90F"
+      ],
+      "name": "pinching hand",
+      "unicodeVersion": "12.0",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    "1F9BB": {
+      "id": "1F9BB",
+      "codepoints": [
+        "1F9BB"
+      ],
+      "name": "ear with hearing aid",
+      "unicodeVersion": "12.0",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    "1F9CE": {
+      "id": "1F9CE",
+      "codepoints": [
+        "1F9CE"
+      ],
+      "name": "person kneeling",
+      "unicodeVersion": "12.0",
+      "group": "People & Body",
+      "subgroup": "person-activity"
+    },
+    "1F9A7": {
+      "id": "1F9A7",
+      "codepoints": [
+        "1F9A7"
+      ],
+      "name": "orangutan",
+      "unicodeVersion": "12.0",
+      "group": "Animals & Nature",
+      "subgroup": "animal-mammal"
+    },
+    "1F9A6": {
+      "id": "1F9A6",
+      "codepoints": [
+        "1F9A6"
+      ],
+      "name": "otter",
+      "unicodeVersion": "12.0",
+      "group": "Animals & Nature",
+      "subgroup": "animal-mammal"
+    },
+    "1F9C4": {
+      "id": "1F9C4",
+      "codepoints": [
+        "1F9C4"
+      ],
+      "name": "garlic",
+      "unicodeVersion": "12.0",
+      "group": "Food & Drink",
+      "subgroup": "food-vegetable"
+    },
+    "1F9C8": {
+      "id": "1F9C8",
+      "codepoints": [
+        "1F9C8"
+      ],
+      "name": "butter",
+      "unicodeVersion": "12.0",
+      "group": "Food & Drink",
+      "subgroup": "food-prepared"
+    },
+    "1F972": {
+      "id": "1F972",
+      "codepoints": [
+        "1F972"
+      ],
+      "name": "smiling face with tear",
+      "unicodeVersion": "13.0",
+      "group": "Smileys & Emotion",
+      "subgroup": "face-affection"
+    },
+    "1F978": {
+      "id": "1F978",
+      "codepoints": [
+        "1F978"
+      ],
+      "name": "disguised face",
+      "unicodeVersion": "13.0",
+      "group": "Smileys & Emotion",
+      "subgroup": "face-hat"
+    },
+    "1F90C": {
+      "id": "1F90C",
+      "codepoints": [
+        "1F90C"
+      ],
+      "name": "pinched fingers",
+      "unicodeVersion": "13.0",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-partial"
+    },
+    "1FAC1": {
+      "id": "1FAC1",
+      "codepoints": [
+        "1FAC1"
+      ],
+      "name": "lungs",
+      "unicodeVersion": "13.0",
+      "group": "People & Body",
+      "subgroup": "body-parts"
+    },
+    "1FAC2": {
+      "id": "1FAC2",
+      "codepoints": [
+        "1FAC2"
+      ],
+      "name": "people hugging",
+      "unicodeVersion": "13.0",
+      "group": "People & Body",
+      "subgroup": "person-symbol"
+    },
+    "1F9AC": {
+      "id": "1F9AC",
+      "codepoints": [
+        "1F9AC"
+      ],
+      "name": "bison",
+      "unicodeVersion": "13.0",
+      "group": "Animals & Nature",
+      "subgroup": "animal-mammal"
+    },
+    "1F9AD": {
+      "id": "1F9AD",
+      "codepoints": [
+        "1F9AD"
+      ],
+      "name": "seal",
+      "unicodeVersion": "13.0",
+      "group": "Animals & Nature",
+      "subgroup": "animal-marine"
+    },
+    "1FAB4": {
+      "id": "1FAB4",
+      "codepoints": [
+        "1FAB4"
+      ],
+      "name": "potted plant",
+      "unicodeVersion": "13.0",
+      "group": "Animals & Nature",
+      "subgroup": "plant-other"
+    },
+    "1FAD0": {
+      "id": "1FAD0",
+      "codepoints": [
+        "1FAD0"
+      ],
+      "name": "blueberries",
+      "unicodeVersion": "13.0",
+      "group": "Food & Drink",
+      "subgroup": "food-fruit"
+    },
+    "1FAD4": {
+      "id": "1FAD4",
+      "codepoints": [
+        "1FAD4"
+      ],
+      "name": "tamale",
+      "unicodeVersion": "13.0",
+      "group": "Food & Drink",
+      "subgroup": "food-prepared"
+    },
+    "1FAE0": {
+      "id": "1FAE0",
+      "codepoints": [
+        "1FAE0"
+      ],
+      "name": "melting face",
+      "unicodeVersion": "14.0",
+      "group": "Smileys & Emotion",
+      "subgroup": "face-smiling"
+    },
+    "1FAE1": {
+      "id": "1FAE1",
+      "codepoints": [
+        "1FAE1"
+      ],
+      "name": "saluting face",
+      "unicodeVersion": "14.0",
+      "group": "Smileys & Emotion",
+      "subgroup": "face-hand"
+    },
+    "1F979": {
+      "id": "1F979",
+      "codepoints": [
+        "1F979"
+      ],
+      "name": "face holding back tears",
+      "unicodeVersion": "14.0",
+      "group": "Smileys & Emotion",
+      "subgroup": "face-concerned"
+    },
+    "1FAF1": {
+      "id": "1FAF1",
+      "codepoints": [
+        "1FAF1"
+      ],
+      "name": "rightwards hand",
+      "unicodeVersion": "14.0",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    "1FAF6": {
+      "id": "1FAF6",
+      "codepoints": [
+        "1FAF6"
+      ],
+      "name": "heart hands",
+      "unicodeVersion": "14.0",
+      "group": "People & Body",
+      "subgroup": "hands"
+    },
+    "1FAB8": {
+      "id": "1FAB8",
+      "codepoints": [
+        "1FAB8"
+      ],
+      "name": "coral",
+      "unicodeVersion": "14.0",
+      "group": "Animals & Nature",
+      "subgroup": "animal-marine"
+    },
+    "1FAB9": {
+      "id": "1FAB9",
+      "codepoints": [
+        "1FAB9"
+      ],
+      "name": "empty nest",
+      "unicodeVersion": "14.0",
+      "group": "Animals & Nature",
+      "subgroup": "plant-other"
+    },
+    "1FAD8": {
+      "id": "1FAD8",
+      "codepoints": [
+        "1FAD8"
+      ],
+      "name": "beans",
+      "unicodeVersion": "14.0",
+      "group": "Food & Drink",
+      "subgroup": "food-vegetable"
+    },
+    "1FAD7": {
+      "id": "1FAD7",
+      "codepoints": [
+        "1FAD7"
+      ],
+      "name": "pouring liquid",
+      "unicodeVersion": "14.0",
+      "group": "Food & Drink",
+      "subgroup": "drink"
+    },
+    "1FAD9": {
+      "id": "1FAD9",
+      "codepoints": [
+        "1FAD9"
+      ],
+      "name": "jar",
+      "unicodeVersion": "14.0",
+      "group": "Food & Drink",
+      "subgroup": "dishware"
+    },
+    "1FAE8": {
+      "id": "1FAE8",
+      "codepoints": [
+        "1FAE8"
+      ],
+      "name": "shaking face",
+      "unicodeVersion": "15.0",
+      "group": "Smileys & Emotion",
+      "subgroup": "face-neutral-skeptical"
+    },
+    "1FA75": {
+      "id": "1FA75",
+      "codepoints": [
+        "1FA75"
+      ],
+      "name": "light blue heart",
+      "unicodeVersion": "15.0",
+      "group": "Smileys & Emotion",
+      "subgroup": "heart"
+    },
+    "1FAF7": {
+      "id": "1FAF7",
+      "codepoints": [
+        "1FAF7"
+      ],
+      "name": "leftwards pushing hand",
+      "unicodeVersion": "15.0",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    "1FAF8": {
+      "id": "1FAF8",
+      "codepoints": [
+        "1FAF8"
+      ],
+      "name": "rightwards pushing hand",
+      "unicodeVersion": "15.0",
+      "group": "People & Body",
+      "subgroup": "hand-fingers-open"
+    },
+    "1FACE": {
+      "id": "1FACE",
+      "codepoints": [
+        "1FACE"
+      ],
+      "name": "moose",
+      "unicodeVersion": "15.0",
+      "group": "Animals & Nature",
+      "subgroup": "animal-mammal"
+    },
+    "1FABF": {
+      "id": "1FABF",
+      "codepoints": [
+        "1FABF"
+      ],
+      "name": "goose",
+      "unicodeVersion": "15.0",
+      "group": "Animals & Nature",
+      "subgroup": "animal-bird"
+    },
+    "1FADA": {
+      "id": "1FADA",
+      "codepoints": [
+        "1FADA"
+      ],
+      "name": "ginger root",
+      "unicodeVersion": "15.0",
+      "group": "Food & Drink",
+      "subgroup": "food-vegetable"
+    },
+    "1FADB": {
+      "id": "1FADB",
+      "codepoints": [
+        "1FADB"
+      ],
+      "name": "pea pod",
+      "unicodeVersion": "15.0",
+      "group": "Food & Drink",
+      "subgroup": "food-vegetable"
+    },
+    "1FAAD": {
+      "id": "1FAAD",
+      "codepoints": [
+        "1FAAD"
+      ],
+      "name": "folding hand fan",
+      "unicodeVersion": "15.0",
+      "group": "Objects",
+      "subgroup": "clothing"
+    },
+    "1FA87": {
+      "id": "1FA87",
+      "codepoints": [
+        "1FA87"
+      ],
+      "name": "maracas",
+      "unicodeVersion": "15.0",
+      "group": "Objects",
+      "subgroup": "musical-instrument"
+    },
+    "1FAE9": {
+      "id": "1FAE9",
+      "codepoints": [
+        "1FAE9"
+      ],
+      "name": "face with bags under eyes",
+      "unicodeVersion": "16.0",
+      "group": "Smileys & Emotion",
+      "subgroup": "face-sleepy"
+    },
+    "1FAC6": {
+      "id": "1FAC6",
+      "codepoints": [
+        "1FAC6"
+      ],
+      "name": "fingerprint",
+      "unicodeVersion": "16.0",
+      "group": "People & Body",
+      "subgroup": "person-symbol"
+    },
+    "1FABE": {
+      "id": "1FABE",
+      "codepoints": [
+        "1FABE"
+      ],
+      "name": "leafless tree",
+      "unicodeVersion": "16.0",
+      "group": "Animals & Nature",
+      "subgroup": "plant-other"
+    },
+    "1FADC": {
+      "id": "1FADC",
+      "codepoints": [
+        "1FADC"
+      ],
+      "name": "root vegetable",
+      "unicodeVersion": "16.0",
+      "group": "Food & Drink",
+      "subgroup": "food-vegetable"
+    },
+    "1FA89": {
+      "id": "1FA89",
+      "codepoints": [
+        "1FA89"
+      ],
+      "name": "harp",
+      "unicodeVersion": "16.0",
+      "group": "Objects",
+      "subgroup": "musical-instrument"
+    },
+    "1FA8F": {
+      "id": "1FA8F",
+      "codepoints": [
+        "1FA8F"
+      ],
+      "name": "shovel",
+      "unicodeVersion": "16.0",
+      "group": "Objects",
+      "subgroup": "tool"
+    },
+    "1FADF": {
+      "id": "1FADF",
+      "codepoints": [
+        "1FADF"
+      ],
+      "name": "splatter",
+      "unicodeVersion": "16.0",
+      "group": "Symbols",
+      "subgroup": "other-symbol"
+    },
+    "1FAEA": {
+      "id": "1FAEA",
+      "codepoints": [
+        "1FAEA"
+      ],
+      "name": "distorted face",
+      "unicodeVersion": "17.0",
+      "group": "Smileys & Emotion",
+      "subgroup": "face-concerned"
+    },
+    "1FAEF": {
+      "id": "1FAEF",
+      "codepoints": [
+        "1FAEF"
+      ],
+      "name": "fight cloud",
+      "unicodeVersion": "17.0",
+      "group": "Smileys & Emotion",
+      "subgroup": "emotion"
+    },
+    "1FAC8": {
+      "id": "1FAC8",
+      "codepoints": [
+        "1FAC8"
+      ],
+      "name": "hairy creature",
+      "unicodeVersion": "17.0",
+      "group": "People & Body",
+      "subgroup": "person-fantasy"
+    },
+    "1FACD": {
+      "id": "1FACD",
+      "codepoints": [
+        "1FACD"
+      ],
+      "name": "orca",
+      "unicodeVersion": "17.0",
+      "group": "Animals & Nature",
+      "subgroup": "animal-marine"
+    },
+    "1F6D8": {
+      "id": "1F6D8",
+      "codepoints": [
+        "1F6D8"
+      ],
+      "name": "landslide",
+      "unicodeVersion": "17.0",
+      "group": "Travel & Places",
+      "subgroup": "place-geographic"
+    },
+    "1FA8A": {
+      "id": "1FA8A",
+      "codepoints": [
+        "1FA8A"
+      ],
+      "name": "trombone",
+      "unicodeVersion": "17.0",
+      "group": "Objects",
+      "subgroup": "musical-instrument"
+    },
+    "1FA8E": {
+      "id": "1FA8E",
+      "codepoints": [
+        "1FA8E"
+      ],
+      "name": "treasure chest",
+      "unicodeVersion": "17.0",
+      "group": "Objects",
+      "subgroup": "money"
+    }
+  },
+  "osCandidatesByUnicode": {
+    "9.0": [
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_9.0",
+        "maxEmojiVersion": "9.0",
+        "releaseDate": "09 September 2015"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_9.3",
+        "maxEmojiVersion": "9.0",
+        "releaseDate": null
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_10.0",
+        "maxEmojiVersion": "9.0",
+        "releaseDate": "13 September 2016"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_7.0",
+        "maxEmojiVersion": "9.0",
+        "releaseDate": "22 August 2016"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_8.0",
+        "maxEmojiVersion": "9.0",
+        "releaseDate": "26 October 2012"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10_Anniversary_Update",
+        "maxEmojiVersion": "9.0",
+        "releaseDate": "02 August 2016"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10_April_2018_Update",
+        "maxEmojiVersion": "9.0",
+        "releaseDate": "30 April 2018"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "Experience_8.0",
+        "maxEmojiVersion": "9.0",
+        "releaseDate": "17 January 2017"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "Experience_8.5",
+        "maxEmojiVersion": "9.0",
+        "releaseDate": "15 September 2017"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_6.0.1",
+        "maxEmojiVersion": "10.0",
+        "releaseDate": "07 December 2015"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_8.0",
+        "maxEmojiVersion": "10.0",
+        "releaseDate": "21 August 2017"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_8.1",
+        "maxEmojiVersion": "10.0",
+        "releaseDate": "17 October 2013"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10_Fall_Creators_Update",
+        "maxEmojiVersion": "10.0",
+        "releaseDate": "17 October 2017"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "Experience_9.0",
+        "maxEmojiVersion": "10.0",
+        "releaseDate": "12 February 2018"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2018",
+        "maxEmojiVersion": "11.0",
+        "releaseDate": "2018-06-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10_October_2018_Update",
+        "maxEmojiVersion": "11.0",
+        "releaseDate": "02 October 2018"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "Experience_9.5",
+        "maxEmojiVersion": "11.0",
+        "releaseDate": "24 August 2018"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2019",
+        "maxEmojiVersion": "12.0",
+        "releaseDate": "2019-09-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10_May_2019_Update",
+        "maxEmojiVersion": "12.0",
+        "releaseDate": "21 May 2019"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_1.5",
+        "maxEmojiVersion": "12.0",
+        "releaseDate": "23 August 2019"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_13.3",
+        "maxEmojiVersion": "12.1",
+        "releaseDate": null
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_10.0_March_2020_Feature_Drop",
+        "maxEmojiVersion": "12.1",
+        "releaseDate": "02 March 2020"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2019_1",
+        "maxEmojiVersion": "12.1",
+        "releaseDate": "2019-12-01"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_2.1",
+        "maxEmojiVersion": "12.1",
+        "releaseDate": "14 February 2020"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2020",
+        "maxEmojiVersion": "13.0",
+        "releaseDate": "2020-09-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11",
+        "maxEmojiVersion": "13.0",
+        "releaseDate": "05 October 2021"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_2.5",
+        "maxEmojiVersion": "13.0",
+        "releaseDate": "21 August 2020"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_11.0_December_2020_Feature_Drop",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "09 December 2020"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2020_1",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "2020-12-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10_Creators_Update",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "11 April 2017"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11_November_2021_Update",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "22 November 2021"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_4.0",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "15 November 2021"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_15.4",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "14 March 2022"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_12.3",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "2022-03-14"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_7.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "20 October 2016"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_8.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "05 December 2017"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_12L",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "27 October 2021"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2021",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "2021-09-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "29 July 2015"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "TouchWiz_7.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "22 September 2016"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_16.4",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "27 March 2023"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_13.3",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "2023-03-27"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2022",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "2022-09-13"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_5.0",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "24 October 2022"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_17.4",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "05 March 2024"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_14.4",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "2024-03-07"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2023",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "2023-09-13"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11_23H2_June_2024_Update",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "25 June 2024"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_6.0",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "30 October 2023"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2024",
+        "maxEmojiVersion": "16.0",
+        "releaseDate": "2024-09-10"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_15.4",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-03-31"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2025",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-09-09"
+      }
+    ],
+    "10.0": [
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_6.0.1",
+        "maxEmojiVersion": "10.0",
+        "releaseDate": "07 December 2015"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_8.0",
+        "maxEmojiVersion": "10.0",
+        "releaseDate": "21 August 2017"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_8.1",
+        "maxEmojiVersion": "10.0",
+        "releaseDate": "17 October 2013"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10_Fall_Creators_Update",
+        "maxEmojiVersion": "10.0",
+        "releaseDate": "17 October 2017"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "Experience_9.0",
+        "maxEmojiVersion": "10.0",
+        "releaseDate": "12 February 2018"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2018",
+        "maxEmojiVersion": "11.0",
+        "releaseDate": "2018-06-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10_October_2018_Update",
+        "maxEmojiVersion": "11.0",
+        "releaseDate": "02 October 2018"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "Experience_9.5",
+        "maxEmojiVersion": "11.0",
+        "releaseDate": "24 August 2018"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2019",
+        "maxEmojiVersion": "12.0",
+        "releaseDate": "2019-09-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10_May_2019_Update",
+        "maxEmojiVersion": "12.0",
+        "releaseDate": "21 May 2019"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_1.5",
+        "maxEmojiVersion": "12.0",
+        "releaseDate": "23 August 2019"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_13.3",
+        "maxEmojiVersion": "12.1",
+        "releaseDate": null
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_10.0_March_2020_Feature_Drop",
+        "maxEmojiVersion": "12.1",
+        "releaseDate": "02 March 2020"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2019_1",
+        "maxEmojiVersion": "12.1",
+        "releaseDate": "2019-12-01"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_2.1",
+        "maxEmojiVersion": "12.1",
+        "releaseDate": "14 February 2020"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2020",
+        "maxEmojiVersion": "13.0",
+        "releaseDate": "2020-09-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11",
+        "maxEmojiVersion": "13.0",
+        "releaseDate": "05 October 2021"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_2.5",
+        "maxEmojiVersion": "13.0",
+        "releaseDate": "21 August 2020"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_11.0_December_2020_Feature_Drop",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "09 December 2020"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2020_1",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "2020-12-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10_Creators_Update",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "11 April 2017"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11_November_2021_Update",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "22 November 2021"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_4.0",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "15 November 2021"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_15.4",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "14 March 2022"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_12.3",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "2022-03-14"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_7.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "20 October 2016"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_8.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "05 December 2017"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_12L",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "27 October 2021"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2021",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "2021-09-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "29 July 2015"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "TouchWiz_7.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "22 September 2016"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_16.4",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "27 March 2023"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_13.3",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "2023-03-27"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2022",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "2022-09-13"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_5.0",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "24 October 2022"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_17.4",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "05 March 2024"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_14.4",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "2024-03-07"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2023",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "2023-09-13"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11_23H2_June_2024_Update",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "25 June 2024"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_6.0",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "30 October 2023"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2024",
+        "maxEmojiVersion": "16.0",
+        "releaseDate": "2024-09-10"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_15.4",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-03-31"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2025",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-09-09"
+      }
+    ],
+    "11.0": [
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2018",
+        "maxEmojiVersion": "11.0",
+        "releaseDate": "2018-06-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10_October_2018_Update",
+        "maxEmojiVersion": "11.0",
+        "releaseDate": "02 October 2018"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "Experience_9.5",
+        "maxEmojiVersion": "11.0",
+        "releaseDate": "24 August 2018"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2019",
+        "maxEmojiVersion": "12.0",
+        "releaseDate": "2019-09-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10_May_2019_Update",
+        "maxEmojiVersion": "12.0",
+        "releaseDate": "21 May 2019"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_1.5",
+        "maxEmojiVersion": "12.0",
+        "releaseDate": "23 August 2019"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_13.3",
+        "maxEmojiVersion": "12.1",
+        "releaseDate": null
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_10.0_March_2020_Feature_Drop",
+        "maxEmojiVersion": "12.1",
+        "releaseDate": "02 March 2020"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2019_1",
+        "maxEmojiVersion": "12.1",
+        "releaseDate": "2019-12-01"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_2.1",
+        "maxEmojiVersion": "12.1",
+        "releaseDate": "14 February 2020"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2020",
+        "maxEmojiVersion": "13.0",
+        "releaseDate": "2020-09-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11",
+        "maxEmojiVersion": "13.0",
+        "releaseDate": "05 October 2021"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_2.5",
+        "maxEmojiVersion": "13.0",
+        "releaseDate": "21 August 2020"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_11.0_December_2020_Feature_Drop",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "09 December 2020"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2020_1",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "2020-12-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10_Creators_Update",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "11 April 2017"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11_November_2021_Update",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "22 November 2021"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_4.0",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "15 November 2021"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_15.4",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "14 March 2022"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_12.3",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "2022-03-14"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_7.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "20 October 2016"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_8.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "05 December 2017"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_12L",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "27 October 2021"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2021",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "2021-09-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "29 July 2015"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "TouchWiz_7.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "22 September 2016"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_16.4",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "27 March 2023"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_13.3",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "2023-03-27"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2022",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "2022-09-13"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_5.0",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "24 October 2022"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_17.4",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "05 March 2024"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_14.4",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "2024-03-07"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2023",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "2023-09-13"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11_23H2_June_2024_Update",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "25 June 2024"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_6.0",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "30 October 2023"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2024",
+        "maxEmojiVersion": "16.0",
+        "releaseDate": "2024-09-10"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_15.4",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-03-31"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2025",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-09-09"
+      }
+    ],
+    "12.0": [
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2019",
+        "maxEmojiVersion": "12.0",
+        "releaseDate": "2019-09-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10_May_2019_Update",
+        "maxEmojiVersion": "12.0",
+        "releaseDate": "21 May 2019"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_1.5",
+        "maxEmojiVersion": "12.0",
+        "releaseDate": "23 August 2019"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_13.3",
+        "maxEmojiVersion": "12.1",
+        "releaseDate": null
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_10.0_March_2020_Feature_Drop",
+        "maxEmojiVersion": "12.1",
+        "releaseDate": "02 March 2020"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2019_1",
+        "maxEmojiVersion": "12.1",
+        "releaseDate": "2019-12-01"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_2.1",
+        "maxEmojiVersion": "12.1",
+        "releaseDate": "14 February 2020"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2020",
+        "maxEmojiVersion": "13.0",
+        "releaseDate": "2020-09-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11",
+        "maxEmojiVersion": "13.0",
+        "releaseDate": "05 October 2021"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_2.5",
+        "maxEmojiVersion": "13.0",
+        "releaseDate": "21 August 2020"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_11.0_December_2020_Feature_Drop",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "09 December 2020"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2020_1",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "2020-12-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10_Creators_Update",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "11 April 2017"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11_November_2021_Update",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "22 November 2021"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_4.0",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "15 November 2021"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_15.4",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "14 March 2022"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_12.3",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "2022-03-14"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_7.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "20 October 2016"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_8.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "05 December 2017"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_12L",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "27 October 2021"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2021",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "2021-09-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "29 July 2015"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "TouchWiz_7.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "22 September 2016"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_16.4",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "27 March 2023"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_13.3",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "2023-03-27"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2022",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "2022-09-13"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_5.0",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "24 October 2022"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_17.4",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "05 March 2024"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_14.4",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "2024-03-07"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2023",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "2023-09-13"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11_23H2_June_2024_Update",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "25 June 2024"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_6.0",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "30 October 2023"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2024",
+        "maxEmojiVersion": "16.0",
+        "releaseDate": "2024-09-10"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_15.4",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-03-31"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2025",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-09-09"
+      }
+    ],
+    "12.1": [
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_13.3",
+        "maxEmojiVersion": "12.1",
+        "releaseDate": null
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_10.0_March_2020_Feature_Drop",
+        "maxEmojiVersion": "12.1",
+        "releaseDate": "02 March 2020"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2019_1",
+        "maxEmojiVersion": "12.1",
+        "releaseDate": "2019-12-01"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_2.1",
+        "maxEmojiVersion": "12.1",
+        "releaseDate": "14 February 2020"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2020",
+        "maxEmojiVersion": "13.0",
+        "releaseDate": "2020-09-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11",
+        "maxEmojiVersion": "13.0",
+        "releaseDate": "05 October 2021"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_2.5",
+        "maxEmojiVersion": "13.0",
+        "releaseDate": "21 August 2020"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_11.0_December_2020_Feature_Drop",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "09 December 2020"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2020_1",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "2020-12-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10_Creators_Update",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "11 April 2017"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11_November_2021_Update",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "22 November 2021"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_4.0",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "15 November 2021"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_15.4",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "14 March 2022"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_12.3",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "2022-03-14"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_7.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "20 October 2016"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_8.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "05 December 2017"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_12L",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "27 October 2021"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2021",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "2021-09-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "29 July 2015"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "TouchWiz_7.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "22 September 2016"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_16.4",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "27 March 2023"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_13.3",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "2023-03-27"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2022",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "2022-09-13"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_5.0",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "24 October 2022"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_17.4",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "05 March 2024"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_14.4",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "2024-03-07"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2023",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "2023-09-13"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11_23H2_June_2024_Update",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "25 June 2024"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_6.0",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "30 October 2023"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2024",
+        "maxEmojiVersion": "16.0",
+        "releaseDate": "2024-09-10"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_15.4",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-03-31"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2025",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-09-09"
+      }
+    ],
+    "13.0": [
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2020",
+        "maxEmojiVersion": "13.0",
+        "releaseDate": "2020-09-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11",
+        "maxEmojiVersion": "13.0",
+        "releaseDate": "05 October 2021"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_2.5",
+        "maxEmojiVersion": "13.0",
+        "releaseDate": "21 August 2020"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_11.0_December_2020_Feature_Drop",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "09 December 2020"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2020_1",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "2020-12-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10_Creators_Update",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "11 April 2017"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11_November_2021_Update",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "22 November 2021"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_4.0",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "15 November 2021"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_15.4",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "14 March 2022"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_12.3",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "2022-03-14"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_7.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "20 October 2016"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_8.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "05 December 2017"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_12L",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "27 October 2021"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2021",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "2021-09-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "29 July 2015"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "TouchWiz_7.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "22 September 2016"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_16.4",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "27 March 2023"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_13.3",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "2023-03-27"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2022",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "2022-09-13"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_5.0",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "24 October 2022"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_17.4",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "05 March 2024"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_14.4",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "2024-03-07"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2023",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "2023-09-13"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11_23H2_June_2024_Update",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "25 June 2024"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_6.0",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "30 October 2023"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2024",
+        "maxEmojiVersion": "16.0",
+        "releaseDate": "2024-09-10"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_15.4",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-03-31"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2025",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-09-09"
+      }
+    ],
+    "13.1": [
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_11.0_December_2020_Feature_Drop",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "09 December 2020"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2020_1",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "2020-12-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10_Creators_Update",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "11 April 2017"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11_November_2021_Update",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "22 November 2021"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_4.0",
+        "maxEmojiVersion": "13.1",
+        "releaseDate": "15 November 2021"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_15.4",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "14 March 2022"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_12.3",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "2022-03-14"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_7.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "20 October 2016"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_8.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "05 December 2017"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_12L",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "27 October 2021"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2021",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "2021-09-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "29 July 2015"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "TouchWiz_7.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "22 September 2016"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_16.4",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "27 March 2023"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_13.3",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "2023-03-27"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2022",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "2022-09-13"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_5.0",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "24 October 2022"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_17.4",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "05 March 2024"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_14.4",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "2024-03-07"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2023",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "2023-09-13"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11_23H2_June_2024_Update",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "25 June 2024"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_6.0",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "30 October 2023"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2024",
+        "maxEmojiVersion": "16.0",
+        "releaseDate": "2024-09-10"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_15.4",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-03-31"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2025",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-09-09"
+      }
+    ],
+    "14.0": [
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_15.4",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "14 March 2022"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_12.3",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "2022-03-14"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_7.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "20 October 2016"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_8.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "05 December 2017"
+      },
+      {
+        "vendor": "google_android",
+        "osVersion": "Android_12L",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "27 October 2021"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2021",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "2021-09-01"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_10",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "29 July 2015"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "TouchWiz_7.1",
+        "maxEmojiVersion": "14.0",
+        "releaseDate": "22 September 2016"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_16.4",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "27 March 2023"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_13.3",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "2023-03-27"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2022",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "2022-09-13"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_5.0",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "24 October 2022"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_17.4",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "05 March 2024"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_14.4",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "2024-03-07"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2023",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "2023-09-13"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11_23H2_June_2024_Update",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "25 June 2024"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_6.0",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "30 October 2023"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2024",
+        "maxEmojiVersion": "16.0",
+        "releaseDate": "2024-09-10"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_15.4",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-03-31"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2025",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-09-09"
+      }
+    ],
+    "15.0": [
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_16.4",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "27 March 2023"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_13.3",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "2023-03-27"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2022",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "2022-09-13"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_5.0",
+        "maxEmojiVersion": "15.0",
+        "releaseDate": "24 October 2022"
+      },
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_17.4",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "05 March 2024"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_14.4",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "2024-03-07"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2023",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "2023-09-13"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11_23H2_June_2024_Update",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "25 June 2024"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_6.0",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "30 October 2023"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2024",
+        "maxEmojiVersion": "16.0",
+        "releaseDate": "2024-09-10"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_15.4",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-03-31"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2025",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-09-09"
+      }
+    ],
+    "15.1": [
+      {
+        "vendor": "apple_ios",
+        "osVersion": "iOS_17.4",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "05 March 2024"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_14.4",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "2024-03-07"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2023",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "2023-09-13"
+      },
+      {
+        "vendor": "microsoft_windows",
+        "osVersion": "Windows_11_23H2_June_2024_Update",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "25 June 2024"
+      },
+      {
+        "vendor": "samsung",
+        "osVersion": "OneUI_6.0",
+        "maxEmojiVersion": "15.1",
+        "releaseDate": "30 October 2023"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2024",
+        "maxEmojiVersion": "16.0",
+        "releaseDate": "2024-09-10"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_15.4",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-03-31"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2025",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-09-09"
+      }
+    ],
+    "16.0": [
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2024",
+        "maxEmojiVersion": "16.0",
+        "releaseDate": "2024-09-10"
+      },
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_15.4",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-03-31"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2025",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-09-09"
+      }
+    ],
+    "17.0": [
+      {
+        "vendor": "apple_macos",
+        "osVersion": "macOS_15.4",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-03-31"
+      },
+      {
+        "vendor": "google_noto",
+        "osVersion": "Noto_2025",
+        "maxEmojiVersion": "17.0",
+        "releaseDate": "2025-09-09"
+      }
+    ]
+  }
+}

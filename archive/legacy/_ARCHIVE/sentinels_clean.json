@@ -1,0 +1,299 @@
+{
+  "9.0": [
+    {
+      "char": "😀",
+      "name": "grinning face"
+    },
+    {
+      "char": "🙅",
+      "name": "person gesturing NO"
+    },
+    {
+      "char": "🐵",
+      "name": "monkey face"
+    },
+    {
+      "char": "🐦",
+      "name": "bird"
+    },
+    {
+      "char": "🍃",
+      "name": "leaf fluttering in wind"
+    },
+    {
+      "char": "🍇",
+      "name": "grapes"
+    },
+    {
+      "char": "🥗",
+      "name": "green salad"
+    },
+    {
+      "char": "🏺",
+      "name": "amphora"
+    },
+    {
+      "char": "🌍",
+      "name": "globe showing Europe-Africa"
+    },
+    {
+      "char": "⛽",
+      "name": "fuel pump"
+    }
+  ],
+  "10.0": [
+    {
+      "char": "🤩",
+      "name": "star-struck"
+    },
+    {
+      "char": "🧛",
+      "name": "vampire"
+    },
+    {
+      "char": "🦓",
+      "name": "zebra"
+    },
+    {
+      "char": "🦕",
+      "name": "sauropod"
+    },
+    {
+      "char": "🥥",
+      "name": "coconut"
+    },
+    {
+      "char": "🥫",
+      "name": "canned food"
+    },
+    {
+      "char": "🥢",
+      "name": "chopsticks"
+    },
+    {
+      "char": "🛸",
+      "name": "flying saucer"
+    },
+    {
+      "char": "🛷",
+      "name": "sled"
+    },
+    {
+      "char": "🥌",
+      "name": "curling stone"
+    }
+  ],
+  "11.0": [
+    {
+      "char": "🥰",
+      "name": "smiling face with 3 hearts"
+    },
+    {
+      "char": "🦰",
+      "name": "red-haired"
+    },
+    {
+      "char": "🦝",
+      "name": "raccoon"
+    },
+    {
+      "char": "🦢",
+      "name": "swan"
+    },
+    {
+      "char": "🦠",
+      "name": "microbe"
+    },
+    {
+      "char": "🥭",
+      "name": "mango"
+    },
+    {
+      "char": "🧂",
+      "name": "salt"
+    },
+    {
+      "char": "🧭",
+      "name": "compass"
+    },
+    {
+      "char": "🛹",
+      "name": "skateboard"
+    },
+    {
+      "char": "🧨",
+      "name": "firecracker"
+    }
+  ],
+  "12.0": [
+    {
+      "char": "🥱",
+      "name": "yawning face"
+    },
+    {
+      "char": "🤎",
+      "name": "brown heart"
+    },
+    {
+      "char": "🤍",
+      "name": "white heart"
+    },
+    {
+      "char": "🤏",
+      "name": "pinching hand"
+    },
+    {
+      "char": "🦻",
+      "name": "ear with hearing aid"
+    },
+    {
+      "char": "🧎",
+      "name": "person kneeling"
+    },
+    {
+      "char": "🦧",
+      "name": "orangutan"
+    },
+    {
+      "char": "🦦",
+      "name": "otter"
+    },
+    {
+      "char": "🧄",
+      "name": "garlic"
+    },
+    {
+      "char": "🧈",
+      "name": "butter"
+    }
+  ],
+  "12.1": [],
+  "13.0": [
+    {
+      "char": "🥲",
+      "name": "smiling face with tear"
+    },
+    {
+      "char": "🥸",
+      "name": "disguised face"
+    },
+    {
+      "char": "🤌",
+      "name": "pinched fingers"
+    },
+    {
+      "char": "🫁",
+      "name": "lungs"
+    },
+    {
+      "char": "🫂",
+      "name": "people hugging"
+    },
+    {
+      "char": "🦬",
+      "name": "bison"
+    },
+    {
+      "char": "🦭",
+      "name": "seal"
+    },
+    {
+      "char": "🪴",
+      "name": "potted plant"
+    },
+    {
+      "char": "🫐",
+      "name": "blueberries"
+    },
+    {
+      "char": "🫔",
+      "name": "tamale"
+    }
+  ],
+  "13.1": [],
+  "14.0": [
+    {
+      "char": "🫠",
+      "name": "melting face"
+    },
+    {
+      "char": "🫡",
+      "name": "saluting face"
+    },
+    {
+      "char": "🥹",
+      "name": "face holding back tears"
+    },
+    {
+      "char": "🫱",
+      "name": "rightwards hand"
+    },
+    {
+      "char": "🫶",
+      "name": "heart hands"
+    },
+    {
+      "char": "🪸",
+      "name": "coral"
+    },
+    {
+      "char": "🪹",
+      "name": "empty nest"
+    },
+    {
+      "char": "🫘",
+      "name": "beans"
+    },
+    {
+      "char": "🫗",
+      "name": "pouring liquid"
+    },
+    {
+      "char": "🫙",
+      "name": "jar"
+    }
+  ],
+  "15.0": [
+    {
+      "char": "🫨",
+      "name": "shaking face"
+    },
+    {
+      "char": "🩵",
+      "name": "light blue heart"
+    },
+    {
+      "char": "🫷",
+      "name": "leftwards pushing hand"
+    },
+    {
+      "char": "🫸",
+      "name": "rightwards pushing hand"
+    },
+    {
+      "char": "🫎",
+      "name": "moose"
+    },
+    {
+      "char": "🪿",
+      "name": "goose"
+    },
+    {
+      "char": "🫚",
+      "name": "ginger root"
+    },
+    {
+      "char": "🫛",
+      "name": "pea pod"
+    },
+    {
+      "char": "🪭",
+      "name": "folding hand fan"
+    },
+    {
+      "char": "🪇",
+      "name": "maracas"
+    }
+  ],
+  "15.1": []
+}

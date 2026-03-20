@@ -1,0 +1,246 @@
+{
+  "iOS_18.4": {
+    "url": "https://emojipedia.org/apple/ios-18.4",
+    "new_url": "https://emojipedia.org/apple/ios-18.4/new",
+    "scraped_at": "2026-01-01T12:57:07.246Z",
+    "unresolved": [
+      {
+        "href_path": "/apple/ios-18.4/face-with-bags-under-eyes",
+        "slug": "face-with-bags-under-eyes",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Face With Bags Under Eyes on Apple iOS 18.4",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/apple/419/face-with-bags-under-eyes_1fae9.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/apple/419/face-with-bags-under-eyes_1fae9.webp\")"
+      },
+      {
+        "href_path": "/apple/ios-18.4/fingerprint",
+        "slug": "fingerprint",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Fingerprint on Apple iOS 18.4",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/apple/419/fingerprint_1fac6.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/apple/419/fingerprint_1fac6.webp\")"
+      },
+      {
+        "href_path": "/apple/ios-18.4/flag-sark",
+        "slug": "flag-sark",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Flag Sark on Apple iOS 18.4",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/apple/419/flag-sark_1f1e8-1f1f6.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/apple/419/flag-sark_1f1e8-1f1f6.webp\")"
+      }
+    ]
+  },
+  "iOS_15.4": {
+    "url": "https://emojipedia.org/apple/ios-15.4",
+    "new_url": "https://emojipedia.org/apple/ios-15.4/new",
+    "scraped_at": "2026-01-01T17:39:21.628Z",
+    "unresolved": [
+      {
+        "href_path": "/apple/ios-15.4/handshake-no-skin-tone-medium-dark-skin-tone",
+        "slug": "handshake-no-skin-tone-medium-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Handshake No Skin Tone Medium Dark Skin Tone on Apple iOS 18.4",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/apple/325/handshake-no-skin-tone-medium-dark-skin-tone_1faf1-200d-1faf2-1f3fe.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/apple/325/handshake-no-skin-tone-medium-dark-skin-tone_1faf1-200d-1faf2-1f3fe.webp\")",
+        "asset_hex": "1FAF1-200D-1FAF2-1F3FE",
+        "assetCodepoints": [
+          "1FAF1",
+          "200D",
+          "1FAF2",
+          "1F3FE"
+        ]
+      },
+      {
+        "href_path": "/apple/ios-15.4/handshake-light-skin-tone-no-skin-tone",
+        "slug": "handshake-light-skin-tone-no-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Handshake Light Skin Tone No Skin Tone on Apple iOS 18.4",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/apple/325/handshake-light-skin-tone-no-skin-tone_1faf1-1f3fb-200d-1faf2.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/apple/325/handshake-light-skin-tone-no-skin-tone_1faf1-1f3fb-200d-1faf2.webp\")",
+        "asset_hex": "1FAF1-1F3FB-200D-1FAF2",
+        "assetCodepoints": [
+          "1FAF1",
+          "1F3FB",
+          "200D",
+          "1FAF2"
+        ]
+      },
+      {
+        "href_path": "/apple/ios-15.4/handshake-dark-skin-tone-no-skin-tone",
+        "slug": "handshake-dark-skin-tone-no-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Handshake Dark Skin Tone No Skin Tone on Apple iOS 18.4",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/apple/325/handshake-dark-skin-tone-no-skin-tone_1faf1-1f3ff-200d-1faf2.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/apple/325/handshake-dark-skin-tone-no-skin-tone_1faf1-1f3ff-200d-1faf2.webp\")",
+        "asset_hex": "1FAF1-1F3FF-200D-1FAF2",
+        "assetCodepoints": [
+          "1FAF1",
+          "1F3FF",
+          "200D",
+          "1FAF2"
+        ]
+      },
+      {
+        "href_path": "/apple/ios-15.4/handshake-no-skin-tone-light-skin-tone",
+        "slug": "handshake-no-skin-tone-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Handshake No Skin Tone Light Skin Tone on Apple iOS 18.4",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/apple/325/handshake-no-skin-tone-light-skin-tone_1faf1-200d-1faf2-1f3fb.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/apple/325/handshake-no-skin-tone-light-skin-tone_1faf1-200d-1faf2-1f3fb.webp\")",
+        "asset_hex": "1FAF1-200D-1FAF2-1F3FB",
+        "assetCodepoints": [
+          "1FAF1",
+          "200D",
+          "1FAF2",
+          "1F3FB"
+        ]
+      },
+      {
+        "href_path": "/apple/ios-15.4/handshake-no-skin-tone-medium-light-skin-tone",
+        "slug": "handshake-no-skin-tone-medium-light-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Handshake No Skin Tone Medium Light Skin Tone on Apple iOS 18.4",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/apple/325/handshake-no-skin-tone-medium-light-skin-tone_1faf1-200d-1faf2-1f3fc.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/apple/325/handshake-no-skin-tone-medium-light-skin-tone_1faf1-200d-1faf2-1f3fc.webp\")",
+        "asset_hex": "1FAF1-200D-1FAF2-1F3FC",
+        "assetCodepoints": [
+          "1FAF1",
+          "200D",
+          "1FAF2",
+          "1F3FC"
+        ]
+      },
+      {
+        "href_path": "/apple/ios-15.4/handshake-no-skin-tone-medium-skin-tone",
+        "slug": "handshake-no-skin-tone-medium-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Handshake No Skin Tone Medium Skin Tone on Apple iOS 18.4",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/apple/325/handshake-no-skin-tone-medium-skin-tone_1faf1-200d-1faf2-1f3fd.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/apple/325/handshake-no-skin-tone-medium-skin-tone_1faf1-200d-1faf2-1f3fd.webp\")",
+        "asset_hex": "1FAF1-200D-1FAF2-1F3FD",
+        "assetCodepoints": [
+          "1FAF1",
+          "200D",
+          "1FAF2",
+          "1F3FD"
+        ]
+      },
+      {
+        "href_path": "/apple/ios-15.4/handshake-no-skin-tone-dark-skin-tone",
+        "slug": "handshake-no-skin-tone-dark-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Handshake No Skin Tone Dark Skin Tone on Apple iOS 18.4",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/apple/325/handshake-no-skin-tone-dark-skin-tone_1faf1-200d-1faf2-1f3ff.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/apple/325/handshake-no-skin-tone-dark-skin-tone_1faf1-200d-1faf2-1f3ff.webp\")",
+        "asset_hex": "1FAF1-200D-1FAF2-1F3FF",
+        "assetCodepoints": [
+          "1FAF1",
+          "200D",
+          "1FAF2",
+          "1F3FF"
+        ]
+      },
+      {
+        "href_path": "/apple/ios-15.4/handshake-medium-light-skin-tone-no-skin-tone",
+        "slug": "handshake-medium-light-skin-tone-no-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Handshake Medium Light Skin Tone No Skin Tone on Apple iOS 18.4",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/apple/325/handshake-medium-light-skin-tone-no-skin-tone_1faf1-1f3fc-200d-1faf2.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/apple/325/handshake-medium-light-skin-tone-no-skin-tone_1faf1-1f3fc-200d-1faf2.webp\")",
+        "asset_hex": "1FAF1-1F3FC-200D-1FAF2",
+        "assetCodepoints": [
+          "1FAF1",
+          "1F3FC",
+          "200D",
+          "1FAF2"
+        ]
+      },
+      {
+        "href_path": "/apple/ios-15.4/handshake-medium-skin-tone-no-skin-tone",
+        "slug": "handshake-medium-skin-tone-no-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Handshake Medium Skin Tone No Skin Tone on Apple iOS 18.4",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/apple/325/handshake-medium-skin-tone-no-skin-tone_1faf1-1f3fd-200d-1faf2.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/apple/325/handshake-medium-skin-tone-no-skin-tone_1faf1-1f3fd-200d-1faf2.webp\")",
+        "asset_hex": "1FAF1-1F3FD-200D-1FAF2",
+        "assetCodepoints": [
+          "1FAF1",
+          "1F3FD",
+          "200D",
+          "1FAF2"
+        ]
+      },
+      {
+        "href_path": "/apple/ios-15.4/handshake-medium-dark-skin-tone-no-skin-tone",
+        "slug": "handshake-medium-dark-skin-tone-no-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Handshake Medium Dark Skin Tone No Skin Tone on Apple iOS 18.4",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/apple/325/handshake-medium-dark-skin-tone-no-skin-tone_1faf1-1f3fe-200d-1faf2.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/apple/325/handshake-medium-dark-skin-tone-no-skin-tone_1faf1-1f3fe-200d-1faf2.webp\")",
+        "asset_hex": "1FAF1-1F3FE-200D-1FAF2",
+        "assetCodepoints": [
+          "1FAF1",
+          "1F3FE",
+          "200D",
+          "1FAF2"
+        ]
+      },
+      {
+        "href_path": "/apple/ios-15.4/handshake-no-skin-tone-no-skin-tone",
+        "slug": "handshake-no-skin-tone-no-skin-tone",
+        "reason": "UNRESOLVED",
+        "text": null,
+        "title": null,
+        "aria": "Image link to page for Handshake No Skin Tone No Skin Tone on Apple iOS 18.4",
+        "imgAlt": null,
+        "dataSrc": "https://em-content.zobj.net/thumbs/60/apple/325/handshake-no-skin-tone-no-skin-tone_1faf1-200d-1faf2.webp",
+        "bgImage": "url(\"https://em-content.zobj.net/thumbs/60/apple/325/handshake-no-skin-tone-no-skin-tone_1faf1-200d-1faf2.webp\")",
+        "asset_hex": "1FAF1-200D-1FAF2",
+        "assetCodepoints": [
+          "1FAF1",
+          "200D",
+          "1FAF2"
+        ]
+      }
+    ]
+  }
+}

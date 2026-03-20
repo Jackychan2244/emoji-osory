@@ -1,0 +1,5543 @@
+[
+  {
+    "vendor": "samsung",
+    "osVersion": "TouchWiz_7.1",
+    "releaseDate": "22 September 2016",
+    "maxEmojiVersion": "14.0",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 46,
+    "emojis": [
+      {
+        "id": "1F923",
+        "codepoints": [
+          "1F923"
+        ],
+        "name": "rolling on the floor laughing",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/rolling-on-the-floor-laughing"
+      },
+      {
+        "id": "1F925",
+        "codepoints": [
+          "1F925"
+        ],
+        "name": "lying face",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/lying-face"
+      },
+      {
+        "id": "1F924",
+        "codepoints": [
+          "1F924"
+        ],
+        "name": "drooling face",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/drooling-face"
+      },
+      {
+        "id": "1F922",
+        "codepoints": [
+          "1F922"
+        ],
+        "name": "nauseated face",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/nauseated-face"
+      },
+      {
+        "id": "1F927",
+        "codepoints": [
+          "1F927"
+        ],
+        "name": "sneezing face",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/sneezing-face"
+      },
+      {
+        "id": "1F920",
+        "codepoints": [
+          "1F920"
+        ],
+        "name": "cowboy hat face",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/cowboy-hat-face"
+      },
+      {
+        "id": "1F921",
+        "codepoints": [
+          "1F921"
+        ],
+        "name": "clown face",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/clown-face"
+      },
+      {
+        "id": "1F44F-1F3FD",
+        "codepoints": [
+          "1F44F",
+          "1F3FD"
+        ],
+        "name": "clapping hands: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/clapping-hands-medium-skin-tone"
+      },
+      {
+        "id": "1F44F-1F3FE",
+        "codepoints": [
+          "1F44F",
+          "1F3FE"
+        ],
+        "name": "clapping hands: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/clapping-hands-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F44F-1F3FF",
+        "codepoints": [
+          "1F44F",
+          "1F3FF"
+        ],
+        "name": "clapping hands: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/clapping-hands-dark-skin-tone"
+      },
+      {
+        "id": "1F64C-1F3FB",
+        "codepoints": [
+          "1F64C",
+          "1F3FB"
+        ],
+        "name": "raising hands: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/raising-hands-light-skin-tone"
+      },
+      {
+        "id": "1F64C-1F3FC",
+        "codepoints": [
+          "1F64C",
+          "1F3FC"
+        ],
+        "name": "raising hands: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/raising-hands-medium-light-skin-tone"
+      },
+      {
+        "id": "1F64C-1F3FD",
+        "codepoints": [
+          "1F64C",
+          "1F3FD"
+        ],
+        "name": "raising hands: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/raising-hands-medium-skin-tone"
+      },
+      {
+        "id": "1F64C-1F3FE",
+        "codepoints": [
+          "1F64C",
+          "1F3FE"
+        ],
+        "name": "raising hands: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/raising-hands-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F64C-1F3FF",
+        "codepoints": [
+          "1F64C",
+          "1F3FF"
+        ],
+        "name": "raising hands: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/raising-hands-dark-skin-tone"
+      },
+      {
+        "id": "1F450-1F3FB",
+        "codepoints": [
+          "1F450",
+          "1F3FB"
+        ],
+        "name": "open hands: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/open-hands-light-skin-tone"
+      },
+      {
+        "id": "1F450-1F3FC",
+        "codepoints": [
+          "1F450",
+          "1F3FC"
+        ],
+        "name": "open hands: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/open-hands-medium-light-skin-tone"
+      },
+      {
+        "id": "1F450-1F3FD",
+        "codepoints": [
+          "1F450",
+          "1F3FD"
+        ],
+        "name": "open hands: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/open-hands-medium-skin-tone"
+      },
+      {
+        "id": "1F450-1F3FE",
+        "codepoints": [
+          "1F450",
+          "1F3FE"
+        ],
+        "name": "open hands: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/open-hands-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F450-1F3FF",
+        "codepoints": [
+          "1F450",
+          "1F3FF"
+        ],
+        "name": "open hands: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/open-hands-dark-skin-tone"
+      },
+      {
+        "id": "1F91D",
+        "codepoints": [
+          "1F91D"
+        ],
+        "name": "handshake",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/handshake"
+      },
+      {
+        "id": "1F91D-1F3FB",
+        "codepoints": [
+          "1F91D",
+          "1F3FB"
+        ],
+        "name": "handshake: light skin tone",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/handshake-light-skin-tone"
+      },
+      {
+        "id": "1F91D-1F3FC",
+        "codepoints": [
+          "1F91D",
+          "1F3FC"
+        ],
+        "name": "handshake: medium-light skin tone",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/handshake-medium-light-skin-tone"
+      },
+      {
+        "id": "1F91D-1F3FD",
+        "codepoints": [
+          "1F91D",
+          "1F3FD"
+        ],
+        "name": "handshake: medium skin tone",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/handshake-medium-skin-tone"
+      },
+      {
+        "id": "1F91D-1F3FE",
+        "codepoints": [
+          "1F91D",
+          "1F3FE"
+        ],
+        "name": "handshake: medium-dark skin tone",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/handshake-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F91D-1F3FF",
+        "codepoints": [
+          "1F91D",
+          "1F3FF"
+        ],
+        "name": "handshake: dark skin tone",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/handshake-dark-skin-tone"
+      },
+      {
+        "id": "1F64F-1F3FB",
+        "codepoints": [
+          "1F64F",
+          "1F3FB"
+        ],
+        "name": "folded hands: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/folded-hands-light-skin-tone"
+      },
+      {
+        "id": "1F64F-1F3FC",
+        "codepoints": [
+          "1F64F",
+          "1F3FC"
+        ],
+        "name": "folded hands: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/folded-hands-medium-light-skin-tone"
+      },
+      {
+        "id": "1F64F-1F3FD",
+        "codepoints": [
+          "1F64F",
+          "1F3FD"
+        ],
+        "name": "folded hands: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/folded-hands-medium-skin-tone"
+      },
+      {
+        "id": "1F64F-1F3FE",
+        "codepoints": [
+          "1F64F",
+          "1F3FE"
+        ],
+        "name": "folded hands: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/folded-hands-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F64F-1F3FF",
+        "codepoints": [
+          "1F64F",
+          "1F3FF"
+        ],
+        "name": "folded hands: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/folded-hands-dark-skin-tone"
+      },
+      {
+        "id": "270D-1F3FB",
+        "codepoints": [
+          "270D",
+          "1F3FB"
+        ],
+        "name": "writing hand: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/writing-hand-light-skin-tone"
+      },
+      {
+        "id": "270D-1F3FC",
+        "codepoints": [
+          "270D",
+          "1F3FC"
+        ],
+        "name": "writing hand: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/writing-hand-medium-light-skin-tone"
+      },
+      {
+        "id": "270D-1F3FD",
+        "codepoints": [
+          "270D",
+          "1F3FD"
+        ],
+        "name": "writing hand: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/writing-hand-medium-skin-tone"
+      },
+      {
+        "id": "270D-1F3FE",
+        "codepoints": [
+          "270D",
+          "1F3FE"
+        ],
+        "name": "writing hand: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/writing-hand-medium-dark-skin-tone"
+      },
+      {
+        "id": "270D-1F3FF",
+        "codepoints": [
+          "270D",
+          "1F3FF"
+        ],
+        "name": "writing hand: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/writing-hand-dark-skin-tone"
+      },
+      {
+        "id": "1F485-1F3FB",
+        "codepoints": [
+          "1F485",
+          "1F3FB"
+        ],
+        "name": "nail polish: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/nail-polish-light-skin-tone"
+      },
+      {
+        "id": "1F485-1F3FC",
+        "codepoints": [
+          "1F485",
+          "1F3FC"
+        ],
+        "name": "nail polish: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/nail-polish-medium-light-skin-tone"
+      },
+      {
+        "id": "1F485-1F3FD",
+        "codepoints": [
+          "1F485",
+          "1F3FD"
+        ],
+        "name": "nail polish: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/nail-polish-medium-skin-tone"
+      },
+      {
+        "id": "1F485-1F3FE",
+        "codepoints": [
+          "1F485",
+          "1F3FE"
+        ],
+        "name": "nail polish: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/nail-polish-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F485-1F3FF",
+        "codepoints": [
+          "1F485",
+          "1F3FF"
+        ],
+        "name": "nail polish: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/nail-polish-dark-skin-tone"
+      },
+      {
+        "id": "1F933",
+        "codepoints": [
+          "1F933"
+        ],
+        "name": "selfie",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/selfie"
+      },
+      {
+        "id": "1F933-1F3FB",
+        "codepoints": [
+          "1F933",
+          "1F3FB"
+        ],
+        "name": "selfie: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/selfie-light-skin-tone"
+      },
+      {
+        "id": "1F933-1F3FC",
+        "codepoints": [
+          "1F933",
+          "1F3FC"
+        ],
+        "name": "selfie: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/selfie-medium-light-skin-tone"
+      },
+      {
+        "id": "1F933-1F3FD",
+        "codepoints": [
+          "1F933",
+          "1F3FD"
+        ],
+        "name": "selfie: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/selfie-medium-skin-tone"
+      },
+      {
+        "id": "1F933-1F3FE",
+        "codepoints": [
+          "1F933",
+          "1F3FE"
+        ],
+        "name": "selfie: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1/selfie-medium-dark-skin-tone"
+      }
+    ],
+    "sourceUrl": "https://emojipedia.org/samsung/touchwiz-7.1",
+    "unresolvedCount": 21,
+    "isGenerated": false
+  },
+  {
+    "vendor": "samsung",
+    "osVersion": "Experience_8.0",
+    "releaseDate": "17 January 2017",
+    "maxEmojiVersion": "9.0",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 90,
+    "emojis": [
+      {
+        "id": "1F471-200D-2640-FE0F",
+        "codepoints": [
+          "1F471",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "blond-haired woman",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-blond-hair"
+      },
+      {
+        "id": "1F471-1F3FB-200D-2640-FE0F",
+        "codepoints": [
+          "1F471",
+          "1F3FB",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "blond-haired woman: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-light-skin-tone-blond-hair"
+      },
+      {
+        "id": "1F471-1F3FC-200D-2640-FE0F",
+        "codepoints": [
+          "1F471",
+          "1F3FC",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "blond-haired woman: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-medium-light-skin-tone-blond-hair"
+      },
+      {
+        "id": "1F471-1F3FD-200D-2640-FE0F",
+        "codepoints": [
+          "1F471",
+          "1F3FD",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "blond-haired woman: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-medium-skin-tone-blond-hair"
+      },
+      {
+        "id": "1F471-1F3FE-200D-2640-FE0F",
+        "codepoints": [
+          "1F471",
+          "1F3FE",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "blond-haired woman: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-medium-dark-skin-tone-blond-hair"
+      },
+      {
+        "id": "1F471-1F3FF-200D-2640-FE0F",
+        "codepoints": [
+          "1F471",
+          "1F3FF",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "blond-haired woman: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-dark-skin-tone-blond-hair"
+      },
+      {
+        "id": "1F471-200D-2642-FE0F",
+        "codepoints": [
+          "1F471",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "blond-haired man",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-blond-hair"
+      },
+      {
+        "id": "1F471-1F3FB-200D-2642-FE0F",
+        "codepoints": [
+          "1F471",
+          "1F3FB",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "blond-haired man: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-light-skin-tone-blond-hair"
+      },
+      {
+        "id": "1F471-1F3FC-200D-2642-FE0F",
+        "codepoints": [
+          "1F471",
+          "1F3FC",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "blond-haired man: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-medium-light-skin-tone-blond-hair"
+      },
+      {
+        "id": "1F471-1F3FD-200D-2642-FE0F",
+        "codepoints": [
+          "1F471",
+          "1F3FD",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "blond-haired man: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-medium-skin-tone-blond-hair"
+      },
+      {
+        "id": "1F471-1F3FE-200D-2642-FE0F",
+        "codepoints": [
+          "1F471",
+          "1F3FE",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "blond-haired man: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-medium-dark-skin-tone-blond-hair"
+      },
+      {
+        "id": "1F471-1F3FF-200D-2642-FE0F",
+        "codepoints": [
+          "1F471",
+          "1F3FF",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "blond-haired man: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-dark-skin-tone-blond-hair"
+      },
+      {
+        "id": "1F64D-200D-2642-FE0F",
+        "codepoints": [
+          "1F64D",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man frowning",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-frowning"
+      },
+      {
+        "id": "1F64D-1F3FB-200D-2642-FE0F",
+        "codepoints": [
+          "1F64D",
+          "1F3FB",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man frowning: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-frowning-light-skin-tone"
+      },
+      {
+        "id": "1F64D-1F3FC-200D-2642-FE0F",
+        "codepoints": [
+          "1F64D",
+          "1F3FC",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man frowning: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-frowning-medium-light-skin-tone"
+      },
+      {
+        "id": "1F64D-1F3FD-200D-2642-FE0F",
+        "codepoints": [
+          "1F64D",
+          "1F3FD",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man frowning: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-frowning-medium-skin-tone"
+      },
+      {
+        "id": "1F64D-1F3FE-200D-2642-FE0F",
+        "codepoints": [
+          "1F64D",
+          "1F3FE",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man frowning: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-frowning-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F64D-1F3FF-200D-2642-FE0F",
+        "codepoints": [
+          "1F64D",
+          "1F3FF",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man frowning: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-frowning-dark-skin-tone"
+      },
+      {
+        "id": "1F64D-200D-2640-FE0F",
+        "codepoints": [
+          "1F64D",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman frowning",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-frowning"
+      },
+      {
+        "id": "1F64D-1F3FB-200D-2640-FE0F",
+        "codepoints": [
+          "1F64D",
+          "1F3FB",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman frowning: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-frowning-light-skin-tone"
+      },
+      {
+        "id": "1F64D-1F3FC-200D-2640-FE0F",
+        "codepoints": [
+          "1F64D",
+          "1F3FC",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman frowning: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-frowning-medium-light-skin-tone"
+      },
+      {
+        "id": "1F64D-1F3FD-200D-2640-FE0F",
+        "codepoints": [
+          "1F64D",
+          "1F3FD",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman frowning: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-frowning-medium-skin-tone"
+      },
+      {
+        "id": "1F64D-1F3FE-200D-2640-FE0F",
+        "codepoints": [
+          "1F64D",
+          "1F3FE",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman frowning: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-frowning-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F64D-1F3FF-200D-2640-FE0F",
+        "codepoints": [
+          "1F64D",
+          "1F3FF",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman frowning: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-frowning-dark-skin-tone"
+      },
+      {
+        "id": "1F64E-200D-2642-FE0F",
+        "codepoints": [
+          "1F64E",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man pouting",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-pouting"
+      },
+      {
+        "id": "1F64E-1F3FB-200D-2642-FE0F",
+        "codepoints": [
+          "1F64E",
+          "1F3FB",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man pouting: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-pouting-light-skin-tone"
+      },
+      {
+        "id": "1F64E-1F3FC-200D-2642-FE0F",
+        "codepoints": [
+          "1F64E",
+          "1F3FC",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man pouting: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-pouting-medium-light-skin-tone"
+      },
+      {
+        "id": "1F64E-1F3FD-200D-2642-FE0F",
+        "codepoints": [
+          "1F64E",
+          "1F3FD",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man pouting: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-pouting-medium-skin-tone"
+      },
+      {
+        "id": "1F64E-1F3FE-200D-2642-FE0F",
+        "codepoints": [
+          "1F64E",
+          "1F3FE",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man pouting: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-pouting-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F64E-1F3FF-200D-2642-FE0F",
+        "codepoints": [
+          "1F64E",
+          "1F3FF",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man pouting: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-pouting-dark-skin-tone"
+      },
+      {
+        "id": "1F64E-200D-2640-FE0F",
+        "codepoints": [
+          "1F64E",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman pouting",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-pouting"
+      },
+      {
+        "id": "1F64E-1F3FB-200D-2640-FE0F",
+        "codepoints": [
+          "1F64E",
+          "1F3FB",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman pouting: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-pouting-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FB-200D-1F33E",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "1F33E"
+        ],
+        "name": "man farmer: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-farmer-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FC-200D-1F33E",
+        "codepoints": [
+          "1F468",
+          "1F3FC",
+          "200D",
+          "1F33E"
+        ],
+        "name": "man farmer: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-farmer-medium-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FD-200D-1F33E",
+        "codepoints": [
+          "1F468",
+          "1F3FD",
+          "200D",
+          "1F33E"
+        ],
+        "name": "man farmer: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-farmer-medium-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FE-200D-1F33E",
+        "codepoints": [
+          "1F468",
+          "1F3FE",
+          "200D",
+          "1F33E"
+        ],
+        "name": "man farmer: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-farmer-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FF-200D-1F33E",
+        "codepoints": [
+          "1F468",
+          "1F3FF",
+          "200D",
+          "1F33E"
+        ],
+        "name": "man farmer: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-farmer-dark-skin-tone"
+      },
+      {
+        "id": "1F469-200D-1F33E",
+        "codepoints": [
+          "1F469",
+          "200D",
+          "1F33E"
+        ],
+        "name": "woman farmer",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-farmer"
+      },
+      {
+        "id": "1F469-1F3FB-200D-1F33E",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "1F33E"
+        ],
+        "name": "woman farmer: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-farmer-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FC-200D-1F33E",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "1F33E"
+        ],
+        "name": "woman farmer: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-farmer-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-1F33E",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "1F33E"
+        ],
+        "name": "woman farmer: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-farmer-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-1F33E",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "1F33E"
+        ],
+        "name": "woman farmer: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-farmer-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-1F33E",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "1F33E"
+        ],
+        "name": "woman farmer: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-farmer-dark-skin-tone"
+      },
+      {
+        "id": "1F468-200D-1F373",
+        "codepoints": [
+          "1F468",
+          "200D",
+          "1F373"
+        ],
+        "name": "man cook",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-cook"
+      },
+      {
+        "id": "1F468-1F3FB-200D-1F373",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "1F373"
+        ],
+        "name": "man cook: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-cook-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FC-200D-1F373",
+        "codepoints": [
+          "1F468",
+          "1F3FC",
+          "200D",
+          "1F373"
+        ],
+        "name": "man cook: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-cook-medium-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FD-200D-1F373",
+        "codepoints": [
+          "1F468",
+          "1F3FD",
+          "200D",
+          "1F373"
+        ],
+        "name": "man cook: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-cook-medium-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FE-200D-1F373",
+        "codepoints": [
+          "1F468",
+          "1F3FE",
+          "200D",
+          "1F373"
+        ],
+        "name": "man cook: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-cook-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FF-200D-1F373",
+        "codepoints": [
+          "1F468",
+          "1F3FF",
+          "200D",
+          "1F373"
+        ],
+        "name": "man cook: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-cook-dark-skin-tone"
+      },
+      {
+        "id": "1F469-200D-1F373",
+        "codepoints": [
+          "1F469",
+          "200D",
+          "1F373"
+        ],
+        "name": "woman cook",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-cook"
+      },
+      {
+        "id": "1F469-1F3FB-200D-1F373",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "1F373"
+        ],
+        "name": "woman cook: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-cook-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FC-200D-1F373",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "1F373"
+        ],
+        "name": "woman cook: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-cook-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-1F373",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "1F373"
+        ],
+        "name": "woman cook: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-cook-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-1F373",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "1F373"
+        ],
+        "name": "woman cook: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-cook-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-1F373",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "1F373"
+        ],
+        "name": "woman cook: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-cook-dark-skin-tone"
+      },
+      {
+        "id": "1F468-200D-1F527",
+        "codepoints": [
+          "1F468",
+          "200D",
+          "1F527"
+        ],
+        "name": "man mechanic",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-mechanic"
+      },
+      {
+        "id": "1F468-1F3FB-200D-1F527",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "1F527"
+        ],
+        "name": "man mechanic: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-mechanic-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FC-200D-1F527",
+        "codepoints": [
+          "1F468",
+          "1F3FC",
+          "200D",
+          "1F527"
+        ],
+        "name": "man mechanic: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-mechanic-medium-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FD-200D-1F527",
+        "codepoints": [
+          "1F468",
+          "1F3FD",
+          "200D",
+          "1F527"
+        ],
+        "name": "man mechanic: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-mechanic-medium-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FE-200D-1F527",
+        "codepoints": [
+          "1F468",
+          "1F3FE",
+          "200D",
+          "1F527"
+        ],
+        "name": "man mechanic: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-mechanic-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FF-200D-1F527",
+        "codepoints": [
+          "1F468",
+          "1F3FF",
+          "200D",
+          "1F527"
+        ],
+        "name": "man mechanic: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-mechanic-dark-skin-tone"
+      },
+      {
+        "id": "1F469-200D-1F527",
+        "codepoints": [
+          "1F469",
+          "200D",
+          "1F527"
+        ],
+        "name": "woman mechanic",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-mechanic"
+      },
+      {
+        "id": "1F469-1F3FB-200D-1F527",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "1F527"
+        ],
+        "name": "woman mechanic: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-mechanic-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FC-200D-1F527",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "1F527"
+        ],
+        "name": "woman mechanic: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-mechanic-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-1F527",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "1F527"
+        ],
+        "name": "woman mechanic: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-mechanic-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-1F527",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "1F527"
+        ],
+        "name": "woman mechanic: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-mechanic-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-1F527",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "1F527"
+        ],
+        "name": "woman mechanic: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-mechanic-dark-skin-tone"
+      },
+      {
+        "id": "1F468-200D-1F3ED",
+        "codepoints": [
+          "1F468",
+          "200D",
+          "1F3ED"
+        ],
+        "name": "man factory worker",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-factory-worker"
+      },
+      {
+        "id": "1F468-1F3FB-200D-1F3ED",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "1F3ED"
+        ],
+        "name": "man factory worker: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-factory-worker-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FC-200D-1F3ED",
+        "codepoints": [
+          "1F468",
+          "1F3FC",
+          "200D",
+          "1F3ED"
+        ],
+        "name": "man factory worker: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-factory-worker-medium-light-skin-tone"
+      },
+      {
+        "id": "1F486-1F3FF-200D-2642-FE0F",
+        "codepoints": [
+          "1F486",
+          "1F3FF",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man getting massage: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-getting-massage-dark-skin-tone"
+      },
+      {
+        "id": "1F486-1F3FC-200D-2640-FE0F",
+        "codepoints": [
+          "1F486",
+          "1F3FC",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman getting massage: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-getting-massage-medium-light-skin-tone"
+      },
+      {
+        "id": "1F486-1F3FD-200D-2640-FE0F",
+        "codepoints": [
+          "1F486",
+          "1F3FD",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman getting massage: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-getting-massage-medium-skin-tone"
+      },
+      {
+        "id": "1F486-1F3FE-200D-2640-FE0F",
+        "codepoints": [
+          "1F486",
+          "1F3FE",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman getting massage: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-getting-massage-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F487-200D-2642-FE0F",
+        "codepoints": [
+          "1F487",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man getting haircut",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-getting-haircut"
+      },
+      {
+        "id": "1F487-1F3FD-200D-2642-FE0F",
+        "codepoints": [
+          "1F487",
+          "1F3FD",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man getting haircut: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-getting-haircut-medium-skin-tone"
+      },
+      {
+        "id": "1F487-200D-2640-FE0F",
+        "codepoints": [
+          "1F487",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman getting haircut",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-getting-haircut"
+      },
+      {
+        "id": "1F487-1F3FC-200D-2640-FE0F",
+        "codepoints": [
+          "1F487",
+          "1F3FC",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman getting haircut: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-getting-haircut-medium-light-skin-tone"
+      },
+      {
+        "id": "1F487-1F3FD-200D-2640-FE0F",
+        "codepoints": [
+          "1F487",
+          "1F3FD",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman getting haircut: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-getting-haircut-medium-skin-tone"
+      },
+      {
+        "id": "1F487-1F3FE-200D-2640-FE0F",
+        "codepoints": [
+          "1F487",
+          "1F3FE",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman getting haircut: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-getting-haircut-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F487-1F3FF-200D-2640-FE0F",
+        "codepoints": [
+          "1F487",
+          "1F3FF",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman getting haircut: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-getting-haircut-dark-skin-tone"
+      },
+      {
+        "id": "1F6B6-1F3FF-200D-2642-FE0F",
+        "codepoints": [
+          "1F6B6",
+          "1F3FF",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man walking: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-walking-dark-skin-tone"
+      },
+      {
+        "id": "1F6B6-200D-2640-FE0F",
+        "codepoints": [
+          "1F6B6",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman walking",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-walking"
+      },
+      {
+        "id": "1F6B6-1F3FB-200D-2640-FE0F",
+        "codepoints": [
+          "1F6B6",
+          "1F3FB",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman walking: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-walking-light-skin-tone"
+      },
+      {
+        "id": "1F6B6-1F3FC-200D-2640-FE0F",
+        "codepoints": [
+          "1F6B6",
+          "1F3FC",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman walking: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-walking-medium-light-skin-tone"
+      },
+      {
+        "id": "1F6B6-1F3FF-200D-2640-FE0F",
+        "codepoints": [
+          "1F6B6",
+          "1F3FF",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman walking: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/woman-walking-dark-skin-tone"
+      },
+      {
+        "id": "1F3C3-1F3FB-200D-2642-FE0F",
+        "codepoints": [
+          "1F3C3",
+          "1F3FB",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man running: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-running-light-skin-tone"
+      },
+      {
+        "id": "1F3C3-1F3FD-200D-2642-FE0F",
+        "codepoints": [
+          "1F3C3",
+          "1F3FD",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man running: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-running-medium-skin-tone"
+      },
+      {
+        "id": "1F3C3-1F3FE-200D-2642-FE0F",
+        "codepoints": [
+          "1F3C3",
+          "1F3FE",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man running: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-running-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F3C3-1F3FF-200D-2642-FE0F",
+        "codepoints": [
+          "1F3C3",
+          "1F3FF",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man running: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.0/man-running-dark-skin-tone"
+      }
+    ],
+    "sourceUrl": "https://emojipedia.org/samsung/experience-8.0",
+    "unresolvedCount": 4,
+    "isGenerated": false
+  },
+  {
+    "vendor": "samsung",
+    "osVersion": "Experience_8.1",
+    "releaseDate": "21 April 2017",
+    "maxEmojiVersion": null,
+    "sourceUrl": "https://emojipedia.org/samsung/experience-8.1",
+    "error": "NO_EMOJI_LINKS_FOUND"
+  },
+  {
+    "vendor": "samsung",
+    "osVersion": "Experience_8.5",
+    "releaseDate": "15 September 2017",
+    "maxEmojiVersion": "9.0",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 3,
+    "emojis": [
+      {
+        "id": "1F5FE",
+        "codepoints": [
+          "1F5FE"
+        ],
+        "name": "map of Japan",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.5/map-of-japan"
+      },
+      {
+        "id": "1F4B9",
+        "codepoints": [
+          "1F4B9"
+        ],
+        "name": "chart increasing with yen",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.5/chart-increasing-with-yen"
+      },
+      {
+        "id": "1F38C",
+        "codepoints": [
+          "1F38C"
+        ],
+        "name": "crossed flags",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-8.5/crossed-flags"
+      }
+    ],
+    "sourceUrl": "https://emojipedia.org/samsung/experience-8.5",
+    "unresolvedCount": 0,
+    "isGenerated": false
+  },
+  {
+    "vendor": "samsung",
+    "osVersion": "Experience_9.0",
+    "releaseDate": "12 February 2018",
+    "maxEmojiVersion": "10.0",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 68,
+    "emojis": [
+      {
+        "id": "1F929",
+        "codepoints": [
+          "1F929"
+        ],
+        "name": "star-struck",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/star-struck"
+      },
+      {
+        "id": "1F92A",
+        "codepoints": [
+          "1F92A"
+        ],
+        "name": "crazy face",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/zany-face"
+      },
+      {
+        "id": "1F92D",
+        "codepoints": [
+          "1F92D"
+        ],
+        "name": "face with hand over mouth",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/face-with-hand-over-mouth"
+      },
+      {
+        "id": "1F92B",
+        "codepoints": [
+          "1F92B"
+        ],
+        "name": "shushing face",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/shushing-face"
+      },
+      {
+        "id": "1F928",
+        "codepoints": [
+          "1F928"
+        ],
+        "name": "face with raised eyebrow",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/face-with-raised-eyebrow"
+      },
+      {
+        "id": "1F92E",
+        "codepoints": [
+          "1F92E"
+        ],
+        "name": "face vomiting",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/face-vomiting"
+      },
+      {
+        "id": "1F92F",
+        "codepoints": [
+          "1F92F"
+        ],
+        "name": "exploding head",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/exploding-head"
+      },
+      {
+        "id": "1F9D0",
+        "codepoints": [
+          "1F9D0"
+        ],
+        "name": "face with monocle",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/face-with-monocle"
+      },
+      {
+        "id": "1F92C",
+        "codepoints": [
+          "1F92C"
+        ],
+        "name": "face with symbols on mouth",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/face-with-symbols-on-mouth"
+      },
+      {
+        "id": "1F91F",
+        "codepoints": [
+          "1F91F"
+        ],
+        "name": "love-you gesture",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/love-you-gesture"
+      },
+      {
+        "id": "1F91F-1F3FB",
+        "codepoints": [
+          "1F91F",
+          "1F3FB"
+        ],
+        "name": "love-you gesture: light skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/love-you-gesture-light-skin-tone"
+      },
+      {
+        "id": "1F91F-1F3FC",
+        "codepoints": [
+          "1F91F",
+          "1F3FC"
+        ],
+        "name": "love-you gesture: medium-light skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/love-you-gesture-medium-light-skin-tone"
+      },
+      {
+        "id": "1F91F-1F3FD",
+        "codepoints": [
+          "1F91F",
+          "1F3FD"
+        ],
+        "name": "love-you gesture: medium skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/love-you-gesture-medium-skin-tone"
+      },
+      {
+        "id": "1F91F-1F3FE",
+        "codepoints": [
+          "1F91F",
+          "1F3FE"
+        ],
+        "name": "love-you gesture: medium-dark skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/love-you-gesture-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F91F-1F3FF",
+        "codepoints": [
+          "1F91F",
+          "1F3FF"
+        ],
+        "name": "love-you gesture: dark skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/love-you-gesture-dark-skin-tone"
+      },
+      {
+        "id": "1F932",
+        "codepoints": [
+          "1F932"
+        ],
+        "name": "palms up together",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/palms-up-together"
+      },
+      {
+        "id": "1F932-1F3FB",
+        "codepoints": [
+          "1F932",
+          "1F3FB"
+        ],
+        "name": "palms up together: light skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/palms-up-together-light-skin-tone"
+      },
+      {
+        "id": "1F932-1F3FC",
+        "codepoints": [
+          "1F932",
+          "1F3FC"
+        ],
+        "name": "palms up together: medium-light skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/palms-up-together-medium-light-skin-tone"
+      },
+      {
+        "id": "1F932-1F3FD",
+        "codepoints": [
+          "1F932",
+          "1F3FD"
+        ],
+        "name": "palms up together: medium skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/palms-up-together-medium-skin-tone"
+      },
+      {
+        "id": "1F932-1F3FE",
+        "codepoints": [
+          "1F932",
+          "1F3FE"
+        ],
+        "name": "palms up together: medium-dark skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/palms-up-together-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F932-1F3FF",
+        "codepoints": [
+          "1F932",
+          "1F3FF"
+        ],
+        "name": "palms up together: dark skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/palms-up-together-dark-skin-tone"
+      },
+      {
+        "id": "1F9E0",
+        "codepoints": [
+          "1F9E0"
+        ],
+        "name": "brain",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/brain"
+      },
+      {
+        "id": "1F9D2",
+        "codepoints": [
+          "1F9D2"
+        ],
+        "name": "child",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/child"
+      },
+      {
+        "id": "1F9D2-1F3FB",
+        "codepoints": [
+          "1F9D2",
+          "1F3FB"
+        ],
+        "name": "child: light skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/child-light-skin-tone"
+      },
+      {
+        "id": "1F9D2-1F3FC",
+        "codepoints": [
+          "1F9D2",
+          "1F3FC"
+        ],
+        "name": "child: medium-light skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/child-medium-light-skin-tone"
+      },
+      {
+        "id": "1F9D2-1F3FD",
+        "codepoints": [
+          "1F9D2",
+          "1F3FD"
+        ],
+        "name": "child: medium skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/child-medium-skin-tone"
+      },
+      {
+        "id": "1F9D2-1F3FE",
+        "codepoints": [
+          "1F9D2",
+          "1F3FE"
+        ],
+        "name": "child: medium-dark skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/child-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F9D2-1F3FF",
+        "codepoints": [
+          "1F9D2",
+          "1F3FF"
+        ],
+        "name": "child: dark skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/child-dark-skin-tone"
+      },
+      {
+        "id": "1F9D1",
+        "codepoints": [
+          "1F9D1"
+        ],
+        "name": "adult",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/person"
+      },
+      {
+        "id": "1F9D1-1F3FB",
+        "codepoints": [
+          "1F9D1",
+          "1F3FB"
+        ],
+        "name": "adult: light skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/person-light-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FC",
+        "codepoints": [
+          "1F9D1",
+          "1F3FC"
+        ],
+        "name": "adult: medium-light skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/person-medium-light-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FD",
+        "codepoints": [
+          "1F9D1",
+          "1F3FD"
+        ],
+        "name": "adult: medium skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/person-medium-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FE",
+        "codepoints": [
+          "1F9D1",
+          "1F3FE"
+        ],
+        "name": "adult: medium-dark skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/person-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FF",
+        "codepoints": [
+          "1F9D1",
+          "1F3FF"
+        ],
+        "name": "adult: dark skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/person-dark-skin-tone"
+      },
+      {
+        "id": "1F9D4",
+        "codepoints": [
+          "1F9D4"
+        ],
+        "name": "bearded person",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/person-beard"
+      },
+      {
+        "id": "1F9D4-1F3FB",
+        "codepoints": [
+          "1F9D4",
+          "1F3FB"
+        ],
+        "name": "bearded person: light skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/person-light-skin-tone-beard"
+      },
+      {
+        "id": "1F9D4-1F3FC",
+        "codepoints": [
+          "1F9D4",
+          "1F3FC"
+        ],
+        "name": "bearded person: medium-light skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/person-medium-light-skin-tone-beard"
+      },
+      {
+        "id": "1F9D4-1F3FD",
+        "codepoints": [
+          "1F9D4",
+          "1F3FD"
+        ],
+        "name": "bearded person: medium skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/person-medium-skin-tone-beard"
+      },
+      {
+        "id": "1F9D4-1F3FE",
+        "codepoints": [
+          "1F9D4",
+          "1F3FE"
+        ],
+        "name": "bearded person: medium-dark skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/person-medium-dark-skin-tone-beard"
+      },
+      {
+        "id": "1F9D4-1F3FF",
+        "codepoints": [
+          "1F9D4",
+          "1F3FF"
+        ],
+        "name": "bearded person: dark skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/person-dark-skin-tone-beard"
+      },
+      {
+        "id": "1F9D3",
+        "codepoints": [
+          "1F9D3"
+        ],
+        "name": "older adult",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/older-person"
+      },
+      {
+        "id": "1F9D3-1F3FB",
+        "codepoints": [
+          "1F9D3",
+          "1F3FB"
+        ],
+        "name": "older adult: light skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/older-person-light-skin-tone"
+      },
+      {
+        "id": "1F9D3-1F3FC",
+        "codepoints": [
+          "1F9D3",
+          "1F3FC"
+        ],
+        "name": "older adult: medium-light skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/older-person-medium-light-skin-tone"
+      },
+      {
+        "id": "1F9D3-1F3FD",
+        "codepoints": [
+          "1F9D3",
+          "1F3FD"
+        ],
+        "name": "older adult: medium skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/older-person-medium-skin-tone"
+      },
+      {
+        "id": "1F9D3-1F3FE",
+        "codepoints": [
+          "1F9D3",
+          "1F3FE"
+        ],
+        "name": "older adult: medium-dark skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/older-person-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F9D3-1F3FF",
+        "codepoints": [
+          "1F9D3",
+          "1F3FF"
+        ],
+        "name": "older adult: dark skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/older-person-dark-skin-tone"
+      },
+      {
+        "id": "1F9DC-1F3FB",
+        "codepoints": [
+          "1F9DC",
+          "1F3FB"
+        ],
+        "name": "merperson: light skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/merperson-light-skin-tone"
+      },
+      {
+        "id": "1F9DC-1F3FE",
+        "codepoints": [
+          "1F9DC",
+          "1F3FE"
+        ],
+        "name": "merperson: medium-dark skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/merperson-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F9DC-1F3FF",
+        "codepoints": [
+          "1F9DC",
+          "1F3FF"
+        ],
+        "name": "merperson: dark skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/merperson-dark-skin-tone"
+      },
+      {
+        "id": "1F9DC-200D-2642-FE0F",
+        "codepoints": [
+          "1F9DC",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "merman",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/merman"
+      },
+      {
+        "id": "1F9DC-1F3FB-200D-2642-FE0F",
+        "codepoints": [
+          "1F9DC",
+          "1F3FB",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "merman: light skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/merman-light-skin-tone"
+      },
+      {
+        "id": "1F9DC-1F3FC-200D-2642-FE0F",
+        "codepoints": [
+          "1F9DC",
+          "1F3FC",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "merman: medium-light skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/merman-medium-light-skin-tone"
+      },
+      {
+        "id": "1F9DC-1F3FD-200D-2642-FE0F",
+        "codepoints": [
+          "1F9DC",
+          "1F3FD",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "merman: medium skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/merman-medium-skin-tone"
+      },
+      {
+        "id": "1F9DD-1F3FC",
+        "codepoints": [
+          "1F9DD",
+          "1F3FC"
+        ],
+        "name": "elf: medium-light skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/elf-medium-light-skin-tone"
+      },
+      {
+        "id": "1F9DD-200D-2642-FE0F",
+        "codepoints": [
+          "1F9DD",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man elf",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/man-elf"
+      },
+      {
+        "id": "1F9DD-1F3FB-200D-2640-FE0F",
+        "codepoints": [
+          "1F9DD",
+          "1F3FB",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman elf: light skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/woman-elf-light-skin-tone"
+      },
+      {
+        "id": "1F9DD-1F3FC-200D-2640-FE0F",
+        "codepoints": [
+          "1F9DD",
+          "1F3FC",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman elf: medium-light skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/woman-elf-medium-light-skin-tone"
+      },
+      {
+        "id": "1F9DD-1F3FD-200D-2640-FE0F",
+        "codepoints": [
+          "1F9DD",
+          "1F3FD",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman elf: medium skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/woman-elf-medium-skin-tone"
+      },
+      {
+        "id": "1F9DD-1F3FE-200D-2640-FE0F",
+        "codepoints": [
+          "1F9DD",
+          "1F3FE",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman elf: medium-dark skin tone",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/woman-elf-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F9DE",
+        "codepoints": [
+          "1F9DE"
+        ],
+        "name": "genie",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/genie"
+      },
+      {
+        "id": "1F9DE-200D-2642-FE0F",
+        "codepoints": [
+          "1F9DE",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man genie",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/man-genie"
+      },
+      {
+        "id": "1F9DE-200D-2640-FE0F",
+        "codepoints": [
+          "1F9DE",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman genie",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/woman-genie"
+      },
+      {
+        "id": "1F9DF",
+        "codepoints": [
+          "1F9DF"
+        ],
+        "name": "zombie",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/zombie"
+      },
+      {
+        "id": "1F9E3",
+        "codepoints": [
+          "1F9E3"
+        ],
+        "name": "scarf",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/scarf"
+      },
+      {
+        "id": "1F9E4",
+        "codepoints": [
+          "1F9E4"
+        ],
+        "name": "gloves",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/gloves"
+      },
+      {
+        "id": "1F9E5",
+        "codepoints": [
+          "1F9E5"
+        ],
+        "name": "coat",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/coat"
+      },
+      {
+        "id": "1F9E6",
+        "codepoints": [
+          "1F9E6"
+        ],
+        "name": "socks",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/socks"
+      },
+      {
+        "id": "1F9E2",
+        "codepoints": [
+          "1F9E2"
+        ],
+        "name": "billed cap",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.0/billed-cap"
+      }
+    ],
+    "sourceUrl": "https://emojipedia.org/samsung/experience-9.0",
+    "unresolvedCount": 2,
+    "isGenerated": false
+  },
+  {
+    "vendor": "samsung",
+    "osVersion": "Experience_9.5",
+    "releaseDate": "24 August 2018",
+    "maxEmojiVersion": "11.0",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 16,
+    "emojis": [
+      {
+        "id": "1F970",
+        "codepoints": [
+          "1F970"
+        ],
+        "name": "smiling face with 3 hearts",
+        "unicodeVersion": "11.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.5/smiling-face-with-hearts"
+      },
+      {
+        "id": "1F975",
+        "codepoints": [
+          "1F975"
+        ],
+        "name": "hot face",
+        "unicodeVersion": "11.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.5/hot-face"
+      },
+      {
+        "id": "1F976",
+        "codepoints": [
+          "1F976"
+        ],
+        "name": "cold face",
+        "unicodeVersion": "11.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.5/cold-face"
+      },
+      {
+        "id": "1F974",
+        "codepoints": [
+          "1F974"
+        ],
+        "name": "woozy face",
+        "unicodeVersion": "11.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.5/woozy-face"
+      },
+      {
+        "id": "1F973",
+        "codepoints": [
+          "1F973"
+        ],
+        "name": "partying face",
+        "unicodeVersion": "11.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.5/partying-face"
+      },
+      {
+        "id": "1F97A",
+        "codepoints": [
+          "1F97A"
+        ],
+        "name": "pleading face",
+        "unicodeVersion": "11.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.5/pleading-face"
+      },
+      {
+        "id": "1F9B5",
+        "codepoints": [
+          "1F9B5"
+        ],
+        "name": "leg",
+        "unicodeVersion": "11.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.5/leg"
+      },
+      {
+        "id": "1F9B5-1F3FC",
+        "codepoints": [
+          "1F9B5",
+          "1F3FC"
+        ],
+        "name": "leg: medium-light skin tone",
+        "unicodeVersion": "11.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.5/leg-medium-light-skin-tone"
+      },
+      {
+        "id": "1F9B5-1F3FD",
+        "codepoints": [
+          "1F9B5",
+          "1F3FD"
+        ],
+        "name": "leg: medium skin tone",
+        "unicodeVersion": "11.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.5/leg-medium-skin-tone"
+      },
+      {
+        "id": "1F9B5-1F3FE",
+        "codepoints": [
+          "1F9B5",
+          "1F3FE"
+        ],
+        "name": "leg: medium-dark skin tone",
+        "unicodeVersion": "11.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.5/leg-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F96D",
+        "codepoints": [
+          "1F96D"
+        ],
+        "name": "mango",
+        "unicodeVersion": "11.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.5/mango"
+      },
+      {
+        "id": "1F96C",
+        "codepoints": [
+          "1F96C"
+        ],
+        "name": "leafy green",
+        "unicodeVersion": "11.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.5/leafy-green"
+      },
+      {
+        "id": "1F96F",
+        "codepoints": [
+          "1F96F"
+        ],
+        "name": "bagel",
+        "unicodeVersion": "11.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.5/bagel"
+      },
+      {
+        "id": "1F9C2",
+        "codepoints": [
+          "1F9C2"
+        ],
+        "name": "salt",
+        "unicodeVersion": "11.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.5/salt"
+      },
+      {
+        "id": "1F96E",
+        "codepoints": [
+          "1F96E"
+        ],
+        "name": "moon cake",
+        "unicodeVersion": "11.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.5/moon-cake"
+      },
+      {
+        "id": "1F9C1",
+        "codepoints": [
+          "1F9C1"
+        ],
+        "name": "cupcake",
+        "unicodeVersion": "11.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/experience-9.5/cupcake"
+      }
+    ],
+    "sourceUrl": "https://emojipedia.org/samsung/experience-9.5",
+    "unresolvedCount": 6,
+    "isGenerated": false
+  },
+  {
+    "vendor": "samsung",
+    "osVersion": "OneUI_1.5",
+    "releaseDate": "23 August 2019",
+    "maxEmojiVersion": "12.0",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 53,
+    "emojis": [
+      {
+        "id": "1F971",
+        "codepoints": [
+          "1F971"
+        ],
+        "name": "yawning face",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/yawning-face"
+      },
+      {
+        "id": "1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FD",
+        "codepoints": [
+          "1F9D1",
+          "1F3FF",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F9D1",
+          "1F3FD"
+        ],
+        "name": "people holding hands: dark skin tone, medium skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/people-holding-hands-dark-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FE",
+        "codepoints": [
+          "1F9D1",
+          "1F3FF",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F9D1",
+          "1F3FE"
+        ],
+        "name": "people holding hands: dark skin tone, medium-dark skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/people-holding-hands-dark-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FF-200D-1F91D-200D-1F9D1-1F3FF",
+        "codepoints": [
+          "1F9D1",
+          "1F3FF",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F9D1",
+          "1F3FF"
+        ],
+        "name": "people holding hands: dark skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/people-holding-hands-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FC-200D-1F91D-200D-1F469-1F3FB",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FB"
+        ],
+        "name": "women holding hands: medium-light skin tone, light skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/women-holding-hands-medium-light-skin-tone-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-1F91D-200D-1F469-1F3FB",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FB"
+        ],
+        "name": "women holding hands: medium skin tone, light skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/women-holding-hands-medium-skin-tone-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-1F91D-200D-1F469-1F3FC",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FC"
+        ],
+        "name": "women holding hands: medium skin tone, medium-light skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/women-holding-hands-medium-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-1F91D-200D-1F469-1F3FB",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FB"
+        ],
+        "name": "women holding hands: medium-dark skin tone, light skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/women-holding-hands-medium-dark-skin-tone-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-1F91D-200D-1F469-1F3FC",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FC"
+        ],
+        "name": "women holding hands: medium-dark skin tone, medium-light skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/women-holding-hands-medium-dark-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-1F91D-200D-1F469-1F3FD",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FD"
+        ],
+        "name": "women holding hands: medium-dark skin tone, medium skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/women-holding-hands-medium-dark-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-1F91D-200D-1F469-1F3FB",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FB"
+        ],
+        "name": "women holding hands: dark skin tone, light skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/women-holding-hands-dark-skin-tone-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-1F91D-200D-1F469-1F3FC",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FC"
+        ],
+        "name": "women holding hands: dark skin tone, medium-light skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/women-holding-hands-dark-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-1F91D-200D-1F469-1F3FD",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FD"
+        ],
+        "name": "women holding hands: dark skin tone, medium skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/women-holding-hands-dark-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-1F91D-200D-1F469-1F3FE",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FE"
+        ],
+        "name": "women holding hands: dark skin tone, medium-dark skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/women-holding-hands-dark-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FB-200D-1F91D-200D-1F468-1F3FC",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FC"
+        ],
+        "name": "woman and man holding hands: light skin tone, medium-light skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/woman-and-man-holding-hands-light-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FB-200D-1F91D-200D-1F468-1F3FD",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FD"
+        ],
+        "name": "woman and man holding hands: light skin tone, medium skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/woman-and-man-holding-hands-light-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FB-200D-1F91D-200D-1F468-1F3FE",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FE"
+        ],
+        "name": "woman and man holding hands: light skin tone, medium-dark skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/woman-and-man-holding-hands-light-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FC-200D-1F91D-200D-1F468-1F3FB",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FB"
+        ],
+        "name": "woman and man holding hands: medium-light skin tone, light skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/woman-and-man-holding-hands-medium-light-skin-tone-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FC-200D-1F91D-200D-1F468-1F3FD",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FD"
+        ],
+        "name": "woman and man holding hands: medium-light skin tone, medium skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/woman-and-man-holding-hands-medium-light-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FC-200D-1F91D-200D-1F468-1F3FE",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FE"
+        ],
+        "name": "woman and man holding hands: medium-light skin tone, medium-dark skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/woman-and-man-holding-hands-medium-light-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FC-200D-1F91D-200D-1F468-1F3FF",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FF"
+        ],
+        "name": "woman and man holding hands: medium-light skin tone, dark skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/woman-and-man-holding-hands-medium-light-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-1F91D-200D-1F468-1F3FB",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FB"
+        ],
+        "name": "woman and man holding hands: medium skin tone, light skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/woman-and-man-holding-hands-medium-skin-tone-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-1F91D-200D-1F468-1F3FC",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FC"
+        ],
+        "name": "woman and man holding hands: medium skin tone, medium-light skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/woman-and-man-holding-hands-medium-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-1F91D-200D-1F468-1F3FE",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FE"
+        ],
+        "name": "woman and man holding hands: medium skin tone, medium-dark skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/woman-and-man-holding-hands-medium-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-1F91D-200D-1F468-1F3FF",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FF"
+        ],
+        "name": "woman and man holding hands: medium skin tone, dark skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/woman-and-man-holding-hands-medium-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-1F91D-200D-1F468-1F3FB",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FB"
+        ],
+        "name": "woman and man holding hands: medium-dark skin tone, light skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/woman-and-man-holding-hands-medium-dark-skin-tone-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-1F91D-200D-1F468-1F3FC",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FC"
+        ],
+        "name": "woman and man holding hands: medium-dark skin tone, medium-light skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/woman-and-man-holding-hands-medium-dark-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-1F91D-200D-1F468-1F3FD",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FD"
+        ],
+        "name": "woman and man holding hands: medium-dark skin tone, medium skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/woman-and-man-holding-hands-medium-dark-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-1F91D-200D-1F468-1F3FF",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FF"
+        ],
+        "name": "woman and man holding hands: medium-dark skin tone, dark skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/woman-and-man-holding-hands-medium-dark-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-1F91D-200D-1F468-1F3FB",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FB"
+        ],
+        "name": "woman and man holding hands: dark skin tone, light skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/woman-and-man-holding-hands-dark-skin-tone-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-1F91D-200D-1F468-1F3FC",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FC"
+        ],
+        "name": "woman and man holding hands: dark skin tone, medium-light skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/woman-and-man-holding-hands-dark-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-1F91D-200D-1F468-1F3FD",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FD"
+        ],
+        "name": "woman and man holding hands: dark skin tone, medium skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/woman-and-man-holding-hands-dark-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-1F91D-200D-1F468-1F3FE",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FE"
+        ],
+        "name": "woman and man holding hands: dark skin tone, medium-dark skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/woman-and-man-holding-hands-dark-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FC-200D-1F91D-200D-1F468-1F3FB",
+        "codepoints": [
+          "1F468",
+          "1F3FC",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FB"
+        ],
+        "name": "men holding hands: medium-light skin tone, light skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/men-holding-hands-medium-light-skin-tone-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FD-200D-1F91D-200D-1F468-1F3FB",
+        "codepoints": [
+          "1F468",
+          "1F3FD",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FB"
+        ],
+        "name": "men holding hands: medium skin tone, light skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/men-holding-hands-medium-skin-tone-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FD-200D-1F91D-200D-1F468-1F3FC",
+        "codepoints": [
+          "1F468",
+          "1F3FD",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FC"
+        ],
+        "name": "men holding hands: medium skin tone, medium-light skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/men-holding-hands-medium-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FE-200D-1F91D-200D-1F468-1F3FB",
+        "codepoints": [
+          "1F468",
+          "1F3FE",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FB"
+        ],
+        "name": "men holding hands: medium-dark skin tone, light skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/men-holding-hands-medium-dark-skin-tone-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FE-200D-1F91D-200D-1F468-1F3FC",
+        "codepoints": [
+          "1F468",
+          "1F3FE",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FC"
+        ],
+        "name": "men holding hands: medium-dark skin tone, medium-light skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/men-holding-hands-medium-dark-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FE-200D-1F91D-200D-1F468-1F3FD",
+        "codepoints": [
+          "1F468",
+          "1F3FE",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FD"
+        ],
+        "name": "men holding hands: medium-dark skin tone, medium skin tone",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/men-holding-hands-medium-dark-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F90E",
+        "codepoints": [
+          "1F90E"
+        ],
+        "name": "brown heart",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/brown-heart"
+      },
+      {
+        "id": "1F90D",
+        "codepoints": [
+          "1F90D"
+        ],
+        "name": "white heart",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/white-heart"
+      },
+      {
+        "id": "1F7E0",
+        "codepoints": [
+          "1F7E0"
+        ],
+        "name": "orange circle",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/large-orange-circle"
+      },
+      {
+        "id": "1F7E1",
+        "codepoints": [
+          "1F7E1"
+        ],
+        "name": "yellow circle",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/large-yellow-circle"
+      },
+      {
+        "id": "1F7E2",
+        "codepoints": [
+          "1F7E2"
+        ],
+        "name": "green circle",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/large-green-circle"
+      },
+      {
+        "id": "1F7E3",
+        "codepoints": [
+          "1F7E3"
+        ],
+        "name": "purple circle",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/large-purple-circle"
+      },
+      {
+        "id": "1F7E4",
+        "codepoints": [
+          "1F7E4"
+        ],
+        "name": "brown circle",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/large-brown-circle"
+      },
+      {
+        "id": "1F7E5",
+        "codepoints": [
+          "1F7E5"
+        ],
+        "name": "red square",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/large-red-square"
+      },
+      {
+        "id": "1F7E7",
+        "codepoints": [
+          "1F7E7"
+        ],
+        "name": "orange square",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/large-orange-square"
+      },
+      {
+        "id": "1F7E8",
+        "codepoints": [
+          "1F7E8"
+        ],
+        "name": "yellow square",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/large-yellow-square"
+      },
+      {
+        "id": "1F7E9",
+        "codepoints": [
+          "1F7E9"
+        ],
+        "name": "green square",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/large-green-square"
+      },
+      {
+        "id": "1F7E6",
+        "codepoints": [
+          "1F7E6"
+        ],
+        "name": "blue square",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/large-blue-square"
+      },
+      {
+        "id": "1F7EA",
+        "codepoints": [
+          "1F7EA"
+        ],
+        "name": "purple square",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/large-purple-square"
+      },
+      {
+        "id": "1F7EB",
+        "codepoints": [
+          "1F7EB"
+        ],
+        "name": "brown square",
+        "unicodeVersion": "12.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5/large-brown-square"
+      }
+    ],
+    "sourceUrl": "https://emojipedia.org/samsung/one-ui-1.5",
+    "unresolvedCount": 0,
+    "isGenerated": false
+  },
+  {
+    "vendor": "samsung",
+    "osVersion": "OneUI_2.1",
+    "releaseDate": "14 February 2020",
+    "maxEmojiVersion": "12.1",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 33,
+    "emojis": [
+      {
+        "id": "1F9D1-200D-1F9B0",
+        "codepoints": [
+          "1F9D1",
+          "200D",
+          "1F9B0"
+        ],
+        "name": "person: red hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-red-hair"
+      },
+      {
+        "id": "1F9D1-1F3FB-200D-1F9B0",
+        "codepoints": [
+          "1F9D1",
+          "1F3FB",
+          "200D",
+          "1F9B0"
+        ],
+        "name": "person: light skin tone, red hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-light-skin-tone-red-hair"
+      },
+      {
+        "id": "1F9D1-1F3FC-200D-1F9B0",
+        "codepoints": [
+          "1F9D1",
+          "1F3FC",
+          "200D",
+          "1F9B0"
+        ],
+        "name": "person: medium-light skin tone, red hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-medium-light-skin-tone-red-hair"
+      },
+      {
+        "id": "1F9D1-1F3FD-200D-1F9B0",
+        "codepoints": [
+          "1F9D1",
+          "1F3FD",
+          "200D",
+          "1F9B0"
+        ],
+        "name": "person: medium skin tone, red hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-medium-skin-tone-red-hair"
+      },
+      {
+        "id": "1F9D1-1F3FE-200D-1F9B0",
+        "codepoints": [
+          "1F9D1",
+          "1F3FE",
+          "200D",
+          "1F9B0"
+        ],
+        "name": "person: medium-dark skin tone, red hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-medium-dark-skin-tone-red-hair"
+      },
+      {
+        "id": "1F9D1-1F3FF-200D-1F9B0",
+        "codepoints": [
+          "1F9D1",
+          "1F3FF",
+          "200D",
+          "1F9B0"
+        ],
+        "name": "person: dark skin tone, red hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-dark-skin-tone-red-hair"
+      },
+      {
+        "id": "1F9D1-200D-1F9B1",
+        "codepoints": [
+          "1F9D1",
+          "200D",
+          "1F9B1"
+        ],
+        "name": "person: curly hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-curly-hair"
+      },
+      {
+        "id": "1F9D1-1F3FC-200D-1F9B1",
+        "codepoints": [
+          "1F9D1",
+          "1F3FC",
+          "200D",
+          "1F9B1"
+        ],
+        "name": "person: medium-light skin tone, curly hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-medium-light-skin-tone-curly-hair"
+      },
+      {
+        "id": "1F9D1-1F3FD-200D-1F9B1",
+        "codepoints": [
+          "1F9D1",
+          "1F3FD",
+          "200D",
+          "1F9B1"
+        ],
+        "name": "person: medium skin tone, curly hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-medium-skin-tone-curly-hair"
+      },
+      {
+        "id": "1F9D1-1F3FE-200D-1F9B1",
+        "codepoints": [
+          "1F9D1",
+          "1F3FE",
+          "200D",
+          "1F9B1"
+        ],
+        "name": "person: medium-dark skin tone, curly hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-medium-dark-skin-tone-curly-hair"
+      },
+      {
+        "id": "1F9D1-1F3FF-200D-1F9B1",
+        "codepoints": [
+          "1F9D1",
+          "1F3FF",
+          "200D",
+          "1F9B1"
+        ],
+        "name": "person: dark skin tone, curly hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-dark-skin-tone-curly-hair"
+      },
+      {
+        "id": "1F9D1-200D-1F9B3",
+        "codepoints": [
+          "1F9D1",
+          "200D",
+          "1F9B3"
+        ],
+        "name": "person: white hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-white-hair"
+      },
+      {
+        "id": "1F9D1-1F3FD-200D-1F692",
+        "codepoints": [
+          "1F9D1",
+          "1F3FD",
+          "200D",
+          "1F692"
+        ],
+        "name": "firefighter: medium skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/firefighter-medium-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FE-200D-1F692",
+        "codepoints": [
+          "1F9D1",
+          "1F3FE",
+          "200D",
+          "1F692"
+        ],
+        "name": "firefighter: medium-dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/firefighter-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FF-200D-1F692",
+        "codepoints": [
+          "1F9D1",
+          "1F3FF",
+          "200D",
+          "1F692"
+        ],
+        "name": "firefighter: dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/firefighter-dark-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FB-200D-1F9AF",
+        "codepoints": [
+          "1F9D1",
+          "1F3FB",
+          "200D",
+          "1F9AF"
+        ],
+        "name": "person with probing cane: light skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-with-white-cane-light-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FC-200D-1F9AF",
+        "codepoints": [
+          "1F9D1",
+          "1F3FC",
+          "200D",
+          "1F9AF"
+        ],
+        "name": "person with probing cane: medium-light skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-with-white-cane-medium-light-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FF-200D-1F9BC",
+        "codepoints": [
+          "1F9D1",
+          "1F3FF",
+          "200D",
+          "1F9BC"
+        ],
+        "name": "person in motorized wheelchair: dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-in-motorized-wheelchair-dark-skin-tone"
+      },
+      {
+        "id": "1F9D1-200D-1F9BD",
+        "codepoints": [
+          "1F9D1",
+          "200D",
+          "1F9BD"
+        ],
+        "name": "person in manual wheelchair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-in-manual-wheelchair"
+      },
+      {
+        "id": "1F9D1-1F3FB-200D-1F9BD",
+        "codepoints": [
+          "1F9D1",
+          "1F3FB",
+          "200D",
+          "1F9BD"
+        ],
+        "name": "person in manual wheelchair: light skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-in-manual-wheelchair-light-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FC-200D-1F9BD",
+        "codepoints": [
+          "1F9D1",
+          "1F3FC",
+          "200D",
+          "1F9BD"
+        ],
+        "name": "person in manual wheelchair: medium-light skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-in-manual-wheelchair-medium-light-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FE-200D-1F9BD",
+        "codepoints": [
+          "1F9D1",
+          "1F3FE",
+          "200D",
+          "1F9BD"
+        ],
+        "name": "person in manual wheelchair: medium-dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-in-manual-wheelchair-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F9D1-200D-1F9AF",
+        "codepoints": [
+          "1F9D1",
+          "200D",
+          "1F9AF"
+        ],
+        "name": "person with probing cane",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-with-white-cane"
+      },
+      {
+        "id": "1F9D1-1F3FD-200D-1F9AF",
+        "codepoints": [
+          "1F9D1",
+          "1F3FD",
+          "200D",
+          "1F9AF"
+        ],
+        "name": "person with probing cane: medium skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-with-white-cane-medium-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FE-200D-1F9AF",
+        "codepoints": [
+          "1F9D1",
+          "1F3FE",
+          "200D",
+          "1F9AF"
+        ],
+        "name": "person with probing cane: medium-dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-with-white-cane-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FF-200D-1F9AF",
+        "codepoints": [
+          "1F9D1",
+          "1F3FF",
+          "200D",
+          "1F9AF"
+        ],
+        "name": "person with probing cane: dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-with-white-cane-dark-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FC-200D-1F9BC",
+        "codepoints": [
+          "1F9D1",
+          "1F3FC",
+          "200D",
+          "1F9BC"
+        ],
+        "name": "person in motorized wheelchair: medium-light skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-in-motorized-wheelchair-medium-light-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FD-200D-1F9BC",
+        "codepoints": [
+          "1F9D1",
+          "1F3FD",
+          "200D",
+          "1F9BC"
+        ],
+        "name": "person in motorized wheelchair: medium skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-in-motorized-wheelchair-medium-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FE-200D-1F9BC",
+        "codepoints": [
+          "1F9D1",
+          "1F3FE",
+          "200D",
+          "1F9BC"
+        ],
+        "name": "person in motorized wheelchair: medium-dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-in-motorized-wheelchair-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FD-200D-1F9BD",
+        "codepoints": [
+          "1F9D1",
+          "1F3FD",
+          "200D",
+          "1F9BD"
+        ],
+        "name": "person in manual wheelchair: medium skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-in-manual-wheelchair-medium-skin-tone"
+      },
+      {
+        "id": "1F9D1-200D-1F9BC",
+        "codepoints": [
+          "1F9D1",
+          "200D",
+          "1F9BC"
+        ],
+        "name": "person in motorized wheelchair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-in-motorized-wheelchair"
+      },
+      {
+        "id": "1F9D1-1F3FB-200D-1F9BC",
+        "codepoints": [
+          "1F9D1",
+          "1F3FB",
+          "200D",
+          "1F9BC"
+        ],
+        "name": "person in motorized wheelchair: light skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-in-motorized-wheelchair-light-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FF-200D-1F9BD",
+        "codepoints": [
+          "1F9D1",
+          "1F3FF",
+          "200D",
+          "1F9BD"
+        ],
+        "name": "person in manual wheelchair: dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1/person-in-manual-wheelchair-dark-skin-tone"
+      }
+    ],
+    "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.1",
+    "unresolvedCount": 0,
+    "isGenerated": false
+  },
+  {
+    "vendor": "samsung",
+    "osVersion": "OneUI_2.5",
+    "releaseDate": "21 August 2020",
+    "maxEmojiVersion": "13.0",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 5,
+    "emojis": [
+      {
+        "id": "1F972",
+        "codepoints": [
+          "1F972"
+        ],
+        "name": "smiling face with tear",
+        "unicodeVersion": "13.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.5/smiling-face-with-tear"
+      },
+      {
+        "id": "1F978",
+        "codepoints": [
+          "1F978"
+        ],
+        "name": "disguised face",
+        "unicodeVersion": "13.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.5/disguised-face"
+      },
+      {
+        "id": "1FA84",
+        "codepoints": [
+          "1FA84"
+        ],
+        "name": "magic wand",
+        "unicodeVersion": "13.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.5/magic-wand"
+      },
+      {
+        "id": "1FA86",
+        "codepoints": [
+          "1FA86"
+        ],
+        "name": "nesting dolls",
+        "unicodeVersion": "13.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.5/nesting-dolls"
+      },
+      {
+        "id": "1F3F3-FE0F-200D-26A7-FE0F",
+        "codepoints": [
+          "1F3F3",
+          "FE0F",
+          "200D",
+          "26A7",
+          "FE0F"
+        ],
+        "name": "transgender flag",
+        "unicodeVersion": "13.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.5/transgender-flag"
+      }
+    ],
+    "sourceUrl": "https://emojipedia.org/samsung/one-ui-2.5",
+    "unresolvedCount": 0,
+    "isGenerated": false
+  },
+  {
+    "vendor": "samsung",
+    "osVersion": "OneUI_4.0",
+    "releaseDate": "15 November 2021",
+    "maxEmojiVersion": "13.1",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 31,
+    "emojis": [
+      {
+        "id": "1F636-200D-1F32B-FE0F",
+        "codepoints": [
+          "1F636",
+          "200D",
+          "1F32B",
+          "FE0F"
+        ],
+        "name": "face in clouds",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/face-in-clouds"
+      },
+      {
+        "id": "1F62E-200D-1F4A8",
+        "codepoints": [
+          "1F62E",
+          "200D",
+          "1F4A8"
+        ],
+        "name": "face exhaling",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/face-exhaling"
+      },
+      {
+        "id": "1F635-200D-1F4AB",
+        "codepoints": [
+          "1F635",
+          "200D",
+          "1F4AB"
+        ],
+        "name": "face with spiral eyes",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/face-with-spiral-eyes"
+      },
+      {
+        "id": "1F9D4-200D-2642-FE0F",
+        "codepoints": [
+          "1F9D4",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man: beard",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/man-beard"
+      },
+      {
+        "id": "1F9D4-1F3FB-200D-2642-FE0F",
+        "codepoints": [
+          "1F9D4",
+          "1F3FB",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man: light skin tone, beard",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/man-light-skin-tone-beard"
+      },
+      {
+        "id": "1F9D4-1F3FC-200D-2642-FE0F",
+        "codepoints": [
+          "1F9D4",
+          "1F3FC",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man: medium-light skin tone, beard",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/man-medium-light-skin-tone-beard"
+      },
+      {
+        "id": "1F9D4-1F3FD-200D-2642-FE0F",
+        "codepoints": [
+          "1F9D4",
+          "1F3FD",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man: medium skin tone, beard",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/man-medium-skin-tone-beard"
+      },
+      {
+        "id": "1F9D4-1F3FE-200D-2642-FE0F",
+        "codepoints": [
+          "1F9D4",
+          "1F3FE",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man: medium-dark skin tone, beard",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/man-medium-dark-skin-tone-beard"
+      },
+      {
+        "id": "1F9D4-1F3FF-200D-2642-FE0F",
+        "codepoints": [
+          "1F9D4",
+          "1F3FF",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man: dark skin tone, beard",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/man-dark-skin-tone-beard"
+      },
+      {
+        "id": "1F9D4-200D-2640-FE0F",
+        "codepoints": [
+          "1F9D4",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman: beard",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/woman-beard"
+      },
+      {
+        "id": "1F9D4-1F3FB-200D-2640-FE0F",
+        "codepoints": [
+          "1F9D4",
+          "1F3FB",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman: light skin tone, beard",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/woman-light-skin-tone-beard"
+      },
+      {
+        "id": "1F9D4-1F3FC-200D-2640-FE0F",
+        "codepoints": [
+          "1F9D4",
+          "1F3FC",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman: medium-light skin tone, beard",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/woman-medium-light-skin-tone-beard"
+      },
+      {
+        "id": "1F9D4-1F3FD-200D-2640-FE0F",
+        "codepoints": [
+          "1F9D4",
+          "1F3FD",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman: medium skin tone, beard",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/woman-medium-skin-tone-beard"
+      },
+      {
+        "id": "1F9D4-1F3FE-200D-2640-FE0F",
+        "codepoints": [
+          "1F9D4",
+          "1F3FE",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman: medium-dark skin tone, beard",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/woman-medium-dark-skin-tone-beard"
+      },
+      {
+        "id": "1F9D4-1F3FF-200D-2640-FE0F",
+        "codepoints": [
+          "1F9D4",
+          "1F3FF",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman: dark skin tone, beard",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/woman-dark-skin-tone-beard"
+      },
+      {
+        "id": "1F469-1F3FE-200D-2764-FE0F-200D-1F468-1F3FD",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FD"
+        ],
+        "name": "couple with heart: woman, man, medium-dark skin tone, medium skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/couple-with-heart-woman-man-medium-dark-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-2764-FE0F-200D-1F468-1F3FF",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FF"
+        ],
+        "name": "couple with heart: woman, man, medium-dark skin tone, dark skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/couple-with-heart-woman-man-medium-dark-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-2764-FE0F-200D-1F468-1F3FB",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FB"
+        ],
+        "name": "couple with heart: woman, man, dark skin tone, light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/couple-with-heart-woman-man-dark-skin-tone-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-2764-FE0F-200D-1F468-1F3FD",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FD"
+        ],
+        "name": "couple with heart: woman, man, dark skin tone, medium skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/couple-with-heart-woman-man-dark-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-2764-FE0F-200D-1F468-1F3FF",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FF"
+        ],
+        "name": "couple with heart: woman, man, dark skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/couple-with-heart-woman-man-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FB-200D-2764-FE0F-200D-1F468-1F3FB",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FB"
+        ],
+        "name": "couple with heart: man, man, light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/couple-with-heart-man-man-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FB-200D-2764-FE0F-200D-1F468-1F3FC",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FC"
+        ],
+        "name": "couple with heart: man, man, light skin tone, medium-light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/couple-with-heart-man-man-light-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FB-200D-2764-FE0F-200D-1F468-1F3FE",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FE"
+        ],
+        "name": "couple with heart: man, man, light skin tone, medium-dark skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/couple-with-heart-man-man-light-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FC-200D-2764-FE0F-200D-1F468-1F3FC",
+        "codepoints": [
+          "1F468",
+          "1F3FC",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FC"
+        ],
+        "name": "couple with heart: man, man, medium-light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/couple-with-heart-man-man-medium-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FD-200D-2764-FE0F-200D-1F468-1F3FB",
+        "codepoints": [
+          "1F468",
+          "1F3FD",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FB"
+        ],
+        "name": "couple with heart: man, man, medium skin tone, light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/couple-with-heart-man-man-medium-skin-tone-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FD-200D-2764-FE0F-200D-1F468-1F3FE",
+        "codepoints": [
+          "1F468",
+          "1F3FD",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FE"
+        ],
+        "name": "couple with heart: man, man, medium skin tone, medium-dark skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/couple-with-heart-man-man-medium-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FD-200D-2764-FE0F-200D-1F468-1F3FF",
+        "codepoints": [
+          "1F468",
+          "1F3FD",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FF"
+        ],
+        "name": "couple with heart: man, man, medium skin tone, dark skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/couple-with-heart-man-man-medium-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FE-200D-2764-FE0F-200D-1F468-1F3FB",
+        "codepoints": [
+          "1F468",
+          "1F3FE",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FB"
+        ],
+        "name": "couple with heart: man, man, medium-dark skin tone, light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/couple-with-heart-man-man-medium-dark-skin-tone-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FE-200D-2764-FE0F-200D-1F468-1F3FC",
+        "codepoints": [
+          "1F468",
+          "1F3FE",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FC"
+        ],
+        "name": "couple with heart: man, man, medium-dark skin tone, medium-light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/couple-with-heart-man-man-medium-dark-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "2764-FE0F-200D-1F525",
+        "codepoints": [
+          "2764",
+          "FE0F",
+          "200D",
+          "1F525"
+        ],
+        "name": "heart on fire",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/heart-on-fire"
+      },
+      {
+        "id": "2764-FE0F-200D-1FA79",
+        "codepoints": [
+          "2764",
+          "FE0F",
+          "200D",
+          "1FA79"
+        ],
+        "name": "mending heart",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0/mending-heart"
+      }
+    ],
+    "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0",
+    "unresolvedCount": 0,
+    "isGenerated": false
+  },
+  {
+    "vendor": "samsung",
+    "osVersion": "OneUI_4.0_January_2022",
+    "releaseDate": "18 January 2022",
+    "maxEmojiVersion": null,
+    "emojiVersionsMentioned": [],
+    "emojisFound": 0,
+    "emojis": [],
+    "sourceUrl": "https://emojipedia.org/samsung/one-ui-4.0-january-2022",
+    "unresolvedCount": 25,
+    "isGenerated": false
+  },
+  {
+    "vendor": "samsung",
+    "osVersion": "OneUI_5.0",
+    "releaseDate": "24 October 2022",
+    "maxEmojiVersion": "15.0",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 14,
+    "emojis": [
+      {
+        "id": "1FAE0",
+        "codepoints": [
+          "1FAE0"
+        ],
+        "name": "melting face",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-5.0/melting-face"
+      },
+      {
+        "id": "1FAE2",
+        "codepoints": [
+          "1FAE2"
+        ],
+        "name": "face with open eyes and hand over mouth",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-5.0/face-with-open-eyes-and-hand-over-mouth"
+      },
+      {
+        "id": "1FAE3",
+        "codepoints": [
+          "1FAE3"
+        ],
+        "name": "face with peeking eye",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-5.0/face-with-peeking-eye"
+      },
+      {
+        "id": "1FAE1",
+        "codepoints": [
+          "1FAE1"
+        ],
+        "name": "saluting face",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-5.0/saluting-face"
+      },
+      {
+        "id": "1FAE5",
+        "codepoints": [
+          "1FAE5"
+        ],
+        "name": "dotted line face",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-5.0/dotted-line-face"
+      },
+      {
+        "id": "1FAE8",
+        "codepoints": [
+          "1FAE8"
+        ],
+        "name": "shaking face",
+        "unicodeVersion": "15.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-5.0/shaking-face"
+      },
+      {
+        "id": "1FAE4",
+        "codepoints": [
+          "1FAE4"
+        ],
+        "name": "face with diagonal mouth",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-5.0/face-with-diagonal-mouth"
+      },
+      {
+        "id": "1F979",
+        "codepoints": [
+          "1F979"
+        ],
+        "name": "face holding back tears",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-5.0/face-holding-back-tears"
+      },
+      {
+        "id": "1FA77",
+        "codepoints": [
+          "1FA77"
+        ],
+        "name": "pink heart",
+        "unicodeVersion": "15.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-5.0/pink-heart"
+      },
+      {
+        "id": "1FA75",
+        "codepoints": [
+          "1FA75"
+        ],
+        "name": "light blue heart",
+        "unicodeVersion": "15.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-5.0/light-blue-heart"
+      },
+      {
+        "id": "1FA76",
+        "codepoints": [
+          "1FA76"
+        ],
+        "name": "grey heart",
+        "unicodeVersion": "15.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-5.0/grey-heart"
+      },
+      {
+        "id": "1FAAF",
+        "codepoints": [
+          "1FAAF"
+        ],
+        "name": "khanda",
+        "unicodeVersion": "15.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-5.0/khanda"
+      },
+      {
+        "id": "1F6DC",
+        "codepoints": [
+          "1F6DC"
+        ],
+        "name": "wireless",
+        "unicodeVersion": "15.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-5.0/wireless"
+      },
+      {
+        "id": "1F7F0",
+        "codepoints": [
+          "1F7F0"
+        ],
+        "name": "heavy equals sign",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-5.0/heavy-equals-sign"
+      }
+    ],
+    "sourceUrl": "https://emojipedia.org/samsung/one-ui-5.0",
+    "unresolvedCount": 0,
+    "isGenerated": false
+  },
+  {
+    "vendor": "samsung",
+    "osVersion": "OneUI_6.0",
+    "releaseDate": "30 October 2023",
+    "maxEmojiVersion": "15.1",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 30,
+    "emojis": [
+      {
+        "id": "1F642-200D-2194-FE0F",
+        "codepoints": [
+          "1F642",
+          "200D",
+          "2194",
+          "FE0F"
+        ],
+        "name": "head shaking horizontally",
+        "unicodeVersion": "15.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/head-shaking-horizontally"
+      },
+      {
+        "id": "1F642-200D-2195-FE0F",
+        "codepoints": [
+          "1F642",
+          "200D",
+          "2195",
+          "FE0F"
+        ],
+        "name": "head shaking vertically",
+        "unicodeVersion": "15.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/head-shaking-vertically"
+      },
+      {
+        "id": "1F3C3-1F3FC-200D-2642-FE0F-200D-27A1-FE0F",
+        "codepoints": [
+          "1F3C3",
+          "1F3FC",
+          "200D",
+          "2642",
+          "FE0F",
+          "200D",
+          "27A1",
+          "FE0F"
+        ],
+        "name": "man running facing right: medium-light skin tone",
+        "unicodeVersion": "15.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/man_running_facing_right_medium-light_skin_tone"
+      },
+      {
+        "id": "1F3C3-1F3FE-200D-2642-FE0F-200D-27A1-FE0F",
+        "codepoints": [
+          "1F3C3",
+          "1F3FE",
+          "200D",
+          "2642",
+          "FE0F",
+          "200D",
+          "27A1",
+          "FE0F"
+        ],
+        "name": "man running facing right: medium-dark skin tone",
+        "unicodeVersion": "15.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/man_running_facing_right_medium-dark_skin_tone"
+      },
+      {
+        "id": "1F3C3-1F3FF-200D-2642-FE0F-200D-27A1-FE0F",
+        "codepoints": [
+          "1F3C3",
+          "1F3FF",
+          "200D",
+          "2642",
+          "FE0F",
+          "200D",
+          "27A1",
+          "FE0F"
+        ],
+        "name": "man running facing right: dark skin tone",
+        "unicodeVersion": "15.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/man_running_facing_right_dark_skin_tone"
+      },
+      {
+        "id": "1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FD",
+        "codepoints": [
+          "1F9D1",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F9D1",
+          "1F3FD"
+        ],
+        "name": "people holding hands: light skin tone, medium skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/people-holding-hands-light-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FB-200D-1F91D-200D-1F9D1-1F3FF",
+        "codepoints": [
+          "1F9D1",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F9D1",
+          "1F3FF"
+        ],
+        "name": "people holding hands: light skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/people-holding-hands-light-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FD",
+        "codepoints": [
+          "1F9D1",
+          "1F3FC",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F9D1",
+          "1F3FD"
+        ],
+        "name": "people holding hands: medium-light skin tone, medium skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/people-holding-hands-medium-light-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FF",
+        "codepoints": [
+          "1F9D1",
+          "1F3FC",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F9D1",
+          "1F3FF"
+        ],
+        "name": "people holding hands: medium-light skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/people-holding-hands-medium-light-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FE",
+        "codepoints": [
+          "1F9D1",
+          "1F3FD",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F9D1",
+          "1F3FE"
+        ],
+        "name": "people holding hands: medium skin tone, medium-dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/people-holding-hands-medium-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FF",
+        "codepoints": [
+          "1F9D1",
+          "1F3FD",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F9D1",
+          "1F3FF"
+        ],
+        "name": "people holding hands: medium skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/people-holding-hands-medium-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FF",
+        "codepoints": [
+          "1F9D1",
+          "1F3FE",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F9D1",
+          "1F3FF"
+        ],
+        "name": "people holding hands: medium-dark skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/people-holding-hands-medium-dark-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FB-200D-1F91D-200D-1F469-1F3FC",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FC"
+        ],
+        "name": "women holding hands: light skin tone, medium-light skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/women-holding-hands-light-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FB-200D-1F91D-200D-1F469-1F3FD",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FD"
+        ],
+        "name": "women holding hands: light skin tone, medium skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/women-holding-hands-light-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FB-200D-1F91D-200D-1F469-1F3FE",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FE"
+        ],
+        "name": "women holding hands: light skin tone, medium-dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/women-holding-hands-light-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FB-200D-1F91D-200D-1F469-1F3FF",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FF"
+        ],
+        "name": "women holding hands: light skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/women-holding-hands-light-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FC-200D-1F91D-200D-1F469-1F3FD",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FD"
+        ],
+        "name": "women holding hands: medium-light skin tone, medium skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/women-holding-hands-medium-light-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-1F91D-200D-1F469-1F3FE",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FE"
+        ],
+        "name": "women holding hands: medium skin tone, medium-dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/women-holding-hands-medium-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-1F91D-200D-1F469-1F3FF",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FF"
+        ],
+        "name": "women holding hands: medium skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/women-holding-hands-medium-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-1F91D-200D-1F469-1F3FF",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FF"
+        ],
+        "name": "women holding hands: medium-dark skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/women-holding-hands-medium-dark-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FB-200D-1F91D-200D-1F468-1F3FC",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FC"
+        ],
+        "name": "men holding hands: light skin tone, medium-light skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/men-holding-hands-light-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FB-200D-1F91D-200D-1F468-1F3FD",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FD"
+        ],
+        "name": "men holding hands: light skin tone, medium skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/men-holding-hands-light-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FB-200D-1F91D-200D-1F468-1F3FE",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FE"
+        ],
+        "name": "men holding hands: light skin tone, medium-dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/men-holding-hands-light-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FB-200D-1F91D-200D-1F468-1F3FF",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FF"
+        ],
+        "name": "men holding hands: light skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/men-holding-hands-light-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FC-200D-1F91D-200D-1F468-1F3FE",
+        "codepoints": [
+          "1F468",
+          "1F3FC",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FE"
+        ],
+        "name": "men holding hands: medium-light skin tone, medium-dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/men-holding-hands-medium-light-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FD-200D-1F91D-200D-1F468-1F3FF",
+        "codepoints": [
+          "1F468",
+          "1F3FD",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FF"
+        ],
+        "name": "men holding hands: medium skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/men-holding-hands-medium-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FE-200D-1F91D-200D-1F468-1F3FF",
+        "codepoints": [
+          "1F468",
+          "1F3FE",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FF"
+        ],
+        "name": "men holding hands: medium-dark skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/men-holding-hands-medium-dark-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F9D1-200D-1F9D1-200D-1F9D2",
+        "codepoints": [
+          "1F9D1",
+          "200D",
+          "1F9D1",
+          "200D",
+          "1F9D2"
+        ],
+        "name": "family: adult, adult, child",
+        "unicodeVersion": "15.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/family-adult-adult-child"
+      },
+      {
+        "id": "1F9D1-200D-1F9D2",
+        "codepoints": [
+          "1F9D1",
+          "200D",
+          "1F9D2"
+        ],
+        "name": "family: adult, child",
+        "unicodeVersion": "15.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/family-adult-child"
+      },
+      {
+        "id": "26D3-FE0F-200D-1F4A5",
+        "codepoints": [
+          "26D3",
+          "FE0F",
+          "200D",
+          "1F4A5"
+        ],
+        "name": "broken chain",
+        "unicodeVersion": "15.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0/broken-chain"
+      }
+    ],
+    "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.0",
+    "unresolvedCount": 1,
+    "isGenerated": false
+  },
+  {
+    "vendor": "samsung",
+    "osVersion": "OneUI_6.1.1",
+    "releaseDate": "10 July 2024",
+    "maxEmojiVersion": null,
+    "sourceUrl": "https://emojipedia.org/samsung/one-ui-6.1.1",
+    "error": "NO_EMOJI_LINKS_FOUND"
+  },
+  {
+    "vendor": "samsung",
+    "osVersion": "OneUI_7.0",
+    "releaseDate": "22 January 2025",
+    "maxEmojiVersion": null,
+    "emojiVersionsMentioned": [],
+    "emojisFound": 0,
+    "emojis": [],
+    "sourceUrl": "https://emojipedia.org/samsung/one-ui-7.0",
+    "unresolvedCount": 2,
+    "isGenerated": false
+  },
+  {
+    "vendor": "samsung",
+    "osVersion": "OneUI_7.0_April_2025",
+    "releaseDate": "07 April 2025",
+    "maxEmojiVersion": null,
+    "sourceUrl": "https://emojipedia.org/samsung/one-ui-7.0-april-2025",
+    "error": "NO_EMOJI_LINKS_FOUND"
+  }
+]

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emoji Fingerprint Test</title>
+  <link rel="stylesheet" href="/assets/styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Emoji Fingerprinting Test</h1>
+    <p class="subtitle">Advanced OS detection through Unicode emoji rendering analysis</p>
+
+    <div class="status">
+      <div class="status-item">
+        <span class="status-label">Status:</span>
+        <span class="status-value" id="status">Ready</span>
+      </div>
+      <div class="status-item">
+        <span class="status-label">Session ID:</span>
+        <span class="status-value" id="sessionId">Not started</span>
+      </div>
+      <div class="status-item">
+        <span class="status-label">Emojis Tested:</span>
+        <span class="status-value" id="emojiCount">0</span>
+      </div>
+    </div>
+
+    <button id="startTest" type="button">Run Emoji Fingerprint Test</button>
+
+    <div id="emojiGrid" class="emoji-grid hidden"></div>
+
+    <div id="results" class="results hidden">
+      <h2>Fingerprint Analysis Results</h2>
+
+      <div class="result-section">
+        <h3>Unicode Detection</h3>
+        <div class="metrics">
+          <div class="metric-card">
+            <div class="metric-title">Max Unicode Version</div>
+            <div class="metric-value" id="unicodeVersion">-</div>
+          </div>
+          <div class="metric-card">
+            <div class="metric-title">Detection Method</div>
+            <div class="metric-value" id="detectionMethod">-</div>
+          </div>
+          <div class="metric-card">
+            <div class="metric-title">Unicode Confidence</div>
+            <div class="metric-value" id="unicodeConfidence">-</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="result-section">
+        <h3>Top Match</h3>
+        <div id="topMatch"></div>
+      </div>
+
+      <div class="result-section">
+        <h3>All Candidates (Top 10)</h3>
+        <div id="candidatesList" class="candidates-list"></div>
+      </div>
+
+      <div class="result-section">
+        <h3>Sentinel Profile</h3>
+        <div id="sentinelProfile" class="metrics"></div>
+      </div>
+
+      <div class="result-section">
+        <h3>Diagnostics</h3>
+        <div id="diagnostics" class="metrics"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="/assets/app.js" defer></script>
+</body>
+</html>

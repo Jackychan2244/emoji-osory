@@ -1,0 +1,4543 @@
+[
+  {
+    "vendor": "google_android",
+    "osVersion": "Android_6.0.1",
+    "releaseDate": "07 December 2015",
+    "maxEmojiVersion": "10.0",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 27,
+    "emojis": [
+      {
+        "id": "1F642",
+        "codepoints": [
+          "1F642"
+        ],
+        "name": "slightly smiling face",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/slightly-smiling-face"
+      },
+      {
+        "id": "1F643",
+        "codepoints": [
+          "1F643"
+        ],
+        "name": "upside-down face",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/upside-down-face"
+      },
+      {
+        "id": "1F911",
+        "codepoints": [
+          "1F911"
+        ],
+        "name": "money-mouth face",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/money-mouth-face"
+      },
+      {
+        "id": "1F917",
+        "codepoints": [
+          "1F917"
+        ],
+        "name": "hugging face",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/hugging-face"
+      },
+      {
+        "id": "1F914",
+        "codepoints": [
+          "1F914"
+        ],
+        "name": "thinking face",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/thinking-face"
+      },
+      {
+        "id": "1F910",
+        "codepoints": [
+          "1F910"
+        ],
+        "name": "zipper-mouth face",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/zipper-mouth-face"
+      },
+      {
+        "id": "1F644",
+        "codepoints": [
+          "1F644"
+        ],
+        "name": "face with rolling eyes",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/face-with-rolling-eyes"
+      },
+      {
+        "id": "1F912",
+        "codepoints": [
+          "1F912"
+        ],
+        "name": "face with thermometer",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/face-with-thermometer"
+      },
+      {
+        "id": "1F915",
+        "codepoints": [
+          "1F915"
+        ],
+        "name": "face with head-bandage",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/face-with-head-bandage"
+      },
+      {
+        "id": "1F913",
+        "codepoints": [
+          "1F913"
+        ],
+        "name": "nerd face",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/nerd-face"
+      },
+      {
+        "id": "1F641",
+        "codepoints": [
+          "1F641"
+        ],
+        "name": "slightly frowning face",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/slightly-frowning-face"
+      },
+      {
+        "id": "2639",
+        "codepoints": [
+          "2639"
+        ],
+        "name": "frowning face",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/frowning-face"
+      },
+      {
+        "id": "2620",
+        "codepoints": [
+          "2620"
+        ],
+        "name": "skull and crossbones",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/skull-and-crossbones"
+      },
+      {
+        "id": "1F39F",
+        "codepoints": [
+          "1F39F"
+        ],
+        "name": "admission tickets",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/admission-tickets"
+      },
+      {
+        "id": "1F396",
+        "codepoints": [
+          "1F396"
+        ],
+        "name": "military medal",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/military-medal"
+      },
+      {
+        "id": "1F3C5",
+        "codepoints": [
+          "1F3C5"
+        ],
+        "name": "sports medal",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/sports-medal"
+      },
+      {
+        "id": "1F3D0",
+        "codepoints": [
+          "1F3D0"
+        ],
+        "name": "volleyball",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/volleyball"
+      },
+      {
+        "id": "1F3CF",
+        "codepoints": [
+          "1F3CF"
+        ],
+        "name": "cricket",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/cricket-game"
+      },
+      {
+        "id": "1F3D1",
+        "codepoints": [
+          "1F3D1"
+        ],
+        "name": "field hockey",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/field-hockey"
+      },
+      {
+        "id": "1F3D2",
+        "codepoints": [
+          "1F3D2"
+        ],
+        "name": "ice hockey",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/ice-hockey"
+      },
+      {
+        "id": "1F3D3",
+        "codepoints": [
+          "1F3D3"
+        ],
+        "name": "ping pong",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/ping-pong"
+      },
+      {
+        "id": "1F3F8",
+        "codepoints": [
+          "1F3F8"
+        ],
+        "name": "badminton",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/badminton"
+      },
+      {
+        "id": "26F8",
+        "codepoints": [
+          "26F8"
+        ],
+        "name": "ice skate",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/ice-skate"
+      },
+      {
+        "id": "1F579",
+        "codepoints": [
+          "1F579"
+        ],
+        "name": "joystick",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/joystick"
+      },
+      {
+        "id": "1F5BC",
+        "codepoints": [
+          "1F5BC"
+        ],
+        "name": "framed picture",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/framed-picture"
+      },
+      {
+        "id": "1F3F4",
+        "codepoints": [
+          "1F3F4"
+        ],
+        "name": "black flag",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/black-flag"
+      },
+      {
+        "id": "1F3F3",
+        "codepoints": [
+          "1F3F3"
+        ],
+        "name": "white flag",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-6.0.1/white-flag"
+      }
+    ],
+    "sourceUrl": "https://emojipedia.org/google/android-6.0.1",
+    "unresolvedCount": 0,
+    "isGenerated": false
+  },
+  {
+    "vendor": "google_android",
+    "osVersion": "Android_7.0",
+    "releaseDate": "22 August 2016",
+    "maxEmojiVersion": "9.0",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 82,
+    "emojis": [
+      {
+        "id": "1F923",
+        "codepoints": [
+          "1F923"
+        ],
+        "name": "rolling on the floor laughing",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/rolling-on-the-floor-laughing"
+      },
+      {
+        "id": "1F925",
+        "codepoints": [
+          "1F925"
+        ],
+        "name": "lying face",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/lying-face"
+      },
+      {
+        "id": "1F924",
+        "codepoints": [
+          "1F924"
+        ],
+        "name": "drooling face",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/drooling-face"
+      },
+      {
+        "id": "1F922",
+        "codepoints": [
+          "1F922"
+        ],
+        "name": "nauseated face",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/nauseated-face"
+      },
+      {
+        "id": "1F927",
+        "codepoints": [
+          "1F927"
+        ],
+        "name": "sneezing face",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/sneezing-face"
+      },
+      {
+        "id": "1F920",
+        "codepoints": [
+          "1F920"
+        ],
+        "name": "cowboy hat face",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/cowboy-hat-face"
+      },
+      {
+        "id": "1F921",
+        "codepoints": [
+          "1F921"
+        ],
+        "name": "clown face",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/clown-face"
+      },
+      {
+        "id": "1F44B-1F3FB",
+        "codepoints": [
+          "1F44B",
+          "1F3FB"
+        ],
+        "name": "waving hand: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/waving-hand-light-skin-tone"
+      },
+      {
+        "id": "1F44B-1F3FC",
+        "codepoints": [
+          "1F44B",
+          "1F3FC"
+        ],
+        "name": "waving hand: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/waving-hand-medium-light-skin-tone"
+      },
+      {
+        "id": "1F44B-1F3FD",
+        "codepoints": [
+          "1F44B",
+          "1F3FD"
+        ],
+        "name": "waving hand: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/waving-hand-medium-skin-tone"
+      },
+      {
+        "id": "1F44B-1F3FE",
+        "codepoints": [
+          "1F44B",
+          "1F3FE"
+        ],
+        "name": "waving hand: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/waving-hand-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F44B-1F3FF",
+        "codepoints": [
+          "1F44B",
+          "1F3FF"
+        ],
+        "name": "waving hand: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/waving-hand-dark-skin-tone"
+      },
+      {
+        "id": "1F91A",
+        "codepoints": [
+          "1F91A"
+        ],
+        "name": "raised back of hand",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/raised-back-of-hand"
+      },
+      {
+        "id": "1F91A-1F3FB",
+        "codepoints": [
+          "1F91A",
+          "1F3FB"
+        ],
+        "name": "raised back of hand: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/raised-back-of-hand-light-skin-tone"
+      },
+      {
+        "id": "1F91A-1F3FC",
+        "codepoints": [
+          "1F91A",
+          "1F3FC"
+        ],
+        "name": "raised back of hand: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/raised-back-of-hand-medium-light-skin-tone"
+      },
+      {
+        "id": "1F91A-1F3FD",
+        "codepoints": [
+          "1F91A",
+          "1F3FD"
+        ],
+        "name": "raised back of hand: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/raised-back-of-hand-medium-skin-tone"
+      },
+      {
+        "id": "1F91A-1F3FE",
+        "codepoints": [
+          "1F91A",
+          "1F3FE"
+        ],
+        "name": "raised back of hand: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/raised-back-of-hand-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F91A-1F3FF",
+        "codepoints": [
+          "1F91A",
+          "1F3FF"
+        ],
+        "name": "raised back of hand: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/raised-back-of-hand-dark-skin-tone"
+      },
+      {
+        "id": "1F590-1F3FB",
+        "codepoints": [
+          "1F590",
+          "1F3FB"
+        ],
+        "name": "raised hand with fingers splayed: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/hand-with-fingers-splayed-light-skin-tone"
+      },
+      {
+        "id": "1F590-1F3FC",
+        "codepoints": [
+          "1F590",
+          "1F3FC"
+        ],
+        "name": "raised hand with fingers splayed: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/hand-with-fingers-splayed-medium-light-skin-tone"
+      },
+      {
+        "id": "1F590-1F3FD",
+        "codepoints": [
+          "1F590",
+          "1F3FD"
+        ],
+        "name": "raised hand with fingers splayed: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/hand-with-fingers-splayed-medium-skin-tone"
+      },
+      {
+        "id": "1F590-1F3FE",
+        "codepoints": [
+          "1F590",
+          "1F3FE"
+        ],
+        "name": "raised hand with fingers splayed: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/hand-with-fingers-splayed-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F590-1F3FF",
+        "codepoints": [
+          "1F590",
+          "1F3FF"
+        ],
+        "name": "raised hand with fingers splayed: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/hand-with-fingers-splayed-dark-skin-tone"
+      },
+      {
+        "id": "270B-1F3FB",
+        "codepoints": [
+          "270B",
+          "1F3FB"
+        ],
+        "name": "raised hand: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/raised-hand-light-skin-tone"
+      },
+      {
+        "id": "270B-1F3FC",
+        "codepoints": [
+          "270B",
+          "1F3FC"
+        ],
+        "name": "raised hand: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/raised-hand-medium-light-skin-tone"
+      },
+      {
+        "id": "270B-1F3FD",
+        "codepoints": [
+          "270B",
+          "1F3FD"
+        ],
+        "name": "raised hand: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/raised-hand-medium-skin-tone"
+      },
+      {
+        "id": "270B-1F3FE",
+        "codepoints": [
+          "270B",
+          "1F3FE"
+        ],
+        "name": "raised hand: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/raised-hand-medium-dark-skin-tone"
+      },
+      {
+        "id": "270B-1F3FF",
+        "codepoints": [
+          "270B",
+          "1F3FF"
+        ],
+        "name": "raised hand: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/raised-hand-dark-skin-tone"
+      },
+      {
+        "id": "1F596-1F3FB",
+        "codepoints": [
+          "1F596",
+          "1F3FB"
+        ],
+        "name": "vulcan salute: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/vulcan-salute-light-skin-tone"
+      },
+      {
+        "id": "1F596-1F3FC",
+        "codepoints": [
+          "1F596",
+          "1F3FC"
+        ],
+        "name": "vulcan salute: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/vulcan-salute-medium-light-skin-tone"
+      },
+      {
+        "id": "1F596-1F3FD",
+        "codepoints": [
+          "1F596",
+          "1F3FD"
+        ],
+        "name": "vulcan salute: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/vulcan-salute-medium-skin-tone"
+      },
+      {
+        "id": "1F596-1F3FE",
+        "codepoints": [
+          "1F596",
+          "1F3FE"
+        ],
+        "name": "vulcan salute: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/vulcan-salute-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F596-1F3FF",
+        "codepoints": [
+          "1F596",
+          "1F3FF"
+        ],
+        "name": "vulcan salute: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/vulcan-salute-dark-skin-tone"
+      },
+      {
+        "id": "1F44F-1F3FD",
+        "codepoints": [
+          "1F44F",
+          "1F3FD"
+        ],
+        "name": "clapping hands: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/clapping-hands-medium-skin-tone"
+      },
+      {
+        "id": "1F44F-1F3FE",
+        "codepoints": [
+          "1F44F",
+          "1F3FE"
+        ],
+        "name": "clapping hands: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/clapping-hands-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F44F-1F3FF",
+        "codepoints": [
+          "1F44F",
+          "1F3FF"
+        ],
+        "name": "clapping hands: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/clapping-hands-dark-skin-tone"
+      },
+      {
+        "id": "1F64C-1F3FB",
+        "codepoints": [
+          "1F64C",
+          "1F3FB"
+        ],
+        "name": "raising hands: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/raising-hands-light-skin-tone"
+      },
+      {
+        "id": "1F64C-1F3FC",
+        "codepoints": [
+          "1F64C",
+          "1F3FC"
+        ],
+        "name": "raising hands: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/raising-hands-medium-light-skin-tone"
+      },
+      {
+        "id": "1F64C-1F3FD",
+        "codepoints": [
+          "1F64C",
+          "1F3FD"
+        ],
+        "name": "raising hands: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/raising-hands-medium-skin-tone"
+      },
+      {
+        "id": "1F64C-1F3FE",
+        "codepoints": [
+          "1F64C",
+          "1F3FE"
+        ],
+        "name": "raising hands: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/raising-hands-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F64C-1F3FF",
+        "codepoints": [
+          "1F64C",
+          "1F3FF"
+        ],
+        "name": "raising hands: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/raising-hands-dark-skin-tone"
+      },
+      {
+        "id": "1F450-1F3FB",
+        "codepoints": [
+          "1F450",
+          "1F3FB"
+        ],
+        "name": "open hands: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/open-hands-light-skin-tone"
+      },
+      {
+        "id": "1F450-1F3FC",
+        "codepoints": [
+          "1F450",
+          "1F3FC"
+        ],
+        "name": "open hands: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/open-hands-medium-light-skin-tone"
+      },
+      {
+        "id": "1F450-1F3FD",
+        "codepoints": [
+          "1F450",
+          "1F3FD"
+        ],
+        "name": "open hands: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/open-hands-medium-skin-tone"
+      },
+      {
+        "id": "1F450-1F3FE",
+        "codepoints": [
+          "1F450",
+          "1F3FE"
+        ],
+        "name": "open hands: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/open-hands-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F450-1F3FF",
+        "codepoints": [
+          "1F450",
+          "1F3FF"
+        ],
+        "name": "open hands: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/open-hands-dark-skin-tone"
+      },
+      {
+        "id": "1F91D",
+        "codepoints": [
+          "1F91D"
+        ],
+        "name": "handshake",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/handshake"
+      },
+      {
+        "id": "1F64F-1F3FB",
+        "codepoints": [
+          "1F64F",
+          "1F3FB"
+        ],
+        "name": "folded hands: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/folded-hands-light-skin-tone"
+      },
+      {
+        "id": "1F64F-1F3FC",
+        "codepoints": [
+          "1F64F",
+          "1F3FC"
+        ],
+        "name": "folded hands: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/folded-hands-medium-light-skin-tone"
+      },
+      {
+        "id": "1F64F-1F3FD",
+        "codepoints": [
+          "1F64F",
+          "1F3FD"
+        ],
+        "name": "folded hands: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/folded-hands-medium-skin-tone"
+      },
+      {
+        "id": "1F64F-1F3FE",
+        "codepoints": [
+          "1F64F",
+          "1F3FE"
+        ],
+        "name": "folded hands: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/folded-hands-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F64F-1F3FF",
+        "codepoints": [
+          "1F64F",
+          "1F3FF"
+        ],
+        "name": "folded hands: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/folded-hands-dark-skin-tone"
+      },
+      {
+        "id": "270D-1F3FB",
+        "codepoints": [
+          "270D",
+          "1F3FB"
+        ],
+        "name": "writing hand: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/writing-hand-light-skin-tone"
+      },
+      {
+        "id": "270D-1F3FC",
+        "codepoints": [
+          "270D",
+          "1F3FC"
+        ],
+        "name": "writing hand: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/writing-hand-medium-light-skin-tone"
+      },
+      {
+        "id": "270D-1F3FD",
+        "codepoints": [
+          "270D",
+          "1F3FD"
+        ],
+        "name": "writing hand: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/writing-hand-medium-skin-tone"
+      },
+      {
+        "id": "270D-1F3FE",
+        "codepoints": [
+          "270D",
+          "1F3FE"
+        ],
+        "name": "writing hand: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/writing-hand-medium-dark-skin-tone"
+      },
+      {
+        "id": "270D-1F3FF",
+        "codepoints": [
+          "270D",
+          "1F3FF"
+        ],
+        "name": "writing hand: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/writing-hand-dark-skin-tone"
+      },
+      {
+        "id": "1F485-1F3FB",
+        "codepoints": [
+          "1F485",
+          "1F3FB"
+        ],
+        "name": "nail polish: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/nail-polish-light-skin-tone"
+      },
+      {
+        "id": "1F485-1F3FC",
+        "codepoints": [
+          "1F485",
+          "1F3FC"
+        ],
+        "name": "nail polish: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/nail-polish-medium-light-skin-tone"
+      },
+      {
+        "id": "1F485-1F3FD",
+        "codepoints": [
+          "1F485",
+          "1F3FD"
+        ],
+        "name": "nail polish: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/nail-polish-medium-skin-tone"
+      },
+      {
+        "id": "1F485-1F3FE",
+        "codepoints": [
+          "1F485",
+          "1F3FE"
+        ],
+        "name": "nail polish: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/nail-polish-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F485-1F3FF",
+        "codepoints": [
+          "1F485",
+          "1F3FF"
+        ],
+        "name": "nail polish: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/nail-polish-dark-skin-tone"
+      },
+      {
+        "id": "1F933",
+        "codepoints": [
+          "1F933"
+        ],
+        "name": "selfie",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/selfie"
+      },
+      {
+        "id": "1F933-1F3FB",
+        "codepoints": [
+          "1F933",
+          "1F3FB"
+        ],
+        "name": "selfie: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/selfie-light-skin-tone"
+      },
+      {
+        "id": "1F933-1F3FC",
+        "codepoints": [
+          "1F933",
+          "1F3FC"
+        ],
+        "name": "selfie: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/selfie-medium-light-skin-tone"
+      },
+      {
+        "id": "1F933-1F3FD",
+        "codepoints": [
+          "1F933",
+          "1F3FD"
+        ],
+        "name": "selfie: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/selfie-medium-skin-tone"
+      },
+      {
+        "id": "1F933-1F3FE",
+        "codepoints": [
+          "1F933",
+          "1F3FE"
+        ],
+        "name": "selfie: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/selfie-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F933-1F3FF",
+        "codepoints": [
+          "1F933",
+          "1F3FF"
+        ],
+        "name": "selfie: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/selfie-dark-skin-tone"
+      },
+      {
+        "id": "1F4AA-1F3FB",
+        "codepoints": [
+          "1F4AA",
+          "1F3FB"
+        ],
+        "name": "flexed biceps: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/flexed-biceps-light-skin-tone"
+      },
+      {
+        "id": "1F4AA-1F3FC",
+        "codepoints": [
+          "1F4AA",
+          "1F3FC"
+        ],
+        "name": "flexed biceps: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/flexed-biceps-medium-light-skin-tone"
+      },
+      {
+        "id": "1F4AA-1F3FD",
+        "codepoints": [
+          "1F4AA",
+          "1F3FD"
+        ],
+        "name": "flexed biceps: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/flexed-biceps-medium-skin-tone"
+      },
+      {
+        "id": "1F4AA-1F3FE",
+        "codepoints": [
+          "1F4AA",
+          "1F3FE"
+        ],
+        "name": "flexed biceps: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/flexed-biceps-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F1E6-1F1E8",
+        "codepoints": [
+          "1F1E6",
+          "1F1E8"
+        ],
+        "name": "Ascension Island",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/flag-ascension-island"
+      },
+      {
+        "id": "1F1E6-1F1F6",
+        "codepoints": [
+          "1F1E6",
+          "1F1F6"
+        ],
+        "name": "Antarctica",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/flag-antarctica"
+      },
+      {
+        "id": "1F1E7-1F1FB",
+        "codepoints": [
+          "1F1E7",
+          "1F1FB"
+        ],
+        "name": "Bouvet Island",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/flag-bouvet-island"
+      },
+      {
+        "id": "1F1E8-1F1F5",
+        "codepoints": [
+          "1F1E8",
+          "1F1F5"
+        ],
+        "name": "Clipperton Island",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/flag-clipperton-island"
+      },
+      {
+        "id": "1F1ED-1F1F2",
+        "codepoints": [
+          "1F1ED",
+          "1F1F2"
+        ],
+        "name": "Heard & McDonald Islands",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/flag-heard-mcdonald-islands"
+      },
+      {
+        "id": "1F1EE-1F1E8",
+        "codepoints": [
+          "1F1EE",
+          "1F1E8"
+        ],
+        "name": "Canary Islands",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/flag-canary-islands"
+      },
+      {
+        "id": "1F1F8-1F1ED",
+        "codepoints": [
+          "1F1F8",
+          "1F1ED"
+        ],
+        "name": "St. Helena",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/flag-st-helena"
+      },
+      {
+        "id": "1F1F8-1F1EF",
+        "codepoints": [
+          "1F1F8",
+          "1F1EF"
+        ],
+        "name": "Svalbard & Jan Mayen",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/flag-svalbard-jan-mayen"
+      },
+      {
+        "id": "1F1F9-1F1E6",
+        "codepoints": [
+          "1F1F9",
+          "1F1E6"
+        ],
+        "name": "Tristan da Cunha",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/flag-tristan-da-cunha"
+      },
+      {
+        "id": "1F1FA-1F1F2",
+        "codepoints": [
+          "1F1FA",
+          "1F1F2"
+        ],
+        "name": "U.S. Outlying Islands",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.0/flag-us-outlying-islands"
+      }
+    ],
+    "sourceUrl": "https://emojipedia.org/google/android-7.0",
+    "unresolvedCount": 0,
+    "isGenerated": false
+  },
+  {
+    "vendor": "google_android",
+    "osVersion": "Android_7.1",
+    "releaseDate": "20 October 2016",
+    "maxEmojiVersion": "14.0",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 99,
+    "emojis": [
+      {
+        "id": "1F91D-1F3FB",
+        "codepoints": [
+          "1F91D",
+          "1F3FB"
+        ],
+        "name": "handshake: light skin tone",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/handshake-light-skin-tone"
+      },
+      {
+        "id": "1F91D-1F3FC",
+        "codepoints": [
+          "1F91D",
+          "1F3FC"
+        ],
+        "name": "handshake: medium-light skin tone",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/handshake-medium-light-skin-tone"
+      },
+      {
+        "id": "1F91D-1F3FD",
+        "codepoints": [
+          "1F91D",
+          "1F3FD"
+        ],
+        "name": "handshake: medium skin tone",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/handshake-medium-skin-tone"
+      },
+      {
+        "id": "1F91D-1F3FE",
+        "codepoints": [
+          "1F91D",
+          "1F3FE"
+        ],
+        "name": "handshake: medium-dark skin tone",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/handshake-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F91D-1F3FF",
+        "codepoints": [
+          "1F91D",
+          "1F3FF"
+        ],
+        "name": "handshake: dark skin tone",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/handshake-dark-skin-tone"
+      },
+      {
+        "id": "1F471-200D-2640-FE0F",
+        "codepoints": [
+          "1F471",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "blond-haired woman",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-blond-hair"
+      },
+      {
+        "id": "1F471-1F3FB-200D-2640-FE0F",
+        "codepoints": [
+          "1F471",
+          "1F3FB",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "blond-haired woman: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-light-skin-tone-blond-hair"
+      },
+      {
+        "id": "1F471-1F3FC-200D-2640-FE0F",
+        "codepoints": [
+          "1F471",
+          "1F3FC",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "blond-haired woman: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-medium-light-skin-tone-blond-hair"
+      },
+      {
+        "id": "1F471-1F3FD-200D-2640-FE0F",
+        "codepoints": [
+          "1F471",
+          "1F3FD",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "blond-haired woman: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-medium-skin-tone-blond-hair"
+      },
+      {
+        "id": "1F471-1F3FE-200D-2640-FE0F",
+        "codepoints": [
+          "1F471",
+          "1F3FE",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "blond-haired woman: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-medium-dark-skin-tone-blond-hair"
+      },
+      {
+        "id": "1F471-1F3FF-200D-2640-FE0F",
+        "codepoints": [
+          "1F471",
+          "1F3FF",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "blond-haired woman: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-dark-skin-tone-blond-hair"
+      },
+      {
+        "id": "1F471-200D-2642-FE0F",
+        "codepoints": [
+          "1F471",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "blond-haired man",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-blond-hair"
+      },
+      {
+        "id": "1F471-1F3FB-200D-2642-FE0F",
+        "codepoints": [
+          "1F471",
+          "1F3FB",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "blond-haired man: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-light-skin-tone-blond-hair"
+      },
+      {
+        "id": "1F469-1F3FC-200D-2696-FE0F",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "2696",
+          "FE0F"
+        ],
+        "name": "woman judge: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-judge-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-2696-FE0F",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "2696",
+          "FE0F"
+        ],
+        "name": "woman judge: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-judge-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-2696-FE0F",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "2696",
+          "FE0F"
+        ],
+        "name": "woman judge: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-judge-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-2696-FE0F",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "2696",
+          "FE0F"
+        ],
+        "name": "woman judge: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-judge-dark-skin-tone"
+      },
+      {
+        "id": "1F468-200D-1F33E",
+        "codepoints": [
+          "1F468",
+          "200D",
+          "1F33E"
+        ],
+        "name": "man farmer",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-farmer"
+      },
+      {
+        "id": "1F468-1F3FB-200D-1F33E",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "1F33E"
+        ],
+        "name": "man farmer: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-farmer-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FC-200D-1F33E",
+        "codepoints": [
+          "1F468",
+          "1F3FC",
+          "200D",
+          "1F33E"
+        ],
+        "name": "man farmer: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-farmer-medium-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FD-200D-1F33E",
+        "codepoints": [
+          "1F468",
+          "1F3FD",
+          "200D",
+          "1F33E"
+        ],
+        "name": "man farmer: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-farmer-medium-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FE-200D-1F33E",
+        "codepoints": [
+          "1F468",
+          "1F3FE",
+          "200D",
+          "1F33E"
+        ],
+        "name": "man farmer: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-farmer-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FF-200D-1F33E",
+        "codepoints": [
+          "1F468",
+          "1F3FF",
+          "200D",
+          "1F33E"
+        ],
+        "name": "man farmer: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-farmer-dark-skin-tone"
+      },
+      {
+        "id": "1F469-200D-1F33E",
+        "codepoints": [
+          "1F469",
+          "200D",
+          "1F33E"
+        ],
+        "name": "woman farmer",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-farmer"
+      },
+      {
+        "id": "1F469-1F3FB-200D-1F33E",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "1F33E"
+        ],
+        "name": "woman farmer: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-farmer-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FC-200D-1F33E",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "1F33E"
+        ],
+        "name": "woman farmer: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-farmer-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-1F33E",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "1F33E"
+        ],
+        "name": "woman farmer: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-farmer-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-1F33E",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "1F33E"
+        ],
+        "name": "woman farmer: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-farmer-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-1F33E",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "1F33E"
+        ],
+        "name": "woman farmer: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-farmer-dark-skin-tone"
+      },
+      {
+        "id": "1F468-200D-1F373",
+        "codepoints": [
+          "1F468",
+          "200D",
+          "1F373"
+        ],
+        "name": "man cook",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-cook"
+      },
+      {
+        "id": "1F468-1F3FB-200D-1F373",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "1F373"
+        ],
+        "name": "man cook: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-cook-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FC-200D-1F373",
+        "codepoints": [
+          "1F468",
+          "1F3FC",
+          "200D",
+          "1F373"
+        ],
+        "name": "man cook: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-cook-medium-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FD-200D-1F373",
+        "codepoints": [
+          "1F468",
+          "1F3FD",
+          "200D",
+          "1F373"
+        ],
+        "name": "man cook: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-cook-medium-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FE-200D-1F373",
+        "codepoints": [
+          "1F468",
+          "1F3FE",
+          "200D",
+          "1F373"
+        ],
+        "name": "man cook: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-cook-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FF-200D-1F373",
+        "codepoints": [
+          "1F468",
+          "1F3FF",
+          "200D",
+          "1F373"
+        ],
+        "name": "man cook: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-cook-dark-skin-tone"
+      },
+      {
+        "id": "1F469-200D-1F373",
+        "codepoints": [
+          "1F469",
+          "200D",
+          "1F373"
+        ],
+        "name": "woman cook",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-cook"
+      },
+      {
+        "id": "1F469-1F3FB-200D-1F373",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "1F373"
+        ],
+        "name": "woman cook: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-cook-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FC-200D-1F373",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "1F373"
+        ],
+        "name": "woman cook: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-cook-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-1F373",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "1F373"
+        ],
+        "name": "woman cook: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-cook-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-1F373",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "1F373"
+        ],
+        "name": "woman cook: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-cook-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-1F373",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "1F373"
+        ],
+        "name": "woman cook: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-cook-dark-skin-tone"
+      },
+      {
+        "id": "1F468-200D-1F527",
+        "codepoints": [
+          "1F468",
+          "200D",
+          "1F527"
+        ],
+        "name": "man mechanic",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-mechanic"
+      },
+      {
+        "id": "1F468-1F3FB-200D-1F527",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "1F527"
+        ],
+        "name": "man mechanic: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-mechanic-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FC-200D-1F527",
+        "codepoints": [
+          "1F468",
+          "1F3FC",
+          "200D",
+          "1F527"
+        ],
+        "name": "man mechanic: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-mechanic-medium-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FD-200D-1F527",
+        "codepoints": [
+          "1F468",
+          "1F3FD",
+          "200D",
+          "1F527"
+        ],
+        "name": "man mechanic: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-mechanic-medium-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FE-200D-1F527",
+        "codepoints": [
+          "1F468",
+          "1F3FE",
+          "200D",
+          "1F527"
+        ],
+        "name": "man mechanic: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-mechanic-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FF-200D-1F527",
+        "codepoints": [
+          "1F468",
+          "1F3FF",
+          "200D",
+          "1F527"
+        ],
+        "name": "man mechanic: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-mechanic-dark-skin-tone"
+      },
+      {
+        "id": "1F469-200D-1F527",
+        "codepoints": [
+          "1F469",
+          "200D",
+          "1F527"
+        ],
+        "name": "woman mechanic",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-mechanic"
+      },
+      {
+        "id": "1F469-1F3FB-200D-1F527",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "1F527"
+        ],
+        "name": "woman mechanic: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-mechanic-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FC-200D-1F527",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "1F527"
+        ],
+        "name": "woman mechanic: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-mechanic-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-1F527",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "1F527"
+        ],
+        "name": "woman mechanic: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-mechanic-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-1F527",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "1F527"
+        ],
+        "name": "woman mechanic: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-mechanic-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F486-200D-2642-FE0F",
+        "codepoints": [
+          "1F486",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man getting massage",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-getting-massage"
+      },
+      {
+        "id": "1F486-1F3FB-200D-2642-FE0F",
+        "codepoints": [
+          "1F486",
+          "1F3FB",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man getting massage: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-getting-massage-light-skin-tone"
+      },
+      {
+        "id": "1F486-1F3FC-200D-2642-FE0F",
+        "codepoints": [
+          "1F486",
+          "1F3FC",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man getting massage: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-getting-massage-medium-light-skin-tone"
+      },
+      {
+        "id": "1F486-1F3FD-200D-2642-FE0F",
+        "codepoints": [
+          "1F486",
+          "1F3FD",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man getting massage: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-getting-massage-medium-skin-tone"
+      },
+      {
+        "id": "1F486-1F3FE-200D-2642-FE0F",
+        "codepoints": [
+          "1F486",
+          "1F3FE",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man getting massage: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-getting-massage-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F486-1F3FF-200D-2642-FE0F",
+        "codepoints": [
+          "1F486",
+          "1F3FF",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man getting massage: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-getting-massage-dark-skin-tone"
+      },
+      {
+        "id": "1F486-200D-2640-FE0F",
+        "codepoints": [
+          "1F486",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman getting massage",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-getting-massage"
+      },
+      {
+        "id": "1F486-1F3FB-200D-2640-FE0F",
+        "codepoints": [
+          "1F486",
+          "1F3FB",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman getting massage: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-getting-massage-light-skin-tone"
+      },
+      {
+        "id": "1F486-1F3FC-200D-2640-FE0F",
+        "codepoints": [
+          "1F486",
+          "1F3FC",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman getting massage: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-getting-massage-medium-light-skin-tone"
+      },
+      {
+        "id": "1F486-1F3FD-200D-2640-FE0F",
+        "codepoints": [
+          "1F486",
+          "1F3FD",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman getting massage: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-getting-massage-medium-skin-tone"
+      },
+      {
+        "id": "1F486-1F3FE-200D-2640-FE0F",
+        "codepoints": [
+          "1F486",
+          "1F3FE",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman getting massage: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-getting-massage-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F486-1F3FF-200D-2640-FE0F",
+        "codepoints": [
+          "1F486",
+          "1F3FF",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman getting massage: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-getting-massage-dark-skin-tone"
+      },
+      {
+        "id": "1F487-200D-2642-FE0F",
+        "codepoints": [
+          "1F487",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man getting haircut",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-getting-haircut"
+      },
+      {
+        "id": "1F487-1F3FB-200D-2642-FE0F",
+        "codepoints": [
+          "1F487",
+          "1F3FB",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man getting haircut: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-getting-haircut-light-skin-tone"
+      },
+      {
+        "id": "1F487-1F3FC-200D-2642-FE0F",
+        "codepoints": [
+          "1F487",
+          "1F3FC",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man getting haircut: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-getting-haircut-medium-light-skin-tone"
+      },
+      {
+        "id": "1F487-1F3FD-200D-2642-FE0F",
+        "codepoints": [
+          "1F487",
+          "1F3FD",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man getting haircut: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-getting-haircut-medium-skin-tone"
+      },
+      {
+        "id": "1F487-1F3FE-200D-2642-FE0F",
+        "codepoints": [
+          "1F487",
+          "1F3FE",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man getting haircut: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-getting-haircut-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F487-1F3FF-200D-2642-FE0F",
+        "codepoints": [
+          "1F487",
+          "1F3FF",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man getting haircut: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-getting-haircut-dark-skin-tone"
+      },
+      {
+        "id": "1F487-200D-2640-FE0F",
+        "codepoints": [
+          "1F487",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman getting haircut",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-getting-haircut"
+      },
+      {
+        "id": "1F487-1F3FB-200D-2640-FE0F",
+        "codepoints": [
+          "1F487",
+          "1F3FB",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman getting haircut: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-getting-haircut-light-skin-tone"
+      },
+      {
+        "id": "1F487-1F3FC-200D-2640-FE0F",
+        "codepoints": [
+          "1F487",
+          "1F3FC",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman getting haircut: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-getting-haircut-medium-light-skin-tone"
+      },
+      {
+        "id": "1F487-1F3FD-200D-2640-FE0F",
+        "codepoints": [
+          "1F487",
+          "1F3FD",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman getting haircut: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-getting-haircut-medium-skin-tone"
+      },
+      {
+        "id": "1F487-1F3FE-200D-2640-FE0F",
+        "codepoints": [
+          "1F487",
+          "1F3FE",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman getting haircut: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-getting-haircut-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F487-1F3FF-200D-2640-FE0F",
+        "codepoints": [
+          "1F487",
+          "1F3FF",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman getting haircut: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-getting-haircut-dark-skin-tone"
+      },
+      {
+        "id": "1F6B6-200D-2642-FE0F",
+        "codepoints": [
+          "1F6B6",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man walking",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-walking"
+      },
+      {
+        "id": "1F6B6-1F3FB-200D-2642-FE0F",
+        "codepoints": [
+          "1F6B6",
+          "1F3FB",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man walking: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-walking-light-skin-tone"
+      },
+      {
+        "id": "1F6B6-1F3FC-200D-2642-FE0F",
+        "codepoints": [
+          "1F6B6",
+          "1F3FC",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man walking: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-walking-medium-light-skin-tone"
+      },
+      {
+        "id": "1F6B6-1F3FD-200D-2642-FE0F",
+        "codepoints": [
+          "1F6B6",
+          "1F3FD",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man walking: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-walking-medium-skin-tone"
+      },
+      {
+        "id": "1F6B6-1F3FE-200D-2642-FE0F",
+        "codepoints": [
+          "1F6B6",
+          "1F3FE",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man walking: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-walking-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F6B6-1F3FF-200D-2642-FE0F",
+        "codepoints": [
+          "1F6B6",
+          "1F3FF",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man walking: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-walking-dark-skin-tone"
+      },
+      {
+        "id": "1F6B6-200D-2640-FE0F",
+        "codepoints": [
+          "1F6B6",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman walking",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-walking"
+      },
+      {
+        "id": "1F6B6-1F3FB-200D-2640-FE0F",
+        "codepoints": [
+          "1F6B6",
+          "1F3FB",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman walking: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-walking-light-skin-tone"
+      },
+      {
+        "id": "1F6B6-1F3FC-200D-2640-FE0F",
+        "codepoints": [
+          "1F6B6",
+          "1F3FC",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman walking: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-walking-medium-light-skin-tone"
+      },
+      {
+        "id": "1F6B6-1F3FD-200D-2640-FE0F",
+        "codepoints": [
+          "1F6B6",
+          "1F3FD",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman walking: medium skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-walking-medium-skin-tone"
+      },
+      {
+        "id": "1F6B6-1F3FE-200D-2640-FE0F",
+        "codepoints": [
+          "1F6B6",
+          "1F3FE",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman walking: medium-dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-walking-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F6B6-1F3FF-200D-2640-FE0F",
+        "codepoints": [
+          "1F6B6",
+          "1F3FF",
+          "200D",
+          "2640",
+          "FE0F"
+        ],
+        "name": "woman walking: dark skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/woman-walking-dark-skin-tone"
+      },
+      {
+        "id": "1F3C3-200D-2642-FE0F",
+        "codepoints": [
+          "1F3C3",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man running",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-running"
+      },
+      {
+        "id": "1F3C3-1F3FB-200D-2642-FE0F",
+        "codepoints": [
+          "1F3C3",
+          "1F3FB",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man running: light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-running-light-skin-tone"
+      },
+      {
+        "id": "1F3C3-1F3FC-200D-2642-FE0F",
+        "codepoints": [
+          "1F3C3",
+          "1F3FC",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man running: medium-light skin tone",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/man-running-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-200D-1F466-200D-1F466",
+        "codepoints": [
+          "1F469",
+          "200D",
+          "1F466",
+          "200D",
+          "1F466"
+        ],
+        "name": "family: woman, boy, boy",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/family-woman-boy-boy"
+      },
+      {
+        "id": "1F469-200D-1F467",
+        "codepoints": [
+          "1F469",
+          "200D",
+          "1F467"
+        ],
+        "name": "family: woman, girl",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/family-woman-girl"
+      },
+      {
+        "id": "1F469-200D-1F467-200D-1F466",
+        "codepoints": [
+          "1F469",
+          "200D",
+          "1F467",
+          "200D",
+          "1F466"
+        ],
+        "name": "family: woman, girl, boy",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/family-woman-girl-boy"
+      },
+      {
+        "id": "1F469-200D-1F467-200D-1F467",
+        "codepoints": [
+          "1F469",
+          "200D",
+          "1F467",
+          "200D",
+          "1F467"
+        ],
+        "name": "family: woman, girl, girl",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/family-woman-girl-girl"
+      },
+      {
+        "id": "2640",
+        "codepoints": [
+          "2640"
+        ],
+        "name": "female sign",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/female-sign"
+      },
+      {
+        "id": "2642",
+        "codepoints": [
+          "2642"
+        ],
+        "name": "male sign",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/male-sign"
+      },
+      {
+        "id": "2695",
+        "codepoints": [
+          "2695"
+        ],
+        "name": "medical symbol",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/medical-symbol"
+      },
+      {
+        "id": "1F3F3-FE0F-200D-1F308",
+        "codepoints": [
+          "1F3F3",
+          "FE0F",
+          "200D",
+          "1F308"
+        ],
+        "name": "rainbow flag",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-7.1/rainbow-flag"
+      }
+    ],
+    "sourceUrl": "https://emojipedia.org/google/android-7.1",
+    "unresolvedCount": 0,
+    "isGenerated": false
+  },
+  {
+    "vendor": "google_android",
+    "osVersion": "Android_8.0",
+    "releaseDate": "21 August 2017",
+    "maxEmojiVersion": "10.0",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 13,
+    "emojis": [
+      {
+        "id": "1F929",
+        "codepoints": [
+          "1F929"
+        ],
+        "name": "star-struck",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-8.0/star-struck"
+      },
+      {
+        "id": "1F92A",
+        "codepoints": [
+          "1F92A"
+        ],
+        "name": "crazy face",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-8.0/zany-face"
+      },
+      {
+        "id": "1F92D",
+        "codepoints": [
+          "1F92D"
+        ],
+        "name": "face with hand over mouth",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-8.0/face-with-hand-over-mouth"
+      },
+      {
+        "id": "1F92B",
+        "codepoints": [
+          "1F92B"
+        ],
+        "name": "shushing face",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-8.0/shushing-face"
+      },
+      {
+        "id": "1F928",
+        "codepoints": [
+          "1F928"
+        ],
+        "name": "face with raised eyebrow",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-8.0/face-with-raised-eyebrow"
+      },
+      {
+        "id": "1F92E",
+        "codepoints": [
+          "1F92E"
+        ],
+        "name": "face vomiting",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-8.0/face-vomiting"
+      },
+      {
+        "id": "1F92F",
+        "codepoints": [
+          "1F92F"
+        ],
+        "name": "exploding head",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-8.0/exploding-head"
+      },
+      {
+        "id": "1F9D0",
+        "codepoints": [
+          "1F9D0"
+        ],
+        "name": "face with monocle",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-8.0/face-with-monocle"
+      },
+      {
+        "id": "1F92C",
+        "codepoints": [
+          "1F92C"
+        ],
+        "name": "face with symbols on mouth",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-8.0/face-with-symbols-on-mouth"
+      },
+      {
+        "id": "1F1FA-1F1F3",
+        "codepoints": [
+          "1F1FA",
+          "1F1F3"
+        ],
+        "name": "United Nations",
+        "unicodeVersion": "9.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-8.0/flag-united-nations"
+      },
+      {
+        "id": "1F3F4-E0067-E0062-E0065-E006E-E0067-E007F",
+        "codepoints": [
+          "1F3F4",
+          "E0067",
+          "E0062",
+          "E0065",
+          "E006E",
+          "E0067",
+          "E007F"
+        ],
+        "name": "England",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-8.0/flag-england"
+      },
+      {
+        "id": "1F3F4-E0067-E0062-E0073-E0063-E0074-E007F",
+        "codepoints": [
+          "1F3F4",
+          "E0067",
+          "E0062",
+          "E0073",
+          "E0063",
+          "E0074",
+          "E007F"
+        ],
+        "name": "Scotland",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-8.0/flag-scotland"
+      },
+      {
+        "id": "1F3F4-E0067-E0062-E0077-E006C-E0073-E007F",
+        "codepoints": [
+          "1F3F4",
+          "E0067",
+          "E0062",
+          "E0077",
+          "E006C",
+          "E0073",
+          "E007F"
+        ],
+        "name": "Wales",
+        "unicodeVersion": "10.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-8.0/flag-wales"
+      }
+    ],
+    "sourceUrl": "https://emojipedia.org/google/android-8.0",
+    "unresolvedCount": 1,
+    "isGenerated": false
+  },
+  {
+    "vendor": "google_android",
+    "osVersion": "Android_8.1",
+    "releaseDate": "05 December 2017",
+    "maxEmojiVersion": "14.0",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 5,
+    "emojis": [
+      {
+        "id": "1F91D-1F3FB",
+        "codepoints": [
+          "1F91D",
+          "1F3FB"
+        ],
+        "name": "handshake: light skin tone",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-8.1/handshake-light-skin-tone"
+      },
+      {
+        "id": "1F91D-1F3FC",
+        "codepoints": [
+          "1F91D",
+          "1F3FC"
+        ],
+        "name": "handshake: medium-light skin tone",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-8.1/handshake-medium-light-skin-tone"
+      },
+      {
+        "id": "1F91D-1F3FD",
+        "codepoints": [
+          "1F91D",
+          "1F3FD"
+        ],
+        "name": "handshake: medium skin tone",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-8.1/handshake-medium-skin-tone"
+      },
+      {
+        "id": "1F91D-1F3FE",
+        "codepoints": [
+          "1F91D",
+          "1F3FE"
+        ],
+        "name": "handshake: medium-dark skin tone",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-8.1/handshake-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F91D-1F3FF",
+        "codepoints": [
+          "1F91D",
+          "1F3FF"
+        ],
+        "name": "handshake: dark skin tone",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-8.1/handshake-dark-skin-tone"
+      }
+    ],
+    "sourceUrl": "https://emojipedia.org/google/android-8.1",
+    "unresolvedCount": 0,
+    "isGenerated": false
+  },
+  {
+    "vendor": "google_android",
+    "osVersion": "Android_10.0_March_2020_Feature_Drop",
+    "releaseDate": "02 March 2020",
+    "maxEmojiVersion": "12.1",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 38,
+    "emojis": [
+      {
+        "id": "1F9D1-200D-1F9B0",
+        "codepoints": [
+          "1F9D1",
+          "200D",
+          "1F9B0"
+        ],
+        "name": "person: red hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/person-red-hair"
+      },
+      {
+        "id": "1F9D1-1F3FB-200D-1F9B0",
+        "codepoints": [
+          "1F9D1",
+          "1F3FB",
+          "200D",
+          "1F9B0"
+        ],
+        "name": "person: light skin tone, red hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/person-light-skin-tone-red-hair"
+      },
+      {
+        "id": "1F9D1-1F3FC-200D-1F9B0",
+        "codepoints": [
+          "1F9D1",
+          "1F3FC",
+          "200D",
+          "1F9B0"
+        ],
+        "name": "person: medium-light skin tone, red hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/person-medium-light-skin-tone-red-hair"
+      },
+      {
+        "id": "1F9D1-1F3FD-200D-1F9B0",
+        "codepoints": [
+          "1F9D1",
+          "1F3FD",
+          "200D",
+          "1F9B0"
+        ],
+        "name": "person: medium skin tone, red hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/person-medium-skin-tone-red-hair"
+      },
+      {
+        "id": "1F9D1-1F3FE-200D-1F9B0",
+        "codepoints": [
+          "1F9D1",
+          "1F3FE",
+          "200D",
+          "1F9B0"
+        ],
+        "name": "person: medium-dark skin tone, red hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/person-medium-dark-skin-tone-red-hair"
+      },
+      {
+        "id": "1F9D1-1F3FF-200D-1F9B0",
+        "codepoints": [
+          "1F9D1",
+          "1F3FF",
+          "200D",
+          "1F9B0"
+        ],
+        "name": "person: dark skin tone, red hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/person-dark-skin-tone-red-hair"
+      },
+      {
+        "id": "1F9D1-200D-1F9B1",
+        "codepoints": [
+          "1F9D1",
+          "200D",
+          "1F9B1"
+        ],
+        "name": "person: curly hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/person-curly-hair"
+      },
+      {
+        "id": "1F9D1-1F3FB-200D-1F9B1",
+        "codepoints": [
+          "1F9D1",
+          "1F3FB",
+          "200D",
+          "1F9B1"
+        ],
+        "name": "person: light skin tone, curly hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/person-light-skin-tone-curly-hair"
+      },
+      {
+        "id": "1F9D1-1F3FC-200D-1F9B1",
+        "codepoints": [
+          "1F9D1",
+          "1F3FC",
+          "200D",
+          "1F9B1"
+        ],
+        "name": "person: medium-light skin tone, curly hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/person-medium-light-skin-tone-curly-hair"
+      },
+      {
+        "id": "1F9D1-1F3FD-200D-1F9B1",
+        "codepoints": [
+          "1F9D1",
+          "1F3FD",
+          "200D",
+          "1F9B1"
+        ],
+        "name": "person: medium skin tone, curly hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/person-medium-skin-tone-curly-hair"
+      },
+      {
+        "id": "1F9D1-1F3FE-200D-1F9B1",
+        "codepoints": [
+          "1F9D1",
+          "1F3FE",
+          "200D",
+          "1F9B1"
+        ],
+        "name": "person: medium-dark skin tone, curly hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/person-medium-dark-skin-tone-curly-hair"
+      },
+      {
+        "id": "1F9D1-1F3FF-200D-1F9B1",
+        "codepoints": [
+          "1F9D1",
+          "1F3FF",
+          "200D",
+          "1F9B1"
+        ],
+        "name": "person: dark skin tone, curly hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/person-dark-skin-tone-curly-hair"
+      },
+      {
+        "id": "1F9D1-200D-1F9B3",
+        "codepoints": [
+          "1F9D1",
+          "200D",
+          "1F9B3"
+        ],
+        "name": "person: white hair",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/person-white-hair"
+      },
+      {
+        "id": "1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FE",
+        "codepoints": [
+          "1F9D1",
+          "1F3FC",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F9D1",
+          "1F3FE"
+        ],
+        "name": "people holding hands: medium-light skin tone, medium-dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/people-holding-hands-medium-light-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FC-200D-1F91D-200D-1F9D1-1F3FF",
+        "codepoints": [
+          "1F9D1",
+          "1F3FC",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F9D1",
+          "1F3FF"
+        ],
+        "name": "people holding hands: medium-light skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/people-holding-hands-medium-light-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FE",
+        "codepoints": [
+          "1F9D1",
+          "1F3FD",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F9D1",
+          "1F3FE"
+        ],
+        "name": "people holding hands: medium skin tone, medium-dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/people-holding-hands-medium-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FD-200D-1F91D-200D-1F9D1-1F3FF",
+        "codepoints": [
+          "1F9D1",
+          "1F3FD",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F9D1",
+          "1F3FF"
+        ],
+        "name": "people holding hands: medium skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/people-holding-hands-medium-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FE-200D-1F91D-200D-1F9D1-1F3FF",
+        "codepoints": [
+          "1F9D1",
+          "1F3FE",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F9D1",
+          "1F3FF"
+        ],
+        "name": "people holding hands: medium-dark skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/people-holding-hands-medium-dark-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FB-200D-1F91D-200D-1F469-1F3FC",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FC"
+        ],
+        "name": "women holding hands: light skin tone, medium-light skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/women-holding-hands-light-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FB-200D-1F91D-200D-1F469-1F3FD",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FD"
+        ],
+        "name": "women holding hands: light skin tone, medium skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/women-holding-hands-light-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FB-200D-1F91D-200D-1F469-1F3FE",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FE"
+        ],
+        "name": "women holding hands: light skin tone, medium-dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/women-holding-hands-light-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FB-200D-1F91D-200D-1F469-1F3FF",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FF"
+        ],
+        "name": "women holding hands: light skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/women-holding-hands-light-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FC-200D-1F91D-200D-1F469-1F3FD",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FD"
+        ],
+        "name": "women holding hands: medium-light skin tone, medium skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/women-holding-hands-medium-light-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FC-200D-1F91D-200D-1F469-1F3FE",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FE"
+        ],
+        "name": "women holding hands: medium-light skin tone, medium-dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/women-holding-hands-medium-light-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FC-200D-1F91D-200D-1F469-1F3FF",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FF"
+        ],
+        "name": "women holding hands: medium-light skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/women-holding-hands-medium-light-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-1F91D-200D-1F469-1F3FE",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FE"
+        ],
+        "name": "women holding hands: medium skin tone, medium-dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/women-holding-hands-medium-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-1F91D-200D-1F469-1F3FF",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FF"
+        ],
+        "name": "women holding hands: medium skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/women-holding-hands-medium-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-1F91D-200D-1F469-1F3FF",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F469",
+          "1F3FF"
+        ],
+        "name": "women holding hands: medium-dark skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/women-holding-hands-medium-dark-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FB-200D-1F91D-200D-1F468-1F3FC",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FC"
+        ],
+        "name": "men holding hands: light skin tone, medium-light skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/men-holding-hands-light-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FB-200D-1F91D-200D-1F468-1F3FD",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FD"
+        ],
+        "name": "men holding hands: light skin tone, medium skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/men-holding-hands-light-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FB-200D-1F91D-200D-1F468-1F3FE",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FE"
+        ],
+        "name": "men holding hands: light skin tone, medium-dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/men-holding-hands-light-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FB-200D-1F91D-200D-1F468-1F3FF",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FF"
+        ],
+        "name": "men holding hands: light skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/men-holding-hands-light-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FC-200D-1F91D-200D-1F468-1F3FD",
+        "codepoints": [
+          "1F468",
+          "1F3FC",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FD"
+        ],
+        "name": "men holding hands: medium-light skin tone, medium skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/men-holding-hands-medium-light-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FC-200D-1F91D-200D-1F468-1F3FE",
+        "codepoints": [
+          "1F468",
+          "1F3FC",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FE"
+        ],
+        "name": "men holding hands: medium-light skin tone, medium-dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/men-holding-hands-medium-light-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FC-200D-1F91D-200D-1F468-1F3FF",
+        "codepoints": [
+          "1F468",
+          "1F3FC",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FF"
+        ],
+        "name": "men holding hands: medium-light skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/men-holding-hands-medium-light-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FD-200D-1F91D-200D-1F468-1F3FE",
+        "codepoints": [
+          "1F468",
+          "1F3FD",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FE"
+        ],
+        "name": "men holding hands: medium skin tone, medium-dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/men-holding-hands-medium-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FD-200D-1F91D-200D-1F468-1F3FF",
+        "codepoints": [
+          "1F468",
+          "1F3FD",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FF"
+        ],
+        "name": "men holding hands: medium skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/men-holding-hands-medium-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FE-200D-1F91D-200D-1F468-1F3FF",
+        "codepoints": [
+          "1F468",
+          "1F3FE",
+          "200D",
+          "1F91D",
+          "200D",
+          "1F468",
+          "1F3FF"
+        ],
+        "name": "men holding hands: medium-dark skin tone, dark skin tone",
+        "unicodeVersion": "12.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop/men-holding-hands-medium-dark-skin-tone-dark-skin-tone"
+      }
+    ],
+    "sourceUrl": "https://emojipedia.org/google/android-10.0-march-2020-feature-drop",
+    "unresolvedCount": 0,
+    "isGenerated": false
+  },
+  {
+    "vendor": "google_android",
+    "osVersion": "Android_11.0_December_2020_Feature_Drop",
+    "releaseDate": "09 December 2020",
+    "maxEmojiVersion": "13.1",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 44,
+    "emojis": [
+      {
+        "id": "1F636-200D-1F32B-FE0F",
+        "codepoints": [
+          "1F636",
+          "200D",
+          "1F32B",
+          "FE0F"
+        ],
+        "name": "face in clouds",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/face-in-clouds"
+      },
+      {
+        "id": "1F62E-200D-1F4A8",
+        "codepoints": [
+          "1F62E",
+          "200D",
+          "1F4A8"
+        ],
+        "name": "face exhaling",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/face-exhaling"
+      },
+      {
+        "id": "1F635-200D-1F4AB",
+        "codepoints": [
+          "1F635",
+          "200D",
+          "1F4AB"
+        ],
+        "name": "face with spiral eyes",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/face-with-spiral-eyes"
+      },
+      {
+        "id": "1F9D4-200D-2642-FE0F",
+        "codepoints": [
+          "1F9D4",
+          "200D",
+          "2642",
+          "FE0F"
+        ],
+        "name": "man: beard",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/man-beard"
+      },
+      {
+        "id": "1F9D1-1F3FE-200D-2764-FE0F-200D-1F9D1-1F3FC",
+        "codepoints": [
+          "1F9D1",
+          "1F3FE",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F9D1",
+          "1F3FC"
+        ],
+        "name": "couple with heart: person, person, medium-dark skin tone, medium-light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-person-person-medium-dark-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FE-200D-2764-FE0F-200D-1F9D1-1F3FD",
+        "codepoints": [
+          "1F9D1",
+          "1F3FE",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F9D1",
+          "1F3FD"
+        ],
+        "name": "couple with heart: person, person, medium-dark skin tone, medium skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-person-person-medium-dark-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FE-200D-2764-FE0F-200D-1F9D1-1F3FF",
+        "codepoints": [
+          "1F9D1",
+          "1F3FE",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F9D1",
+          "1F3FF"
+        ],
+        "name": "couple with heart: person, person, medium-dark skin tone, dark skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-person-person-medium-dark-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FF-200D-2764-FE0F-200D-1F9D1-1F3FB",
+        "codepoints": [
+          "1F9D1",
+          "1F3FF",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F9D1",
+          "1F3FB"
+        ],
+        "name": "couple with heart: person, person, dark skin tone, light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-person-person-dark-skin-tone-light-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FF-200D-2764-FE0F-200D-1F9D1-1F3FC",
+        "codepoints": [
+          "1F9D1",
+          "1F3FF",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F9D1",
+          "1F3FC"
+        ],
+        "name": "couple with heart: person, person, dark skin tone, medium-light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-person-person-dark-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FF-200D-2764-FE0F-200D-1F9D1-1F3FD",
+        "codepoints": [
+          "1F9D1",
+          "1F3FF",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F9D1",
+          "1F3FD"
+        ],
+        "name": "couple with heart: person, person, dark skin tone, medium skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-person-person-dark-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F9D1-1F3FF-200D-2764-FE0F-200D-1F9D1-1F3FE",
+        "codepoints": [
+          "1F9D1",
+          "1F3FF",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F9D1",
+          "1F3FE"
+        ],
+        "name": "couple with heart: person, person, dark skin tone, medium-dark skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-person-person-dark-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FB-200D-2764-FE0F-200D-1F468-1F3FB",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FB"
+        ],
+        "name": "couple with heart: woman, man, light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FB-200D-2764-FE0F-200D-1F468-1F3FC",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FC"
+        ],
+        "name": "couple with heart: woman, man, light skin tone, medium-light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-light-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FB-200D-2764-FE0F-200D-1F468-1F3FD",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FD"
+        ],
+        "name": "couple with heart: woman, man, light skin tone, medium skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-light-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FB-200D-2764-FE0F-200D-1F468-1F3FE",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FE"
+        ],
+        "name": "couple with heart: woman, man, light skin tone, medium-dark skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-light-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FB-200D-2764-FE0F-200D-1F468-1F3FF",
+        "codepoints": [
+          "1F469",
+          "1F3FB",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FF"
+        ],
+        "name": "couple with heart: woman, man, light skin tone, dark skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-light-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FC-200D-2764-FE0F-200D-1F468-1F3FB",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FB"
+        ],
+        "name": "couple with heart: woman, man, medium-light skin tone, light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-medium-light-skin-tone-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FC-200D-2764-FE0F-200D-1F468-1F3FC",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FC"
+        ],
+        "name": "couple with heart: woman, man, medium-light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FC-200D-2764-FE0F-200D-1F468-1F3FD",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FD"
+        ],
+        "name": "couple with heart: woman, man, medium-light skin tone, medium skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-medium-light-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FC-200D-2764-FE0F-200D-1F468-1F3FE",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FE"
+        ],
+        "name": "couple with heart: woman, man, medium-light skin tone, medium-dark skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-medium-light-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FC-200D-2764-FE0F-200D-1F468-1F3FF",
+        "codepoints": [
+          "1F469",
+          "1F3FC",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FF"
+        ],
+        "name": "couple with heart: woman, man, medium-light skin tone, dark skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-medium-light-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-2764-FE0F-200D-1F468-1F3FB",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FB"
+        ],
+        "name": "couple with heart: woman, man, medium skin tone, light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-medium-skin-tone-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-2764-FE0F-200D-1F468-1F3FC",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FC"
+        ],
+        "name": "couple with heart: woman, man, medium skin tone, medium-light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-medium-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-2764-FE0F-200D-1F468-1F3FD",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FD"
+        ],
+        "name": "couple with heart: woman, man, medium skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-2764-FE0F-200D-1F468-1F3FE",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FE"
+        ],
+        "name": "couple with heart: woman, man, medium skin tone, medium-dark skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-medium-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FD-200D-2764-FE0F-200D-1F468-1F3FF",
+        "codepoints": [
+          "1F469",
+          "1F3FD",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FF"
+        ],
+        "name": "couple with heart: woman, man, medium skin tone, dark skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-medium-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-2764-FE0F-200D-1F468-1F3FB",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FB"
+        ],
+        "name": "couple with heart: woman, man, medium-dark skin tone, light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-medium-dark-skin-tone-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-2764-FE0F-200D-1F468-1F3FC",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FC"
+        ],
+        "name": "couple with heart: woman, man, medium-dark skin tone, medium-light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-medium-dark-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-2764-FE0F-200D-1F468-1F3FD",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FD"
+        ],
+        "name": "couple with heart: woman, man, medium-dark skin tone, medium skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-medium-dark-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-2764-FE0F-200D-1F468-1F3FE",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FE"
+        ],
+        "name": "couple with heart: woman, man, medium-dark skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FE-200D-2764-FE0F-200D-1F468-1F3FF",
+        "codepoints": [
+          "1F469",
+          "1F3FE",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FF"
+        ],
+        "name": "couple with heart: woman, man, medium-dark skin tone, dark skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-medium-dark-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-2764-FE0F-200D-1F468-1F3FB",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FB"
+        ],
+        "name": "couple with heart: woman, man, dark skin tone, light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-dark-skin-tone-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-2764-FE0F-200D-1F468-1F3FC",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FC"
+        ],
+        "name": "couple with heart: woman, man, dark skin tone, medium-light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-dark-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-2764-FE0F-200D-1F468-1F3FE",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FE"
+        ],
+        "name": "couple with heart: woman, man, dark skin tone, medium-dark skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-dark-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F469-1F3FF-200D-2764-FE0F-200D-1F468-1F3FF",
+        "codepoints": [
+          "1F469",
+          "1F3FF",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FF"
+        ],
+        "name": "couple with heart: woman, man, dark skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-woman-man-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FB-200D-2764-FE0F-200D-1F468-1F3FB",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FB"
+        ],
+        "name": "couple with heart: man, man, light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-man-man-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FB-200D-2764-FE0F-200D-1F468-1F3FC",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FC"
+        ],
+        "name": "couple with heart: man, man, light skin tone, medium-light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-man-man-light-skin-tone-medium-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FB-200D-2764-FE0F-200D-1F468-1F3FD",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FD"
+        ],
+        "name": "couple with heart: man, man, light skin tone, medium skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-man-man-light-skin-tone-medium-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FB-200D-2764-FE0F-200D-1F468-1F3FE",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FE"
+        ],
+        "name": "couple with heart: man, man, light skin tone, medium-dark skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-man-man-light-skin-tone-medium-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FB-200D-2764-FE0F-200D-1F468-1F3FF",
+        "codepoints": [
+          "1F468",
+          "1F3FB",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FF"
+        ],
+        "name": "couple with heart: man, man, light skin tone, dark skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-man-man-light-skin-tone-dark-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FC-200D-2764-FE0F-200D-1F468-1F3FB",
+        "codepoints": [
+          "1F468",
+          "1F3FC",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FB"
+        ],
+        "name": "couple with heart: man, man, medium-light skin tone, light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-man-man-medium-light-skin-tone-light-skin-tone"
+      },
+      {
+        "id": "1F468-1F3FC-200D-2764-FE0F-200D-1F468-1F3FC",
+        "codepoints": [
+          "1F468",
+          "1F3FC",
+          "200D",
+          "2764",
+          "FE0F",
+          "200D",
+          "1F468",
+          "1F3FC"
+        ],
+        "name": "couple with heart: man, man, medium-light skin tone",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/couple-with-heart-man-man-medium-light-skin-tone"
+      },
+      {
+        "id": "2764-FE0F-200D-1F525",
+        "codepoints": [
+          "2764",
+          "FE0F",
+          "200D",
+          "1F525"
+        ],
+        "name": "heart on fire",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/heart-on-fire"
+      },
+      {
+        "id": "2764-FE0F-200D-1FA79",
+        "codepoints": [
+          "2764",
+          "FE0F",
+          "200D",
+          "1FA79"
+        ],
+        "name": "mending heart",
+        "unicodeVersion": "13.1",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop/mending-heart"
+      }
+    ],
+    "sourceUrl": "https://emojipedia.org/google/android-11.0-december-2020-feature-drop",
+    "unresolvedCount": 0,
+    "isGenerated": false
+  },
+  {
+    "vendor": "google_android",
+    "osVersion": "Android_12L",
+    "releaseDate": "27 October 2021",
+    "maxEmojiVersion": "14.0",
+    "emojiVersionsMentioned": [],
+    "emojisFound": 15,
+    "emojis": [
+      {
+        "id": "1FAE0",
+        "codepoints": [
+          "1FAE0"
+        ],
+        "name": "melting face",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-12l/melting-face"
+      },
+      {
+        "id": "1FAE2",
+        "codepoints": [
+          "1FAE2"
+        ],
+        "name": "face with open eyes and hand over mouth",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-12l/face-with-open-eyes-and-hand-over-mouth"
+      },
+      {
+        "id": "1FAE3",
+        "codepoints": [
+          "1FAE3"
+        ],
+        "name": "face with peeking eye",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-12l/face-with-peeking-eye"
+      },
+      {
+        "id": "1FAE1",
+        "codepoints": [
+          "1FAE1"
+        ],
+        "name": "saluting face",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-12l/saluting-face"
+      },
+      {
+        "id": "1FAE5",
+        "codepoints": [
+          "1FAE5"
+        ],
+        "name": "dotted line face",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-12l/dotted-line-face"
+      },
+      {
+        "id": "1FAE4",
+        "codepoints": [
+          "1FAE4"
+        ],
+        "name": "face with diagonal mouth",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-12l/face-with-diagonal-mouth"
+      },
+      {
+        "id": "1F979",
+        "codepoints": [
+          "1F979"
+        ],
+        "name": "face holding back tears",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-12l/face-holding-back-tears"
+      },
+      {
+        "id": "1FAF1",
+        "codepoints": [
+          "1FAF1"
+        ],
+        "name": "rightwards hand",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-12l/rightwards-hand"
+      },
+      {
+        "id": "1FAF1-1F3FB",
+        "codepoints": [
+          "1FAF1",
+          "1F3FB"
+        ],
+        "name": "rightwards hand: light skin tone",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-12l/rightwards-hand-light-skin-tone"
+      },
+      {
+        "id": "1FAF1-1F3FC",
+        "codepoints": [
+          "1FAF1",
+          "1F3FC"
+        ],
+        "name": "rightwards hand: medium-light skin tone",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-12l/rightwards-hand-medium-light-skin-tone"
+      },
+      {
+        "id": "1FAF1-1F3FD",
+        "codepoints": [
+          "1FAF1",
+          "1F3FD"
+        ],
+        "name": "rightwards hand: medium skin tone",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-12l/rightwards-hand-medium-skin-tone"
+      },
+      {
+        "id": "1FAF1-1F3FE",
+        "codepoints": [
+          "1FAF1",
+          "1F3FE"
+        ],
+        "name": "rightwards hand: medium-dark skin tone",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-12l/rightwards-hand-medium-dark-skin-tone"
+      },
+      {
+        "id": "1FAD7",
+        "codepoints": [
+          "1FAD7"
+        ],
+        "name": "pouring liquid",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-12l/pouring-liquid"
+      },
+      {
+        "id": "1FAD9",
+        "codepoints": [
+          "1FAD9"
+        ],
+        "name": "jar",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-12l/jar"
+      },
+      {
+        "id": "1F7F0",
+        "codepoints": [
+          "1F7F0"
+        ],
+        "name": "heavy equals sign",
+        "unicodeVersion": "14.0",
+        "sourceMethod": "dom_char",
+        "confidence": "high",
+        "sourceUrl": "https://emojipedia.org/google/android-12l/heavy-equals-sign"
+      }
+    ],
+    "sourceUrl": "https://emojipedia.org/google/android-12l",
+    "unresolvedCount": 1,
+    "isGenerated": false
+  }
+]

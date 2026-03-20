@@ -1,0 +1,1051 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emoji Fingerprint Test</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      background: #0a0a0a;
+      color: #e0e0e0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      padding: 20px;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .subtitle {
+      color: #888;
+      margin-bottom: 30px;
+      font-size: 1.1em;
+    }
+
+    .status {
+      background: #1a1a1a;
+      border: 1px solid #333;
+      border-radius: 8px;
+      padding: 20px;
+      margin-bottom: 30px;
+    }
+
+    .status-item {
+      display: flex;
+      justify-content: space-between;
+      padding: 8px 0;
+      border-bottom: 1px solid #222;
+    }
+
+    .status-item:last-child {
+      border-bottom: none;
+    }
+
+    .status-label {
+      color: #888;
+      font-weight: 500;
+    }
+
+    .status-value {
+      color: #fff;
+      font-weight: 600;
+    }
+
+    .emoji-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(50px, 1fr));
+      gap: 10px;
+      background: #1a1a1a;
+      border: 1px solid #333;
+      border-radius: 8px;
+      padding: 20px;
+      margin-bottom: 30px;
+      max-height: 400px;
+      overflow-y: auto;
+    }
+
+    .emoji-item {
+      font-size: 36px;
+      text-align: center;
+      padding: 10px;
+      background: #222;
+      border-radius: 6px;
+      transition: all 0.2s;
+    }
+
+    .emoji-item.pass {
+      background: #1a4d2e;
+      box-shadow: 0 0 10px rgba(74, 222, 128, 0.2);
+    }
+
+    .emoji-item.fail {
+      background: #4d1a1a;
+      box-shadow: 0 0 10px rgba(239, 68, 68, 0.2);
+    }
+
+    .emoji-item.unknown {
+      background: #2a2a2a;
+      box-shadow: 0 0 10px rgba(148, 163, 184, 0.2);
+      color: #aaa;
+    }
+
+    .results {
+      background: #1a1a1a;
+      border: 1px solid #333;
+      border-radius: 8px;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+
+    .results h2 {
+      color: #667eea;
+      margin-bottom: 20px;
+      font-size: 1.8em;
+    }
+
+    .result-section {
+      margin-bottom: 25px;
+      padding-bottom: 25px;
+      border-bottom: 1px solid #222;
+    }
+
+    .result-section:last-child {
+      border-bottom: none;
+    }
+
+    .result-section h3 {
+      color: #888;
+      font-size: 1em;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      margin-bottom: 15px;
+    }
+
+    .top-match {
+      background: linear-gradient(135deg, #667eea22 0%, #764ba222 100%);
+      border: 1px solid #667eea44;
+      border-radius: 8px;
+      padding: 20px;
+      margin-bottom: 20px;
+    }
+
+    .match-header {
+      font-size: 1.5em;
+      color: #fff;
+      margin-bottom: 10px;
+    }
+
+    .match-details {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 15px;
+      margin-top: 15px;
+    }
+
+    .detail-item {
+      background: #0a0a0a;
+      padding: 12px;
+      border-radius: 6px;
+    }
+
+    .detail-label {
+      color: #888;
+      font-size: 0.85em;
+      margin-bottom: 5px;
+    }
+
+    .detail-value {
+      color: #fff;
+      font-size: 1.1em;
+      font-weight: 600;
+    }
+
+    .candidates-list {
+      background: #0a0a0a;
+      border-radius: 6px;
+      padding: 15px;
+    }
+
+    .candidate-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px;
+      margin-bottom: 8px;
+      background: #1a1a1a;
+      border-radius: 6px;
+      border-left: 3px solid #667eea;
+    }
+
+    .candidate-item:hover {
+      background: #222;
+    }
+
+    .candidate-info {
+      flex: 1;
+    }
+
+    .candidate-name {
+      color: #fff;
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+
+    .candidate-meta {
+      color: #666;
+      font-size: 0.9em;
+    }
+
+    .candidate-score {
+      text-align: right;
+    }
+
+    .probability {
+      font-size: 1.3em;
+      color: #667eea;
+      font-weight: 700;
+    }
+
+    .score {
+      color: #888;
+      font-size: 0.9em;
+    }
+
+    button {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      border: none;
+      padding: 15px 30px;
+      font-size: 1.1em;
+      border-radius: 8px;
+      cursor: pointer;
+      font-weight: 600;
+      transition: all 0.3s;
+      box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);
+    }
+
+    button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(102, 126, 234, 0.4);
+    }
+
+    button:active {
+      transform: translateY(0);
+    }
+
+    button:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+      transform: none;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    .spinner {
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+      border: 3px solid rgba(255, 255, 255, .3);
+      border-radius: 50%;
+      border-top-color: #fff;
+      animation: spin 1s ease-in-out infinite;
+    }
+
+    @keyframes spin {
+      to {
+        transform: rotate(360deg);
+      }
+    }
+
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 15px;
+    }
+
+    .metric-card {
+      background: #0a0a0a;
+      padding: 15px;
+      border-radius: 6px;
+    }
+
+    .metric-title {
+      color: #888;
+      font-size: 0.9em;
+      margin-bottom: 8px;
+    }
+
+    .metric-value {
+      color: #fff;
+      font-size: 1.2em;
+      font-weight: 600;
+      word-break: break-word;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <h1>Emoji Fingerprinting Test</h1>
+    <p class="subtitle">Advanced OS detection through Unicode emoji rendering analysis</p>
+
+    <div class="status">
+      <div class="status-item">
+        <span class="status-label">Status:</span>
+        <span class="status-value" id="status">Ready</span>
+      </div>
+      <div class="status-item">
+        <span class="status-label">Session ID:</span>
+        <span class="status-value" id="sessionId">Not started</span>
+      </div>
+      <div class="status-item">
+        <span class="status-label">Emojis Tested:</span>
+        <span class="status-value" id="emojiCount">0</span>
+      </div>
+    </div>
+
+    <button id="startTest" onclick="startTest()">
+      Run Emoji Fingerprint Test
+    </button>
+
+    <div id="emojiGrid" class="emoji-grid hidden"></div>
+
+    <div id="results" class="results hidden">
+      <h2>Fingerprint Analysis Results</h2>
+
+      <div class="result-section">
+        <h3>Unicode Detection</h3>
+        <div class="metrics">
+          <div class="metric-card">
+            <div class="metric-title">Max Unicode Version</div>
+            <div class="metric-value" id="unicodeVersion">-</div>
+          </div>
+          <div class="metric-card">
+            <div class="metric-title">Detection Method</div>
+            <div class="metric-value" id="detectionMethod">-</div>
+          </div>
+          <div class="metric-card">
+            <div class="metric-title">Unicode Confidence</div>
+            <div class="metric-value" id="unicodeConfidence">-</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="result-section">
+        <h3>Top Match</h3>
+        <div id="topMatch"></div>
+      </div>
+
+      <div class="result-section">
+        <h3>All Candidates (Top 10)</h3>
+        <div id="candidatesList" class="candidates-list"></div>
+      </div>
+
+      <div class="result-section">
+        <h3>Sentinel Profile</h3>
+        <div id="sentinelProfile" class="metrics"></div>
+      </div>
+
+      <div class="result-section">
+        <h3>Diagnostics</h3>
+        <div id="diagnostics" class="metrics"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const API_BASE = location.protocol === 'file:' ? 'http://localhost:3003' : '';
+    const CANVAS_SIZE = 50;
+    const EMOJI_SIZE = 32;
+    const BASELINE_CHARS = ['\uFFFF', '\uFFFD'];
+
+    let sessionId = null;
+    let renderer = null;
+    let lastTofuCluster = null;
+    let runtimeConfig = null;
+
+    async function loadRuntimeConfig() {
+      runtimeConfig = null;
+      try {
+        const response = await fetch(`${API_BASE}/api/config`, { cache: 'no-store' });
+        if (!response.ok || response.status === 204) return null;
+        const contentType = response.headers.get('content-type') || '';
+        if (!contentType.includes('application/json')) return null;
+        runtimeConfig = await response.json();
+        applyUiConfig();
+      } catch {
+        runtimeConfig = null;
+      }
+      return runtimeConfig;
+    }
+
+    function applyUiConfig() {
+      const ui = runtimeConfig && runtimeConfig.client && runtimeConfig.client.ui
+        ? runtimeConfig.client.ui
+        : {};
+
+      const showCandidates = ui.show_candidates !== false;
+      const showSentinelProfile = ui.show_sentinel_profile !== false;
+      const showDiagnostics = ui.show_diagnostics !== false;
+
+      const candidatesSection = document.getElementById('candidatesList')?.closest('.result-section');
+      if (candidatesSection) candidatesSection.style.display = showCandidates ? '' : 'none';
+
+      const sentinelSection = document.getElementById('sentinelProfile')?.closest('.result-section');
+      if (sentinelSection) sentinelSection.style.display = showSentinelProfile ? '' : 'none';
+
+      const diagnosticsSection = document.getElementById('diagnostics')?.closest('.result-section');
+      if (diagnosticsSection) diagnosticsSection.style.display = showDiagnostics ? '' : 'none';
+    }
+
+    function getTofuClusterConfig() {
+      const guard = runtimeConfig && runtimeConfig.analysis && runtimeConfig.analysis.guards
+        ? runtimeConfig.analysis.guards.tofu_cluster
+        : null;
+
+      const client = runtimeConfig && runtimeConfig.client && runtimeConfig.client.tofu_cluster
+        ? runtimeConfig.client.tofu_cluster
+        : null;
+
+      return {
+        enabled: client ? client.enabled !== false : true,
+        applyCorrection: client ? client.apply_correction !== false : true,
+        minConsideredTrue: guard && typeof guard.min_considered_true === 'number' ? guard.min_considered_true : 12,
+        minDominantCount: guard && typeof guard.min_dominant_count === 'number' ? guard.min_dominant_count : 8,
+        minShare: guard && typeof guard.min_share === 'number' ? guard.min_share : 0.25
+      };
+    }
+
+    async function startTest() {
+      const btn = document.getElementById('startTest');
+      btn.disabled = true;
+      btn.innerHTML = '<span class="spinner"></span> Testing...';
+      document.getElementById('results').classList.add('hidden');
+
+      // IMPORTANT: create the canvas renderer inside the user gesture (button click)
+      // before any awaits, otherwise some privacy tools block canvas readback.
+      renderer = createEmojiRenderer();
+      if (renderer.spoofing) {
+        displayNoAnalysis('Canvas anti-fingerprinting/spoofing detected. Disable the protection (or set server config guard to warn/ignore) to get reliable results.');
+        document.getElementById('status').textContent = 'Error: Canvas spoofing detected';
+        btn.innerHTML = 'Retry Test';
+        btn.disabled = false;
+        return;
+      }
+      if (renderer.blocked) {
+        displayNoAnalysis('Canvas readback is blocked (privacy feature / extension). This test requires canvas readback to run.');
+        document.getElementById('status').textContent = 'Error: Canvas readback blocked';
+        btn.innerHTML = 'Retry Test';
+        btn.disabled = false;
+        return;
+      }
+
+      document.getElementById('status').textContent = 'Loading server config...';
+
+      try {
+        await loadRuntimeConfig();
+
+        document.getElementById('status').textContent = 'Loading sentinels...';
+
+        // Fetch sentinel emojis
+        const response = await fetch(`${API_BASE}/api/sentinels`, { cache: 'no-store' });
+        if (response.status === 204) {
+          throw new Error('Sentinels endpoint returned no data (disabled?)');
+        }
+        const sentinelsContentType = response.headers.get('content-type') || '';
+        if (!response.ok) {
+          let message = `Failed to load sentinels (HTTP ${response.status})`;
+          if (sentinelsContentType.includes('application/json')) {
+            try {
+              const errorPayload = await response.json();
+              if (errorPayload && errorPayload.error) message = String(errorPayload.error);
+            } catch { }
+          }
+          throw new Error(message);
+        }
+        if (!sentinelsContentType.includes('application/json')) {
+          throw new Error('Sentinels endpoint did not return JSON');
+        }
+        const sentinels = await response.json();
+
+        // Test all sentinels
+        const results = {};
+        const measurements = {};
+        const itemByChar = new Map();
+        const allEmojis = [];
+
+        for (const emojiList of Object.values(sentinels)) {
+          for (const emoji of emojiList) {
+            allEmojis.push(emoji);
+          }
+        }
+
+        if (allEmojis.length === 0) {
+          throw new Error('No sentinels loaded. Run the build pipeline first.');
+        }
+
+        document.getElementById('status').textContent = `Testing ${allEmojis.length} emojis...`;
+        document.getElementById('emojiCount').textContent = `0 / ${allEmojis.length}`;
+
+        // Show emoji grid
+        const grid = document.getElementById('emojiGrid');
+        grid.classList.remove('hidden');
+        grid.innerHTML = '';
+
+        // Test each emoji
+        for (let i = 0; i < allEmojis.length; i++) {
+          const emoji = allEmojis[i];
+          const measurement = renderer.measureEmoji(emoji.char);
+          measurements[emoji.char] = measurement;
+
+          let rendered = null;
+          if (!measurement.error && measurement.nonZero > 0) {
+            rendered = renderer.isBaselineHash(measurement.hash) ? false : true;
+          }
+          results[emoji.char] = rendered;
+
+          // Display in grid
+          const item = document.createElement('div');
+          const stateClass = rendered === true ? 'pass' : rendered === false ? 'fail' : 'unknown';
+          const stateLabel = rendered === true ? 'Supported' : rendered === false ? 'Not supported' : 'Unknown';
+          item.className = `emoji-item ${stateClass}`;
+          item.textContent = emoji.char;
+          item.title = `${emoji.name} - ${stateLabel}`;
+          grid.appendChild(item);
+          itemByChar.set(emoji.char, item);
+
+          document.getElementById('emojiCount').textContent = `${i + 1} / ${allEmojis.length}`;
+
+          // Small delay to prevent blocking
+          if (i % 10 === 0) {
+            await new Promise(resolve => setTimeout(resolve, 10));
+          }
+        }
+
+        // Post-process: detect missing-glyph (tofu) false positives via hash clustering.
+        // If many different emojis render to the exact same bitmap hash, that hash is almost certainly the tofu glyph.
+        lastTofuCluster = null;
+        const hashCounts = new Map();
+        let considered = 0;
+
+        for (const emoji of allEmojis) {
+          const rendered = results[emoji.char];
+          const measurement = measurements[emoji.char];
+          if (rendered !== true) continue;
+          if (!measurement || measurement.error || measurement.nonZero === 0) continue;
+          considered += 1;
+          hashCounts.set(measurement.hash, (hashCounts.get(measurement.hash) || 0) + 1);
+        }
+
+        let dominantHash = null;
+        let dominantCount = 0;
+        for (const [hash, count] of hashCounts.entries()) {
+          if (count > dominantCount) {
+            dominantCount = count;
+            dominantHash = hash;
+          }
+        }
+
+        const dominantShare = considered > 0 ? dominantCount / considered : 0;
+        const tofuCfg = getTofuClusterConfig();
+        const suspected = Boolean(
+          tofuCfg.enabled &&
+          dominantHash !== null &&
+          considered >= tofuCfg.minConsideredTrue &&
+          dominantCount >= tofuCfg.minDominantCount &&
+          dominantShare >= tofuCfg.minShare &&
+          !renderer.isBaselineHash(dominantHash)
+        );
+        const applied = Boolean(suspected && tofuCfg.applyCorrection);
+
+        if (applied) {
+          for (const emoji of allEmojis) {
+            if (results[emoji.char] !== true) continue;
+            const measurement = measurements[emoji.char];
+            if (!measurement || measurement.error) continue;
+            if (measurement.hash !== dominantHash) continue;
+
+            results[emoji.char] = false;
+            const item = itemByChar.get(emoji.char);
+            if (item) {
+              item.className = 'emoji-item fail';
+              item.title = `${emoji.name} - Not supported`;
+            }
+          }
+        }
+
+        lastTofuCluster = tofuCfg.enabled ? {
+          suspected,
+          applied,
+          dominant_hash: dominantHash,
+          dominant_count: dominantCount,
+          considered_true_count: considered,
+          share: Number(dominantShare.toFixed(3))
+        } : null;
+
+        // Generate session ID
+        sessionId = buildSessionId();
+        document.getElementById('sessionId').textContent = sessionId;
+
+        // Send to server
+        document.getElementById('status').textContent = 'Analyzing fingerprint...';
+
+        const analysisResponse = await fetch(`${API_BASE}/api/test`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            session_id: sessionId,
+            sentinel_results: results,
+            diagnostics: collectDiagnostics(),
+            timestamp: new Date().toISOString()
+          })
+        });
+
+        const analysisContentType = analysisResponse.headers.get('content-type') || '';
+        let analysisPayload = null;
+        let responseText = '';
+
+        if (analysisResponse.status !== 204) {
+          if (analysisContentType.includes('application/json')) {
+            try {
+              analysisPayload = await analysisResponse.json();
+            } catch { }
+          } else {
+            try {
+              responseText = await analysisResponse.text();
+            } catch { }
+          }
+        }
+
+        if (!analysisResponse.ok) {
+          const message = analysisPayload && analysisPayload.error
+            ? analysisPayload.error
+            : responseText || `Analysis failed (HTTP ${analysisResponse.status})`;
+          throw new Error(message);
+        }
+
+        if (analysisResponse.status === 204) {
+          displayNoAnalysis('Server returned no analysis (204 No Content).');
+          document.getElementById('status').textContent = 'Complete (no analysis returned)';
+          btn.innerHTML = 'Run Test Again';
+          btn.disabled = false;
+          return;
+        }
+
+        const analysis = analysisPayload && analysisPayload.analysis ? analysisPayload.analysis : null;
+
+        if (analysis) {
+          // Display results
+          displayResults(analysis);
+
+          const hasWarnings = Boolean(
+            analysis.error ||
+            (Array.isArray(analysis.warnings) && analysis.warnings.length > 0)
+          );
+
+          document.getElementById('status').textContent = hasWarnings
+            ? 'Complete with warnings'
+            : 'Complete';
+        } else {
+          displayNoAnalysis('Server did not return analysis (response_mode=ack/none or analysis disabled).');
+          document.getElementById('status').textContent = 'Complete (analysis not returned by server)';
+        }
+        btn.innerHTML = 'Run Test Again';
+        btn.disabled = false;
+
+      } catch (error) {
+        console.error('Test failed:', error);
+        document.getElementById('status').textContent = `Error: ${error.message}`;
+        btn.innerHTML = 'Retry Test';
+        btn.disabled = false;
+      }
+    }
+
+    function buildSessionId() {
+      if (window.crypto && typeof crypto.randomUUID === 'function') {
+        return `fp_${crypto.randomUUID()}`;
+      }
+      return `fp_${Date.now()}_${Math.random().toString(36).slice(2, 9)}`;
+    }
+
+    function collectDiagnostics() {
+      const diagnostics = {
+        user_agent: navigator.userAgent,
+        canvas_blocked: Boolean(renderer && renderer.blocked),
+        spoofing_detected: Boolean(renderer && renderer.spoofing),
+        tofu_cluster: lastTofuCluster,
+        tofu_baseline_hashes: renderer && Array.isArray(renderer.baselineHashes) ? renderer.baselineHashes : []
+      };
+
+      if (navigator.userAgentData) {
+        diagnostics.user_agent_data = {
+          brands: navigator.userAgentData.brands,
+          mobile: navigator.userAgentData.mobile,
+          platform: navigator.userAgentData.platform
+        };
+      }
+
+      return diagnostics;
+    }
+
+    function createEmojiRenderer() {
+      const canvas = document.createElement('canvas');
+      const ctx = canvas.getContext('2d', { willReadFrequently: true });
+      canvas.width = CANVAS_SIZE;
+      canvas.height = CANVAS_SIZE;
+
+      if (!ctx) {
+        const err = new Error('Canvas 2D context unavailable');
+        return {
+          testEmoji: () => null,
+          measureEmoji: () => ({ hash: 0, nonZero: 0, error: err }),
+          isBaselineHash: () => true,
+          baselineHashes: [],
+          blocked: true,
+          spoofing: false
+        };
+      }
+
+      ctx.textBaseline = 'middle';
+      ctx.textAlign = 'center';
+      ctx.font = `${EMOJI_SIZE}px Arial, sans-serif`;
+      ctx.fillStyle = '#000';
+
+      function renderHash(char) {
+        try {
+          ctx.clearRect(0, 0, CANVAS_SIZE, CANVAS_SIZE);
+          ctx.fillText(char, CANVAS_SIZE / 2, CANVAS_SIZE / 2);
+          const imageData = ctx.getImageData(0, 0, CANVAS_SIZE, CANVAS_SIZE);
+          const data = imageData.data;
+
+          let hash = 2166136261;
+          let nonZero = 0;
+
+          for (let i = 0; i < data.length; i++) {
+            hash ^= data[i];
+            hash = Math.imul(hash, 16777619);
+            if ((i & 3) === 3 && data[i] !== 0) {
+              nonZero += 1;
+            }
+          }
+
+          return { hash: hash >>> 0, nonZero };
+        } catch (error) {
+          return { hash: 0, nonZero: 0, error };
+        }
+      }
+
+      // 1. Stability Check (Spoofing Detection)
+      // Render the same baseline character multiple times. 
+      // If the browser applies random noise protection, these hashes will differ.
+      let unstable = false;
+      const stabilityBase = '\uFFFF';
+      const initialRead = renderHash(stabilityBase);
+
+      if (initialRead.error) {
+        console.warn('Canvas Readback Blocked: baseline read failed.');
+        const err = new Error('Canvas readback blocked');
+        return {
+          testEmoji: () => null,
+          measureEmoji: () => ({ hash: 0, nonZero: 0, error: err }),
+          isBaselineHash: () => true,
+          baselineHashes: [],
+          blocked: true,
+          spoofing: false
+        };
+      }
+
+      for (let i = 0; i < 5; i++) {
+        const check = renderHash(stabilityBase);
+        if (check.error) {
+          console.warn('Canvas Readback Blocked: stability check failed.');
+          const err = new Error('Canvas readback blocked');
+          return {
+            testEmoji: () => null,
+            measureEmoji: () => ({ hash: 0, nonZero: 0, error: err }),
+            isBaselineHash: () => true,
+            baselineHashes: [],
+            blocked: true,
+            spoofing: false
+          };
+        }
+        if (check.hash !== initialRead.hash) {
+          unstable = true;
+          break;
+        }
+      }
+
+      if (unstable) {
+        console.warn('Canvas Spoofing Detected: Baseline is unstable (Random Noise).');
+        const err = new Error('Canvas spoofing detected');
+        return {
+          testEmoji: () => null,
+          measureEmoji: () => ({ hash: 0, nonZero: 0, error: err }),
+          isBaselineHash: () => true,
+          baselineHashes: [],
+          blocked: false,
+          spoofing: true
+        };
+      }
+
+      // 2. Build Tofu Baselines (Multiple Signals)
+      // We check multiple "should not exist" characters to be sure what Tofu looks like.
+      const baselines = new Set();
+      // \uFFFF (Non-character), \uFFFD (Replacement), \u200B (Zero Width - empty), Private Use
+      const emojiPlaneTofuA = String.fromCodePoint(0x1FAFF); // likely-unassigned emoji-plane codepoint
+      const emojiPlaneTofuB = String.fromCodePoint(0x1FAFE); // likely-unassigned emoji-plane codepoint
+      const baselineCandidates = [
+        '\uFFFF',
+        '\uFFFD',
+        '\uE000',
+        emojiPlaneTofuA,
+        emojiPlaneTofuA + '\uFE0F',
+        emojiPlaneTofuB,
+        emojiPlaneTofuB + '\uFE0F'
+      ];
+
+      for (const char of baselineCandidates) {
+        const result = renderHash(char);
+        if (!result.error && result.nonZero > 0) {
+          baselines.add(result.hash);
+        }
+      }
+
+      // If we couldn't get any non-zero read from known-bad chars, something is wrong (or invisible tofu).
+      // But usually \uFFFD renders a visible box/question mark.
+      const blocked = baselines.size === 0;
+
+      function isBaselineHash(hash) {
+        return baselines.has(hash);
+      }
+
+      function measureEmoji(char) {
+        if (blocked || unstable) return { hash: 0, nonZero: 0, error: new Error('Canvas unavailable') };
+        return renderHash(char);
+      }
+
+      function testEmoji(char) {
+        const result = measureEmoji(char);
+        if (result.error || result.nonZero === 0) return null;
+        return isBaselineHash(result.hash) ? false : true;
+      }
+
+      return {
+        testEmoji,
+        measureEmoji,
+        isBaselineHash,
+        baselineHashes: [...baselines],
+        blocked,
+        spoofing: unstable
+      };
+    }
+
+    function compareVersions(a, b) {
+      const partsA = String(a || '').split('.').map(Number);
+      const partsB = String(b || '').split('.').map(Number);
+      const length = Math.max(partsA.length, partsB.length);
+
+      for (let i = 0; i < length; i++) {
+        const valueA = partsA[i] || 0;
+        const valueB = partsB[i] || 0;
+        if (valueA > valueB) return 1;
+        if (valueA < valueB) return -1;
+      }
+
+      return 0;
+    }
+
+    function formatPercent(value, digits = 1) {
+      if (typeof value !== 'number' || Number.isNaN(value)) return '-';
+      return `${(value * 100).toFixed(digits)}%`;
+    }
+
+    function displayNoAnalysis(message) {
+      document.getElementById('results').classList.remove('hidden');
+
+      document.getElementById('unicodeVersion').textContent = '-';
+      document.getElementById('detectionMethod').textContent = '-';
+      document.getElementById('unicodeConfidence').textContent = '-';
+
+      const topMatchEl = document.getElementById('topMatch');
+      topMatchEl.innerHTML = `
+        <div class="top-match">
+          <div class="match-header">No analysis</div>
+          <div class="detail-item">
+            <div class="detail-label">Reason</div>
+            <div class="detail-value">${message}</div>
+          </div>
+        </div>
+      `;
+
+      document.getElementById('candidatesList').innerHTML = '';
+      document.getElementById('sentinelProfile').innerHTML = '';
+      document.getElementById('diagnostics').innerHTML = '';
+    }
+
+    function displayResults(analysis) {
+      document.getElementById('results').classList.remove('hidden');
+
+      // Unicode detection
+      const unicode = analysis.unicode_version || {};
+      document.getElementById('unicodeVersion').textContent = unicode.version || '-';
+      document.getElementById('detectionMethod').textContent = unicode.method
+        ? unicode.method.replace(/_/g, ' ')
+        : '-';
+      document.getElementById('unicodeConfidence').textContent =
+        typeof unicode.confidence === 'number' ? formatPercent(unicode.confidence, 0) : '-';
+
+      // Top match
+      const topMatch = analysis.top_match;
+      const topMatchEl = document.getElementById('topMatch');
+      if (!topMatch) {
+        topMatchEl.innerHTML = `
+          <div class="top-match">
+            <div class="match-header">No match</div>
+            <div class="detail-item">
+              <div class="detail-label">Reason</div>
+              <div class="detail-value">${analysis.error || 'No candidates available'}</div>
+            </div>
+          </div>
+        `;
+      } else {
+        const accuracy = typeof topMatch.signals?.emoji_profile_accuracy === 'number'
+          ? formatPercent(topMatch.signals.emoji_profile_accuracy, 1)
+          : '-';
+
+        topMatchEl.innerHTML = `
+          <div class="top-match">
+            <div class="match-header">${topMatch.vendor.replace(/_/g, ' ')} - ${topMatch.os_version}</div>
+            <div class="match-details">
+              <div class="detail-item">
+                <div class="detail-label">Probability</div>
+                <div class="detail-value">${formatPercent(topMatch.probability, 1)}</div>
+              </div>
+              <div class="detail-item">
+                <div class="detail-label">Score</div>
+                <div class="detail-value">${topMatch.score}</div>
+              </div>
+              <div class="detail-item">
+                <div class="detail-label">Max Emoji Version</div>
+                <div class="detail-value">${topMatch.max_emoji_version}</div>
+              </div>
+              <div class="detail-item">
+                <div class="detail-label">Emoji Accuracy</div>
+                <div class="detail-value">${accuracy}</div>
+              </div>
+            </div>
+          </div>
+        `;
+      }
+
+      // Candidates list
+      const candidatesList = document.getElementById('candidatesList');
+      const candidates = analysis.candidates || [];
+      candidatesList.innerHTML = candidates.length === 0
+        ? '<div class="candidate-item"><div class="candidate-info"><div class="candidate-name">No candidates</div></div></div>'
+        : candidates.map(c => `
+            <div class="candidate-item">
+              <div class="candidate-info">
+                <div class="candidate-name">${c.vendor.replace(/_/g, ' ')} ${c.os_version}</div>
+                <div class="candidate-meta">Emoji ${c.max_emoji_version} • Score: ${c.score}</div>
+              </div>
+              <div class="candidate-score">
+                <div class="probability">${formatPercent(c.probability, 1)}</div>
+              </div>
+            </div>
+          `).join('');
+
+      // Sentinel profile
+      const profileEl = document.getElementById('sentinelProfile');
+      const profile = analysis.emoji_profile?.versions || {};
+      const profileEntries = Object.entries(profile)
+        .sort((a, b) => compareVersions(b[0], a[0]));
+      profileEl.innerHTML = profileEntries.length === 0
+        ? '<div class="metric-card"><div class="metric-title">No profile</div><div class="metric-value">-</div></div>'
+        : profileEntries.map(([version, stats]) => {
+          const ratio = typeof stats.pass_ratio === 'number' ? formatPercent(stats.pass_ratio, 0) : '-';
+          const counts = stats.total > 0 ? `${stats.passed}/${stats.total}` : '-';
+          return `
+              <div class="metric-card">
+                <div class="metric-title">Unicode ${version}</div>
+                <div class="metric-value">${counts} (${ratio})</div>
+              </div>
+            `;
+        }).join('');
+
+      // Diagnostics
+      const diagnosticsEl = document.getElementById('diagnostics');
+      const diagnostics = analysis.diagnostics || {};
+      const diagnosticItems = [];
+
+      if (Array.isArray(analysis.warnings) && analysis.warnings.length > 0) {
+        diagnosticItems.push({
+          label: 'Warnings',
+          value: analysis.warnings.join(' • ')
+        });
+      }
+
+      if (typeof diagnostics.canvas_blocked === 'boolean') {
+        diagnosticItems.push({
+          label: 'Canvas Readback',
+          value: diagnostics.canvas_blocked ? 'Blocked' : 'OK'
+        });
+      }
+      if (typeof diagnostics.spoofing_detected === 'boolean' && diagnostics.spoofing_detected) {
+        diagnosticItems.push({
+          label: 'Anti-Fingerprinting',
+          value: '⚠️ Spoofing Detected'
+        });
+      }
+      if (diagnostics.tofu_cluster && diagnostics.tofu_cluster.suspected) {
+        const share = typeof diagnostics.tofu_cluster.share === 'number'
+          ? formatPercent(diagnostics.tofu_cluster.share, 0)
+          : '-';
+        diagnosticItems.push({
+          label: 'Tofu Cluster',
+          value: `⚠️ Dominant hash reused (${share})`
+        });
+      }
+      if (diagnostics.user_agent) {
+        diagnosticItems.push({ label: 'User Agent', value: diagnostics.user_agent });
+      }
+      if (diagnostics.user_agent_data) {
+        diagnosticItems.push({
+          label: 'UA-CH',
+          value: JSON.stringify(diagnostics.user_agent_data)
+        });
+      }
+
+      diagnosticsEl.innerHTML = diagnosticItems.length === 0
+        ? '<div class="metric-card"><div class="metric-title">No diagnostics</div><div class="metric-value">-</div></div>'
+        : diagnosticItems.map(item => `
+             <div class="metric-card">
+              <div class="metric-title">${item.label}</div>
+              <div class="metric-value">${item.value}</div>
+            </div>
+          `).join('');
+    }
+  </script>
+</body>
+
+</html>

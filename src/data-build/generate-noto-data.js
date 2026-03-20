@@ -1,0 +1,90 @@
+import path from "path";
+import { VENDOR_DATA_DIRECTORY, writeJsonFile } from "./shared.js";
+
+const NOTO_RELEASES = [
+  {
+    osVersion: "Noto_2015",
+    releaseDate: "2015-09-01",
+    maxEmojiVersion: "1.0",
+  },
+  {
+    osVersion: "Noto_2016",
+    releaseDate: "2016-12-01",
+    maxEmojiVersion: "3.0",
+  },
+  {
+    osVersion: "Noto_2017",
+    releaseDate: "2017-06-01",
+    maxEmojiVersion: "5.0",
+  },
+  {
+    osVersion: "Noto_2018",
+    releaseDate: "2018-06-01",
+    maxEmojiVersion: "11.0",
+  },
+  {
+    osVersion: "Noto_2019",
+    releaseDate: "2019-09-01",
+    maxEmojiVersion: "12.0",
+  },
+  {
+    osVersion: "Noto_2019_1",
+    releaseDate: "2019-12-01",
+    maxEmojiVersion: "12.1",
+  },
+  {
+    osVersion: "Noto_2020",
+    releaseDate: "2020-09-01",
+    maxEmojiVersion: "13.0",
+  },
+  {
+    osVersion: "Noto_2020_1",
+    releaseDate: "2020-12-01",
+    maxEmojiVersion: "13.1",
+  },
+  {
+    osVersion: "Noto_2021",
+    releaseDate: "2021-09-01",
+    maxEmojiVersion: "14.0",
+  },
+  {
+    osVersion: "Noto_2022",
+    releaseDate: "2022-09-13",
+    maxEmojiVersion: "15.0",
+  },
+  {
+    osVersion: "Noto_2023",
+    releaseDate: "2023-09-13",
+    maxEmojiVersion: "15.1",
+  },
+  {
+    osVersion: "Noto_2024",
+    releaseDate: "2024-09-10",
+    maxEmojiVersion: "16.0",
+  },
+  {
+    osVersion: "Noto_2025",
+    releaseDate: "2025-09-09",
+    maxEmojiVersion: "17.0",
+  },
+];
+
+export function buildNotoVendorData() {
+  return NOTO_RELEASES.map((releaseRecord) => ({
+    vendor: "google_noto",
+    osVersion: releaseRecord.osVersion,
+    releaseDate: releaseRecord.releaseDate,
+    maxEmojiVersion: releaseRecord.maxEmojiVersion,
+    emojiVersionsMentioned: [],
+    emojisFound: 0,
+    emojis: [],
+    sourceUrl: "https://github.com/googlefonts/noto-emoji",
+    isGenerated: true,
+  }));
+}
+
+export function main() {
+  const outputPath = path.join(VENDOR_DATA_DIRECTORY, "google_noto.json");
+  writeJsonFile(outputPath, buildNotoVendorData());
+  console.log(`google noto vendor data written to ${outputPath}`);
+}

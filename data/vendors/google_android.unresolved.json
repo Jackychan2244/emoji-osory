@@ -1,0 +1,38 @@
+{
+  "Android_8.0": {
+    "url": "https://emojipedia.org/google/android-8.0",
+    "new_url": "https://emojipedia.org/google/android-8.0/new",
+    "scraped_at": "2026-01-01T12:58:02.992Z",
+    "unresolved": [
+      {
+        "href_path": "/google/android-8.0/removed",
+        "slug": "removed",
+        "reason": "UNRESOLVED",
+        "text": "Removed",
+        "title": null,
+        "aria": null,
+        "imgAlt": null,
+        "dataSrc": null,
+        "bgImage": null
+      }
+    ]
+  },
+  "Android_12L": {
+    "url": "https://emojipedia.org/google/android-12l",
+    "new_url": "https://emojipedia.org/google/android-12l/new",
+    "scraped_at": "2026-01-01T12:59:01.404Z",
+    "unresolved": [
+      {
+        "href_path": "/google/android-12l/removed",
+        "slug": "removed",
+        "reason": "UNRESOLVED",
+        "text": "Removed",
+        "title": null,
+        "aria": null,
+        "imgAlt": null,
+        "dataSrc": null,
+        "bgImage": null
+      }
+    ]
+  }
+}
