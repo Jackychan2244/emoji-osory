@@ -15,6 +15,11 @@ GitHub Pages URL:
 
 `https://jackychan2244.github.io/emoji-osory/`
 
+The repository publishes with GitHub Pages from `main` and `/(root)`. The root
+`index.html` redirects to the tracked `dist/` bundle, and
+`.github/workflows/sync-public-demo.yml` rebuilds that bundle on each push to
+`main`.
+
 ## Quick start
 
 ```bash

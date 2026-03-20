@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Browser-first emoji fingerprinting demo built from Unicode sentinel support and vendor release data."
+    />
+    <title>emoji-osory</title>
+    <script type="module" crossorigin src="./assets/index-D-KJ2fPr.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-BagWLtA6.css">
+  </head>
+  <body>
+    <main class="layout">
+      <header class="page-header">
+        <h1>emoji-osory</h1>
+        <p class="page-description">
+          This demo measures sentinel glyph support in your browser, scores the
+          result against a committed runtime dataset, and returns a ranked
+          operating-system distribution without a backend.
+        </p>
+        <div class="actions">
+          <button id="runProbeButton" type="button">
+            Run fingerprint probe
+          </button>
+          <a href="../README.md">Read the docs</a>
+        </div>
+      </header>
+
+      <section class="meta-panel">
+        <dl class="metadata-list">
+          <div>
+            <dt>Runtime mode</dt>
+            <dd>Static bundle</dd>
+          </div>
+          <div>
+            <dt>Dataset scope</dt>
+            <dd id="datasetVersionsLabel">Loading</dd>
+          </div>
+          <div>
+            <dt>Candidate pool</dt>
+            <dd id="datasetCandidatesLabel">Loading</dd>
+          </div>
+        </dl>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Status</h2>
+          <p id="statusLine">Idle.</p>
+        </div>
+        <pre id="resultSummary" class="summary-box">
+No fingerprint has been collected yet.</pre
+        >
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Top matches</h2>
+          <p>
+            Highest-probability candidates ranked from the local analysis run.
+          </p>
+        </div>
+        <div id="topMatches" class="candidate-grid empty-state">
+          Run the probe to populate candidates.
+        </div>
+      </section>
+
+      <section class="split-panel">
+        <div class="panel">
+          <div class="panel-header">
+            <h2>Unicode profile</h2>
+            <p>Per-version sentinel pass and fail counts used by the scorer.</p>
+          </div>
+          <div id="unicodeProfile" class="table-shell empty-state">
+            Run the probe to populate the sentinel profile.
+          </div>
+        </div>
+        <div class="panel">
+          <div class="panel-header">
+            <h2>Diagnostics</h2>
+            <p>
+              Runtime signals collected in the browser during the measurement
+              pass.
+            </p>
+          </div>
+          <pre id="diagnosticsBox" class="diagnostics-box">
+No diagnostics available.</pre
+          >
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
