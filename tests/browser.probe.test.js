@@ -25,6 +25,7 @@ describe("browser probe", () => {
             return {
               hash: 0,
               nonZeroPixelCount: 0,
+              colorPixelCount: 0,
               error: new Error("blocked"),
             };
           },
@@ -56,6 +57,7 @@ describe("browser probe", () => {
             return {
               hash: 0,
               nonZeroPixelCount: 0,
+              colorPixelCount: 0,
               error: new Error("spoofing"),
             };
           },
@@ -92,6 +94,7 @@ describe("browser probe", () => {
               return {
                 hash: 99,
                 nonZeroPixelCount: 12,
+                colorPixelCount: 12,
               };
             }
 
@@ -99,12 +102,14 @@ describe("browser probe", () => {
               return {
                 hash: 10,
                 nonZeroPixelCount: 12,
+                colorPixelCount: 0,
               };
             }
 
             return {
               hash: 99,
               nonZeroPixelCount: 12,
+              colorPixelCount: 12,
             };
           },
           isBaselineHash(hashValue) {
@@ -149,6 +154,7 @@ describe("browser probe", () => {
             return {
               hash: 77,
               nonZeroPixelCount: 12,
+              colorPixelCount: 12,
             };
           },
           isBaselineHash(hashValue) {
@@ -174,5 +180,38 @@ describe("browser probe", () => {
         (sentinelId) => fingerprintInput.sentinelResults[sentinelId] === false,
       ),
     ).toBe(true);
+  });
+
+  it("treats monochrome fallback glyphs as unsupported", async () => {
+    const browserProbe = createBrowserProbe({
+      rendererFactory() {
+        return {
+          blocked: false,
+          spoofing: false,
+          baselineHashes: [10],
+          measureGlyph() {
+            return {
+              hash: 44,
+              nonZeroPixelCount: 24,
+              colorPixelCount: 0,
+            };
+          },
+          isBaselineHash(hashValue) {
+            return hashValue === 10;
+          },
+        };
+      },
+    });
+
+    const targetId = sentinelIds[0];
+    const fingerprintInput = await browserProbe.run({
+      ...runtimeDataset,
+      sentinels: {
+        [targetId]: runtimeDataset.sentinels[targetId],
+      },
+    });
+
+    expect(fingerprintInput.sentinelResults[targetId]).toBe(false);
+    expect(fingerprintInput.diagnostics.monochromeFallbackCount).toBe(1);
   });
 });

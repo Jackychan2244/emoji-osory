@@ -6,8 +6,11 @@
 2. Measure baseline missing-glyph hashes.
 3. Render each sentinel glyph from its committed codepoint sequence.
 4. Classify each sentinel as:
-   - `true` when the rendered hash differs from the missing-glyph baseline
-   - `false` when the rendered hash matches the missing-glyph baseline
+   - `true` when the rendered hash differs from the missing-glyph baseline and
+     the render behaves like an actual emoji glyph rather than a monochrome
+     fallback character
+   - `false` when the rendered hash matches the missing-glyph baseline or only
+     produces a monochrome fallback glyph
    - `null` when the browser blocks readback or produces no measurable pixels
 5. Detect a dominant tofu cluster among apparent `true` results.
 6. If the cluster satisfies the configured thresholds, flip clustered results to `false`.

@@ -8,98 +8,88 @@
       content="Browser-first emoji fingerprinting demo built from Unicode sentinel support and vendor release data."
     />
     <title>emoji-osory</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Mono:wght@400;500&display=swap"
-      rel="stylesheet"
-    />
     <link rel="stylesheet" href="./styles.css" />
     <script type="module" src="./main.js"></script>
   </head>
   <body>
-    <div class="page-shell">
-      <div class="backdrop backdrop-one"></div>
-      <div class="backdrop backdrop-two"></div>
-      <main class="layout">
-        <section class="hero">
-          <p class="eyebrow">Browser-first toolkit</p>
-          <h1>emoji-osory</h1>
-          <p class="lede">
-            This demo measures sentinel glyph support in your browser, scores
-            the result against a committed runtime dataset, and returns a ranked
-            operating-system distribution without a backend.
-          </p>
-          <div class="hero-actions">
-            <button id="runProbeButton" class="primary-action" type="button">
-              Run fingerprint probe
-            </button>
-            <a class="secondary-action" href="../README.md">Read the docs</a>
-          </div>
-          <dl class="hero-metadata">
-            <div>
-              <dt>Runtime mode</dt>
-              <dd>Static bundle</dd>
-            </div>
-            <div>
-              <dt>Dataset scope</dt>
-              <dd id="datasetVersionsLabel">Loading</dd>
-            </div>
-            <div>
-              <dt>Candidate pool</dt>
-              <dd id="datasetCandidatesLabel">Loading</dd>
-            </div>
-          </dl>
-        </section>
+    <main class="layout">
+      <header class="page-header">
+        <h1>emoji-osory</h1>
+        <p class="page-description">
+          This demo measures sentinel glyph support in your browser, scores the
+          result against a committed runtime dataset, and returns a ranked
+          operating-system distribution without a backend.
+        </p>
+        <div class="actions">
+          <button id="runProbeButton" type="button">
+            Run fingerprint probe
+          </button>
+          <a href="../README.md">Read the docs</a>
+        </div>
+      </header>
 
-        <section class="panel status-panel">
-          <div class="panel-header">
-            <h2>Status</h2>
-            <p id="statusLine">Idle.</p>
+      <section class="meta-panel">
+        <dl class="metadata-list">
+          <div>
+            <dt>Runtime mode</dt>
+            <dd>Static bundle</dd>
           </div>
-          <pre id="resultSummary" class="summary-box">
+          <div>
+            <dt>Dataset scope</dt>
+            <dd id="datasetVersionsLabel">Loading</dd>
+          </div>
+          <div>
+            <dt>Candidate pool</dt>
+            <dd id="datasetCandidatesLabel">Loading</dd>
+          </div>
+        </dl>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Status</h2>
+          <p id="statusLine">Idle.</p>
+        </div>
+        <pre id="resultSummary" class="summary-box">
 No fingerprint has been collected yet.</pre
-          >
-        </section>
+        >
+      </section>
 
-        <section class="panel">
+      <section class="panel">
+        <div class="panel-header">
+          <h2>Top matches</h2>
+          <p>
+            Highest-probability candidates ranked from the local analysis run.
+          </p>
+        </div>
+        <div id="topMatches" class="candidate-grid empty-state">
+          Run the probe to populate candidates.
+        </div>
+      </section>
+
+      <section class="split-panel">
+        <div class="panel">
           <div class="panel-header">
-            <h2>Top matches</h2>
+            <h2>Unicode profile</h2>
+            <p>Per-version sentinel pass and fail counts used by the scorer.</p>
+          </div>
+          <div id="unicodeProfile" class="table-shell empty-state">
+            Run the probe to populate the sentinel profile.
+          </div>
+        </div>
+        <div class="panel">
+          <div class="panel-header">
+            <h2>Diagnostics</h2>
             <p>
-              Highest-probability candidates ranked from the local analysis run.
+              Runtime signals collected in the browser during the measurement
+              pass.
             </p>
           </div>
-          <div id="topMatches" class="candidate-grid empty-state">
-            Run the probe to populate candidates.
-          </div>
-        </section>
-
-        <section class="panel split-panel">
-          <div>
-            <div class="panel-header">
-              <h2>Unicode profile</h2>
-              <p>
-                Per-version sentinel pass and fail counts used by the scorer.
-              </p>
-            </div>
-            <div id="unicodeProfile" class="table-shell empty-state">
-              Run the probe to populate the sentinel profile.
-            </div>
-          </div>
-          <div>
-            <div class="panel-header">
-              <h2>Diagnostics</h2>
-              <p>
-                Runtime signals collected in the browser during the measurement
-                pass.
-              </p>
-            </div>
-            <pre id="diagnosticsBox" class="diagnostics-box">
+          <pre id="diagnosticsBox" class="diagnostics-box">
 No diagnostics available.</pre
-            >
-          </div>
-        </section>
-      </main>
-    </div>
+          >
+        </div>
+      </section>
+    </main>
   </body>
 </html>

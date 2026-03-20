@@ -15,6 +15,7 @@ const datasetCandidatesLabel = document.getElementById(
 
 const browserProbe = createBrowserProbe({
   tofuClusterOptions: runtimeDataset.defaults?.browser?.tofuCluster,
+  supportDetectionOptions: runtimeDataset.defaults?.browser?.supportDetection,
 });
 
 function setDatasetMetadata() {
@@ -152,7 +153,7 @@ async function runProbe() {
 
     statusLine.textContent = analysisResult.error
       ? "The probe completed with a reliability warning."
-      : "The probe completed successfully.";
+      : "The probe has been completed.";
 
     renderSummary(analysisResult);
     renderCandidates(analysisResult);

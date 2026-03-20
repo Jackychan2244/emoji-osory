@@ -77,6 +77,11 @@ const BROWSER_DEFAULTS = {
     minDominantCount: 8,
     minShare: 0.25,
   },
+  supportDetection: {
+    requireColorEmoji: true,
+    minimumColorPixelCount: 8,
+    minimumColorShare: 0.03,
+  },
 };
 
 function isVendorFile(fileName) {

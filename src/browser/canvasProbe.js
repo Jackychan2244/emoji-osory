@@ -12,6 +12,12 @@ const DEFAULT_TOFU_CLUSTER_OPTIONS = {
   minDominantCount: 8,
   minShare: 0.25,
 };
+const DEFAULT_SUPPORT_DETECTION_OPTIONS = {
+  requireColorEmoji: true,
+  minimumColorPixelCount: 8,
+  minimumColorShare: 0.03,
+  minimumChannelSpread: 12,
+};
 
 function createUnavailableRenderer(
   reason,
@@ -25,6 +31,7 @@ function createUnavailableRenderer(
       return {
         hash: 0,
         nonZeroPixelCount: 0,
+        colorPixelCount: 0,
         error: new Error(reason),
       };
     },
@@ -66,7 +73,7 @@ function createCanvasRenderer({
   canvasElement.height = canvasSize;
   renderingContext.textBaseline = "middle";
   renderingContext.textAlign = "center";
-  renderingContext.font = `${emojiFontSize}px "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif`;
+  renderingContext.font = `${emojiFontSize}px "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji"`;
   renderingContext.fillStyle = "#101014";
 
   function renderHash(glyphValue) {
@@ -82,6 +89,7 @@ function createCanvasRenderer({
 
       let hashValue = 2166136261;
       let nonZeroPixelCount = 0;
+      let colorPixelCount = 0;
 
       for (let index = 0; index < pixelBuffer.length; index += 1) {
         hashValue ^= pixelBuffer[index];
@@ -90,16 +98,36 @@ function createCanvasRenderer({
         if ((index & 3) === 3 && pixelBuffer[index] !== 0) {
           nonZeroPixelCount += 1;
         }
+
+        if ((index & 3) === 0) {
+          const redValue = pixelBuffer[index];
+          const greenValue = pixelBuffer[index + 1];
+          const blueValue = pixelBuffer[index + 2];
+          const alphaValue = pixelBuffer[index + 3];
+          const channelSpread =
+            Math.max(redValue, greenValue, blueValue) -
+            Math.min(redValue, greenValue, blueValue);
+
+          if (
+            alphaValue !== 0 &&
+            channelSpread >=
+              DEFAULT_SUPPORT_DETECTION_OPTIONS.minimumChannelSpread
+          ) {
+            colorPixelCount += 1;
+          }
+        }
       }
 
       return {
         hash: hashValue >>> 0,
         nonZeroPixelCount,
+        colorPixelCount,
       };
     } catch (error) {
       return {
         hash: 0,
         nonZeroPixelCount: 0,
+        colorPixelCount: 0,
         error,
       };
     }
@@ -251,16 +279,40 @@ function computeTofuCluster(
   };
 }
 
+function isEmojiLikeMeasurement(measurement, supportDetectionOptions) {
+  if (!measurement || measurement.nonZeroPixelCount === 0) {
+    return false;
+  }
+
+  if (supportDetectionOptions.requireColorEmoji === false) {
+    return true;
+  }
+
+  const colorShare =
+    measurement.colorPixelCount / measurement.nonZeroPixelCount;
+
+  return (
+    measurement.colorPixelCount >=
+      supportDetectionOptions.minimumColorPixelCount &&
+    colorShare >= supportDetectionOptions.minimumColorShare
+  );
+}
+
 export function createBrowserProbe({
   navigatorObject = globalThis.navigator,
   rendererFactory,
   tofuClusterOptions = {},
+  supportDetectionOptions = {},
   canvasSize,
   emojiFontSize,
 } = {}) {
   const resolvedTofuClusterOptions = {
     ...DEFAULT_TOFU_CLUSTER_OPTIONS,
     ...(tofuClusterOptions || {}),
+  };
+  const resolvedSupportDetectionOptions = {
+    ...DEFAULT_SUPPORT_DETECTION_OPTIONS,
+    ...(supportDetectionOptions || {}),
   };
 
   function createRenderer() {
@@ -278,6 +330,7 @@ export function createBrowserProbe({
     const renderer = createRenderer();
     const sentinelResults = {};
     const measurementMap = {};
+    const monochromeFallbackSentinelIds = [];
     const runtimeSentinels = runtimeDataset.sentinels || {};
 
     for (const [sentinelIdentifier, sentinelRecord] of Object.entries(
@@ -292,11 +345,20 @@ export function createBrowserProbe({
         continue;
       }
 
-      sentinelResults[sentinelIdentifier] = renderer.isBaselineHash(
-        measurement.hash,
-      )
-        ? false
-        : true;
+      if (renderer.isBaselineHash(measurement.hash)) {
+        sentinelResults[sentinelIdentifier] = false;
+        continue;
+      }
+
+      if (
+        !isEmojiLikeMeasurement(measurement, resolvedSupportDetectionOptions)
+      ) {
+        sentinelResults[sentinelIdentifier] = false;
+        monochromeFallbackSentinelIds.push(sentinelIdentifier);
+        continue;
+      }
+
+      sentinelResults[sentinelIdentifier] = true;
     }
 
     const tofuCluster = resolvedTofuClusterOptions.enabled
@@ -329,6 +391,7 @@ export function createBrowserProbe({
         tofuBaselineHashes: Array.isArray(renderer.baselineHashes)
           ? renderer.baselineHashes
           : [],
+        monochromeFallbackCount: monochromeFallbackSentinelIds.length,
         userAgentData,
       },
       measurements: Object.fromEntries(
@@ -341,6 +404,10 @@ export function createBrowserProbe({
               nonZeroPixelCount:
                 typeof measurement.nonZeroPixelCount === "number"
                   ? measurement.nonZeroPixelCount
+                  : 0,
+              colorPixelCount:
+                typeof measurement.colorPixelCount === "number"
+                  ? measurement.colorPixelCount
                   : 0,
               error: measurement.error ? measurement.error.message : null,
             },
