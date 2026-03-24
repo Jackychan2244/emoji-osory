@@ -2,7 +2,29 @@
 
 `emoji-osory` is a browser-first emoji fingerprinting toolkit. It measures which sentinel glyphs your browser can render, scores the result against a committed vendor dataset, and produces a ranked operating-system distribution without requiring a backend.
 
-The public package exposes a browser-safe analysis core and a browser probe. The demo is a static Vite bundle intended for GitHub Pages.
+- [Live Demo](https://jackychan2244.github.io/emoji-osory/)
+- [Architecture](docs/architecture.md)
+- [Browser Model](docs/browser-model.md)
+- [Data Pipeline](docs/data-pipeline.md)
+
+## Contents
+
+- [What it does](#what-it-does)
+- [How it works](#how-it-works)
+- [Quick start](#quick-start)
+- [Usage](#usage)
+- [Repository layout](#repository-layout)
+- [Data pipeline](#data-pipeline)
+- [The scoring engine](#the-scoring-engine)
+- [File-by-file map](#file-by-file-map)
+- [Caveats](#caveats)
+- [Known issues](#known-issues)
+- [Development](#development)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
+The public package exposes a browser-safe analysis core and a browser probe. 
 
 ## In-Depth
 
